@@ -7,6 +7,10 @@ This class will start with running models in the browser using high-level APIs f
 
 At the completion of this course, students will have a better understanding of a few machine learning models, how do they work, how to train these models, and their use case to creative projects. Students will also be able to create interactive ML web applications with pre-trained models or their own models.
 
+## Info
+Yining Shi, Tuesdays, 6:30pm-9:00pm, Room 20
+[All class dates](http://help.itp.nyu.edu/curriculum/registration/fall-2018-reg-info/fall-2018-class-dates-term-deadlines)
+
 ## Syllabus
 ### Week 1 Introduction to Machine Learning
 
