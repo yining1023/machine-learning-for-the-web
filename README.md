@@ -18,15 +18,16 @@ At the completion of this course, students will have a better understanding of a
 #### Presentation:
 - What’s Artificial Intelligence, Machine Learning, Deep learning?
 - Supervised Learning, Unsupervised Learning, Reinforcement Learning
-- Neural Networks, Multi-layer perceptrons
 - Machine Learning output types: Regression, Classification, Clustering, Sequence prediction
 - Existing Machine Learning use cases and creative projects
 - Machine Learning tools / libraries: Tensorflow, Keras
-- Introduction to ml5.js, examples, experiments, datasets
+- Introduction to ml5.js, tf.js, examples, experiments, datasets
 
 #### Coding session:
 - Install ml5.js
 - Running Image Classification example with ml5.js
+- Install tf.js
+- Running examples with tf.js
 
 #### Homework: 
 - Watch videos of ml5.js
@@ -88,46 +89,18 @@ Showing the homework from last week
 Build something with pix2pix model
 Try preparing data and train a new model (group project for 2 weeks) 
 
-### Week 5 Tensorflow.js Introduction
-
+### Week 5 PostNet
 #### Review:
 - Showing the homework from last week, discuss any difficulties especially when training new models
 
-#### Presentation:
-- Introduction to Tensorflow.js
-- What is tensor, variable,  operations
-- What is models, layers
-- Two ways of construction models in tensorflow.js: 
-- Using operations, or using high-level API tf.model
-
 #### Coding session:
-- Install Tensorflow.js
-- Use Operations to build a simple model in tensorflow.js
-- high-level API tf.model to build a model in tensorflow.js
+- Posenet in ml5.js
+- KNN + Posenet
 
 #### Homework:
-- Build a model in tensorflow.js to predict or classify something
 - Working on the last assignment: pick any model we have learned so far, and create an visual/interactive project out of it. You can use pre-trained model, or build your own model.
 
-### Week 6 Building Models in TensorFlow.js
-
-Build your own Convolutional Neural Network to Recognize Doodles data with Tensorflow.js
-
-#### Review: 
-- Showing the homework from last week
-
-#### Presentation:
-- What is Convolutional image classifier model, how does it work
-- How to add layers to the model
-- The quickdraw dataset and the MNIST database
-- How to train the model
-
-#### Coding Session:
-- Demo Doodle classifier in tensorflow.js
-- Build it from the beginner
-
-#### Homework:
-Working on the last assignment: pick any model we have learned so far, and create an visual/interactive project out of it. You can use pre-trained model, or build your own model.
+### Week 6 Final assignment workshop
 
 ### Week 7
 
