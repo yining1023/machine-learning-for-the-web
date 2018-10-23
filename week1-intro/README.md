@@ -23,3 +23,4 @@
 - ml5.js [examples](https://github.com/ml5js/ml5-examples)
 - tf.js [examples](https://github.com/tensorflow/tfjs-examples)
 - [How to host p5 sketch on github pages](https://youtu.be/8HPYsDTk17A)
+- [Google AI experiments](https://experiments.withgoogle.com/collection/ai)
