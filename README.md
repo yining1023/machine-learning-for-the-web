@@ -15,7 +15,7 @@ At the completion of this course, students will have a better understanding of a
 ## Syllabus
 ### Week 1 Introduction to Machine Learning
 
-* [Presentation](https://github.com/yining1023/machine-learning-for-the-web/week1-intro): Introduction to Machine Learning
+* [Presentation](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week1-intro): Introduction to Machine Learning
 
 * Coding session:
   * Installing ml5.js
@@ -23,7 +23,7 @@ At the completion of this course, students will have a better understanding of a
   * Installing tf.js
   * Running examples with tf.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/week1-intro)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week1-intro)
 
 ### Week 2 Image Classification
 
