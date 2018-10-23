@@ -15,24 +15,15 @@ At the completion of this course, students will have a better understanding of a
 ## Syllabus
 ### Week 1 Introduction to Machine Learning
 
-#### Presentation:
-- What’s Artificial Intelligence, Machine Learning, Deep learning?
-- Supervised Learning, Unsupervised Learning, Reinforcement Learning
-- Machine Learning output types: Regression, Classification, Clustering, Sequence prediction
-- Existing Machine Learning use cases and creative projects
-- Machine Learning tools / libraries: Tensorflow, Keras
-- Introduction to ml5.js, tf.js, examples, experiments, datasets
+* [Presentation](https://github.com/yining1023/machine-learning-for-the-web/week1-intro): Introduction to Machine Learning
 
-#### Coding session:
-- Install ml5.js
-- Running Image Classification example with ml5.js
-- Install tf.js
-- Running examples with tf.js
+* Coding session:
+  * Installing ml5.js
+  * Running Image Classification example with ml5.js
+  * Installing tf.js
+  * Running examples with tf.js
 
-#### Homework: 
-- Watch videos of ml5.js
-- Make something with Image Classification example
-- Ideation of any creative ML projects you would like to build
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/week1-intro)
 
 ### Week 2 Image Classification
 
