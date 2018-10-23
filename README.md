@@ -9,6 +9,7 @@ At the completion of this course, students will have a better understanding of a
 
 ## Info
 - Yining Shi, Tuesdays, 6:30pm-9:00pm, Room 20
+- [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
 - [All class dates](http://help.itp.nyu.edu/curriculum/registration/fall-2018-reg-info/fall-2018-class-dates-term-deadlines)
 
 ## Syllabus
@@ -132,9 +133,17 @@ Working on the last assignment: pick any model we have learned so far, and creat
 
 Final Presentation
 
-## Grading
+## Resources
+- [ml5js](https://ml5js.org/)
+- [TensorFlow.js](https://js.tensorflow.org/)
+- [Coding Train on ml5js](https://www.youtube.com/watch?v=jmznx0Q1fP0)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [fast.ai](http://www.fast.ai/)
+- [Spell.run](http://spell.run)
 
-Grades will be determined based on the following breakdown:
-- 30% Attendance and Participation
-- 30% Weekly Exercises
-- 40% Last Assignment
+## Requirements
+- You are required to attend all class meetings and submit all weekly assignments.
+- Grading (pass/fail) will be based on a combination of factors:
+  * Attendance, participation in class discussion, and engagement in other students' projects (25%)
+  * Quality of weekly assignments (50%)
+  * Last Assignment (25%)
