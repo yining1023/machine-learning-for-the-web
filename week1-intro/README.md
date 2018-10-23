@@ -16,9 +16,10 @@
 
 ## Homework: 
 - Watch videos of ml5.js: [A Beginner's Guide to Machine Learning with ml5.js](https://youtu.be/jmznx0Q1fP0)
-- Try any of the ml5js examples or tfjs examples, make something based on any of these examples, publish it on.
+- Try any of the ml5js [examples](https://github.com/ml5js/ml5-examples) or tfjs [examples](https://github.com/tensorflow/tfjs-examples), make something based on any of these examples, publish it on your blog / github.
 - Ideation of any creative ML projects you would like to build
 
 ## Resources:
 - ml5.js [examples](https://github.com/ml5js/ml5-examples)
 - tf.js [examples](https://github.com/tensorflow/tfjs-examples)
+- [How to host p5 sketch on github pages](https://youtu.be/8HPYsDTk17A)
