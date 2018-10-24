@@ -16,7 +16,7 @@
 
 ## Homework: 
 - Watch videos of ml5.js: [A Beginner's Guide to Machine Learning with ml5.js](https://youtu.be/jmznx0Q1fP0)
-- Pick a project on (Google AI experiments)[https://experiments.withgoogle.com/collection/ai] or any other projects you know, play with it, and think about what are other ways to be creative. Think about what creative ML projects you would like to build.
+- Pick a project on [Google AI experiments](https://experiments.withgoogle.com/collection/ai) or any other projects you know, play with it, and think about what are other ways to be creative. Think about what creative ML projects you would like to build.
 - Try any of the ml5js [examples](https://github.com/ml5js/ml5-examples) or tfjs [examples](https://github.com/tensorflow/tfjs-examples), make something based on any of these examples, publish it on your blog / github.
 
 ## Resources:
