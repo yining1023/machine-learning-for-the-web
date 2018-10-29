@@ -15,7 +15,8 @@
 - Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting_started)
 
 ## Homework: 
-- Watch videos of ml5.js: [A Beginner's Guide to Machine Learning with ml5.js](https://youtu.be/jmznx0Q1fP0)
+- Watch videos of ml5.js: [A Beginner's Guide to Machine Learning with ml5.js](https://youtu.be/jmznx0Q1fP0), [introduction to tf.js 6.1 - 6.5](https://youtu.be/Qt3ZABW5lD0)
+- Reading: [Core Concept of TensorFlow.js](https://js.tensorflow.org/tutorials/core-concepts.html)
 - Pick a project on [Google AI experiments](https://experiments.withgoogle.com/collection/ai) or any other projects you know, play with it, and think about what are other ways to be creative. Think about what creative ML projects you would like to build.
 - Try any of the ml5js [examples](https://github.com/ml5js/ml5-examples) or tfjs [examples](https://github.com/tensorflow/tfjs-examples), make something based on any of these examples, publish it on your blog / github.
 
