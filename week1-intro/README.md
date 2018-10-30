@@ -12,7 +12,7 @@
 - Install ml5.js, [get started](https://ml5js.org/docs/getting-started)
 - Running [Image Classification](https://ml5js.org/docs/image-classification-example) example with ml5.js
 - Install tf.js, [get started](https://js.tensorflow.org/#getting-started)
-- Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting_started)
+- Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting-started)
 
 ## Homework: 
 - Watch videos of ml5.js: [A Beginner's Guide to Machine Learning with ml5.js](https://youtu.be/jmznx0Q1fP0), [introduction to tf.js 6.1 - 6.5](https://youtu.be/Qt3ZABW5lD0)
