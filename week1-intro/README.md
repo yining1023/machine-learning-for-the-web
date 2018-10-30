@@ -25,6 +25,7 @@
 - tf.js [examples](https://github.com/tensorflow/tfjs-examples)
 - [How to host p5 sketch on github pages](https://youtu.be/8HPYsDTk17A)
 - [Google AI experiments](https://experiments.withgoogle.com/collection/ai)
+- [ml5 image classifier webcam](https://editor.p5js.org/ml5/full/rJ-C5AQ5X) (also works on the mobile phone)
 
 ## Inspirations about image classifier
 - [Emojis Cavenger Hunt](https://emojiscavengerhunt.withgoogle.com/)
