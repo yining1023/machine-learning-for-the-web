@@ -25,3 +25,9 @@
 - tf.js [examples](https://github.com/tensorflow/tfjs-examples)
 - [How to host p5 sketch on github pages](https://youtu.be/8HPYsDTk17A)
 - [Google AI experiments](https://experiments.withgoogle.com/collection/ai)
+
+## Inspirations about image classifier
+- [Emojis Cavenger Hunt](https://emojiscavengerhunt.withgoogle.com/)
+- [Thing Translator](https://experiments.withgoogle.com/ai/thing-translator)
+- [Giorgio Cam](https://experiments.withgoogle.com/ai/giorgio-cam)
+- [Safty glasses on, shop machine running](https://youtu.be/3a825NJMLjk?t=131)
