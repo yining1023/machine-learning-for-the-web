@@ -30,10 +30,10 @@ At the completion of this course, students will have a better understanding of a
 * [Presentation](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet)
 
 * Coding session:
-- Make a KNN Image Classifier
-- Regression with feature extractor
-- Posnet
-- poseNet + KNN Image Classifier
+  * Make a KNN Image Classifier
+  * Regression with feature extractor
+  * Posnet
+  * poseNet + KNN Image Classifier
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
