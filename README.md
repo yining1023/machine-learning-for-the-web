@@ -76,13 +76,13 @@ Showing the homework from last week
 Build something with pix2pix model
 Try preparing data and train a new model (group project for 2 weeks) 
 
-### Week 5 PostNet
+### Week 5 Sound Classifier, Sketch RNN
 #### Review:
 - Showing the homework from last week, discuss any difficulties especially when training new models
 
 #### Coding session:
-- Posenet in ml5.js
-- KNN + Posenet
+- Sound Classifier in ml5.js
+- Sketch RNN
 
 #### Homework:
 - Working on the last assignment: pick any model we have learned so far, and create an visual/interactive project out of it. You can use pre-trained model, or build your own model.
