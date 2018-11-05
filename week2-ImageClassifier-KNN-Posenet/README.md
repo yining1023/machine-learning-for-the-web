@@ -33,6 +33,7 @@
 - [Pong ML Game](https://github.com/matamalaortiz/Pong-ML)
 - [Play Pong with your webcam from ml4a](https://ml4a.github.io/demos/tfjs/regression-pong.html)
 - [Moving morrir](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
+- [Sidewalk Orchestra](https://github.com/cvalenzuela/sidewalk_orchestra)
 - [Making music by posing melody shapes to my webcam](https://t.co/RN9qQTDkti)
 - [Make music with Posenet from ml4a](https://ml4a.github.io/demos/tfjs/posenet-music.html)
 
