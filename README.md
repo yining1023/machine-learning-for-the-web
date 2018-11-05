@@ -25,21 +25,17 @@ At the completion of this course, students will have a better understanding of a
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week1-intro)
 
-### Week 2 Image Classification
+### Week 2 KNN Image Classification, PoseNet
 
-#### Presentation:
-- How does machine recognize an object on an image
-- What is a Convolutional Neural Network
-- What is MobileNet, SqueezeNet, how do they work
-- What is KNN, Transfer Learning, feature extractor
-- Existing projects about webcam transfer learning: Teachable Machine, Pacman, Pong game
+* [Presentation](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet)
 
-#### Coding session:
-Make a KNN Image Classifier
+* Coding session:
+- Make a KNN Image Classifier
+- Regression with feature extractor
+- Posnet
+- poseNet + KNN Image Classifier
 
-#### Homework: 
-Add new outputs to the KNN Image Classifier example, mix it with videos, games, or physical computing
-Read tutorials
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
 ### Week 3 Image Transformation (Part 1)
 
