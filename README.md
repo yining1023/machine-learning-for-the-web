@@ -49,7 +49,7 @@ Showing the homework from last week, discuss any difficulties and other creative
 
 #### Coding session:
 - Running style transfer in ml5.js
-- Setup Paperspace training environment
+- Setup Spell.run training environment
 - Training a new style transfer model
 
 #### Homework: 
@@ -68,7 +68,7 @@ Showing the homework from last week
 
 #### Coding session:
 - Running pix2pix with ml5.js
-- Setup Paperspace training environment
+- Setup Spell.run training environment
 - Prepare dataset for pix2pix
 - Training a new pix2pix model
 
