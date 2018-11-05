@@ -8,7 +8,7 @@
 - Logits Activation from MobileNet
 - What is KNN
 - Existing projects about webcam transfer learning
-- What is poseNet, how does it work?
+- What is poseNet
 - Existing projects related to poseNet
 
 ## Coding session:
