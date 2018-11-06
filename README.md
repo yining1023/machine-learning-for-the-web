@@ -12,10 +12,26 @@ At the completion of this course, students will have a better understanding of a
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
 - [All class dates](http://help.itp.nyu.edu/curriculum/registration/fall-2018-reg-info/fall-2018-class-dates-term-deadlines)
 
+## Get started
+To run each examples, open your terminal, type in the following commands:
+```
+$ git clone https://github.com/yining1023/machine-learning-for-the-web.git
+$ cd machine-learning-for-the-web
+$ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
+```
+Go to `localhost:8000` in your browser, you will see a directory list like this:
+- week1-intro/
+- week2-knnClassifier/
+- week3-styleTransfer/
+- week4-pix2pix/
+- week5-soundClassifier/
+- week6-workshop/
+Click into each week, you will see the example for each week.
+
 ## Syllabus
 ### Week 1 Introduction to Machine Learning
 
-* [Presentation](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week1-intro): Introduction to Machine Learning
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week1-intro): Introduction to Machine Learning
 
 * Coding session:
   * Installing ml5.js
@@ -27,7 +43,7 @@ At the completion of this course, students will have a better understanding of a
 
 ### Week 2 KNN Image Classification, PoseNet
 
-* [Presentation](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet)
 
 * Coding session:
   * Make a KNN Image Classifier
