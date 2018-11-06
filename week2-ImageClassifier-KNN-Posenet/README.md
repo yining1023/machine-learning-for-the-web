@@ -17,6 +17,11 @@
 - Posnet
 - poseNet + KNN Image Classifier
 
+## See demos live
+- [KNN Image Classifier](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_Video/)
+- [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/FeatureExtractor_Image_Regression/)
+- [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet/)
+
 ## Homework:
 - Reading: 
   - [How to build a Teachable Machine with TensorFlow.js](https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
