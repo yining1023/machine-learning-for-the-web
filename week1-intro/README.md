@@ -14,6 +14,10 @@
 - Install tf.js, [get started](https://js.tensorflow.org/#getting-started)
 - Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting-started)
 
+## See demos live
+- [Image classifier on an image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification/)
+- [Image classifier with webcam](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_Video/)
+
 ## Homework: 
 - Watch videos of ml5.js: [A Beginner's Guide to Machine Learning with ml5.js](https://youtu.be/jmznx0Q1fP0), [introduction to tf.js 6.1 - 6.5](https://youtu.be/Qt3ZABW5lD0)
 - Reading: [Core Concept of TensorFlow.js](https://js.tensorflow.org/tutorials/core-concepts.html)
