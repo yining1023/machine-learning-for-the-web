@@ -39,7 +39,7 @@ Click into each week, you will see the example for each week.
   * Installing tf.js
   * Running examples with tf.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week1-intro)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1)
 
 ### Week 2 KNN Image Classification, PoseNet
 
