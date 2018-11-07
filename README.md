@@ -26,6 +26,7 @@ Go to `localhost:8000` in your browser, you will see a directory list like this:
 - week4-pix2pix/
 - week5-soundClassifier/
 - week6-workshop/
+
 Click into each week, you will see the example for each week.
 
 ## Syllabus
