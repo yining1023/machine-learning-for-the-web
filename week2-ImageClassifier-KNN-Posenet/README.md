@@ -23,14 +23,7 @@
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet/)
 - [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet_KNNClassification)
 
-## Homework:
-- Reading: 
-  - [How to build a Teachable Machine with TensorFlow.js](https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
-  - [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5])
-
-- Coding: 
-  - Add new outputs to the KNN Image Classifier example, mix it with videos, games, or physical computing
-  - Or build somthing based on poseNet example.
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
 ## Inspirations about KNN image classifier and PoseNet:
 - [Teachable machine](https://teachablemachine.withgoogle.com/)
@@ -44,6 +37,7 @@
 - [Make music with Posenet from ml4a](https://ml4a.github.io/demos/tfjs/posenet-music.html)
 
 ## Resource:
-- [Teachable Machine in ml5.js](https://ml5js.org/demos/teachableMachine/)
+- [KNN image classifier in ml5.js](https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet)
+- [PoseNet in ml5.js](https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet)
 - [Brick breaker game in p5.js](https://youtu.be/5kEPixL8JoU)
 - [Snack game in p5.js](https://youtu.be/OMoVcohRgZA)
