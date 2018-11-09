@@ -94,7 +94,7 @@ function createButtons() {
   });
 
   // Reset buttons
-  resetBtnA = select('#resetB');
+  resetBtnA = select('#resetA');
   resetBtnA.mousePressed(function() {
     clearClass('A');
   });
