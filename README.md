@@ -60,9 +60,9 @@ Click into each week, you will see the example for each week.
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-styleTransfer)
 
 * Coding session:
- - Setup Spell.run training environment
- - Training a new Style Transfer model
- - Running Style Transfer model in ml5.js
+  * Setup Spell.run training environment
+  * Training a new Style Transfer model
+  * Running Style Transfer model in ml5.js
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
 
