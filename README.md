@@ -56,22 +56,15 @@ Click into each week, you will see the example for each week.
 
 ### Week 3 Image Transformation (Part 1)
 
-#### Review: 
-Showing the homework from last week, discuss any difficulties and other creative outputs
+* Review: Showing the homework from last week, discuss any difficulties and other creative outputs
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-styleTransfer)
 
-#### Presentation:
-- Transformation: taking an image and generate a new image 
-- Style Transfer models: fast style transfer, deep photo styletransfer
-- How does fast style transfer model work
+* Coding session:
+ - Setup Spell.run training environment
+ - Training a new style transfer model
+ - Running style transfer model in ml5.js
 
-#### Coding session:
-- Running style transfer in ml5.js
-- Setup Spell.run training environment
-- Training a new style transfer model
-
-#### Homework: 
-Build something with style transfer model or pix2pix model
-Train a new style transfer model
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
 
 ### Week 4 Image Transformation (Part 2)
 
