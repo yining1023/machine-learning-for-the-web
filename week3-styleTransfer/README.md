@@ -23,3 +23,6 @@
 - [Introduction to Spell (for Machine Learning in the Cloud)](https://youtu.be/ggBOAPtFjYU)
 - [Training a model with on Spell](https://youtu.be/STHRNIJc-vI)
 - [Text Generation with LSTM and Spell](https://youtu.be/xfuVcfwtEyw)
+- [Training LSTM from ml5.js](https://github.com/ml5js/training-lstm)
+- [What is word2vec](https://youtu.be/LSS_bos_TPI?list=PLRqwX-V7Uu6aQ0oh9nH8c6U1j9gCg-GdF)
+- [Training word2vec](https://github.com/ml5js/training-word2vec)
