@@ -42,7 +42,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1)
 
-### Week 2 KNN Image Classification, PoseNet
+### Week 2 Image Classification (KNN classifier, PoseNet)
 
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet)
 
@@ -61,8 +61,8 @@ Click into each week, you will see the example for each week.
 
 * Coding session:
  - Setup Spell.run training environment
- - Training a new style transfer model
- - Running style transfer model in ml5.js
+ - Training a new Style Transfer model
+ - Running Style Transfer model in ml5.js
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
 
