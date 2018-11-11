@@ -1,0 +1,3 @@
+- Transformation: taking an image and generate a new image 
+- Style Transfer models: fast style transfer, deep photo styletransfer
+- How does fast style transfer model work
