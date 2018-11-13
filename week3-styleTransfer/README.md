@@ -20,8 +20,9 @@
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
 
 ## Resource:
+- [Training a style transfer model with on Spell, github](https://github.com/yining1023/styleTransfer_spell)
 - [Introduction to Spell (for Machine Learning in the Cloud)](https://youtu.be/ggBOAPtFjYU)
-- [Training a model with on Spell](https://youtu.be/STHRNIJc-vI)
+- [Training a style transfer model with on Spell, video](https://youtu.be/STHRNIJc-vI)
 - [Text Generation with LSTM and Spell](https://youtu.be/xfuVcfwtEyw)
 - [Training LSTM from ml5.js](https://github.com/ml5js/training-lstm)
 - [What is word2vec](https://youtu.be/LSS_bos_TPI?list=PLRqwX-V7Uu6aQ0oh9nH8c6U1j9gCg-GdF)
