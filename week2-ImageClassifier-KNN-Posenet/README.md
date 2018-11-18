@@ -26,6 +26,7 @@
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
 ## Inspirations about KNN image classifier and PoseNet:
+- [Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f), [live demo](https://shekit.github.io/alexa-sign-language-translator/)
 - [Teachable machine](https://teachablemachine.withgoogle.com/)
 - [Objectifier Spatial Programming](https://experiments.withgoogle.com/ai/objectifier-spatial-programming)
 - [Pacman with tf.js](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
