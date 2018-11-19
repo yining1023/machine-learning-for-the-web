@@ -54,7 +54,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
-### Week 3 Image Transformation (Part 1)
+### Week 3 Image Transformation (Part 1) Style transfer
 
 * Review: Showing the homework from last week, discuss any difficulties and other creative outputs
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-styleTransfer)
@@ -66,38 +66,34 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
 
-### Week 4 Image Transformation (Part 2)
+### Week 4 Image Transformation (Part 2) pix2pix
 
-#### Review: 
-Showing the homework from last week
+* Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-pix2pix)
 
-#### Presentation:
-- Pix2pix model, demo
-- How does pix2pix work
-- Applications using pix2pix
+* Coding session:
+  - Running pix2pix with ml5.js
+  - Setup Spell.run training environment
+  - Prepare dataset for pix2pix
+  - Training a new pix2pix model
 
-#### Coding session:
-- Running pix2pix with ml5.js
-- Setup Spell.run training environment
-- Prepare dataset for pix2pix
-- Training a new pix2pix model
+* Homework: Work on the final assignment proposal and the first experiment on your idea
 
-#### Homework: 
-Build something with pix2pix model
-Try preparing data and train a new model (group project for 2 weeks) 
+### Week 5 Final assignment proposal and guest lecture
+* Review: Present your final assignment proposal and the experiments you did so far
 
-### Week 5 Sound Classifier, Sketch RNN
-#### Review:
-- Showing the homework from last week, discuss any difficulties especially when training new models
+* Guest speaker: Runwayml
+
+### Week 6 Speech command Classifier, Sketch RNN
+
+* Review: Showing your final assignment progress from last week
 
 #### Coding session:
-- Sound Classifier in ml5.js
+- Speech command classifier
 - Sketch RNN
 
 #### Homework:
-- Working on the last assignment: pick any model we have learned so far, and create an visual/interactive project out of it. You can use pre-trained model, or build your own model.
-
-### Week 6 Final assignment workshop
+- Work on the final assignment, prepare the presentation
 
 ### Week 7
 
