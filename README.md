@@ -77,7 +77,7 @@ Click into each week, you will see the example for each week.
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
 
-* Homework: Work on the final assignment proposal and the first experiment on your idea
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/week-4)
 
 ### Week 5 Final assignment proposal and guest lecture
 * Review: Present your final assignment proposal and the experiments you did so far
