@@ -4,3 +4,4 @@ Here are more examples for ml5.js:
 - Webcam Scavenger Hunt Game using MobileNet, p5.js, p5.speech, [demo](https://yining1023.github.io/machine-learning-for-the-web/week5-moreExamples/ImageClassification_VideoScavengerHunt/).
 - Using Posenet to play / pause music, [demo](https://yining1023.github.io/machine-learning-for-the-web/week5-moreExamples/PoseNet_VideoMusic/)
 - Using KNN Image Classifier to move a square up/down, left/right on the canvas, [demo](https://yining1023.github.io/machine-learning-for-the-web/week5-moreExamples/KNNClassification_VideoSquare/)
+- KNN Classification on Webcam Images with Speech Output, [demo](https://yining1023.github.io/machine-learning-for-the-web/week5-moreExamples/KNNClassification_VideoSound/)
