@@ -30,7 +30,7 @@ Go to `localhost:8000` in your browser, you will see a directory list like this:
 Click into each week, you will see the example for each week.
 
 ## Syllabus
-### Week 1 Introduction to Machine Learning
+### Week 1 Introduction to Machine Learning, MobileNet
 
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week1-intro): Introduction to Machine Learning
 
@@ -80,17 +80,20 @@ Click into each week, you will see the example for each week.
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/week-4)
 
 ### Week 5 Final assignment proposal and guest lecture
+
+* More code examples and demo here(https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-moreExamples)
 * Review: Present your final assignment proposal and the experiments you did so far
+* Guest speaker: [Runwayml](https://runwayapp.ai/)
 
-* Guest speaker: Runwayml
+### Week 6 Speech command Classifier, Sketch RNN, Body pix, Build your own model
 
-### Week 6 Speech command Classifier, Sketch RNN
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-soundClassifier-sketchRNN)
 
-* Review: Showing your final assignment progress from last week
-
-#### Coding session:
-- Speech command classifier
-- Sketch RNN
+* Coding session:
+  - Body pix from tf.js-models
+  - Speech commands classifier from tf.js-models
+  - Sketch RNN
+  - Build a doodle classifier with tf.js
 
 #### Homework:
 - Work on the final assignment, prepare the presentation
@@ -104,6 +107,7 @@ Final Presentation
 - [TensorFlow.js](https://js.tensorflow.org/)
 - [Coding Train on ml5js](https://www.youtube.com/watch?v=jmznx0Q1fP0)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Google AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
 - [fast.ai](http://www.fast.ai/)
 - [Spell.run](http://spell.run)
 
