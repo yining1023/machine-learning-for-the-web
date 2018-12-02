@@ -81,7 +81,7 @@ Click into each week, you will see the example for each week.
 
 ### Week 5 Final assignment proposal and guest lecture
 
-* More code examples and demo here(https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-moreExamples)
+* More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-moreExamples)
 * Review: Present your final assignment proposal and the experiments you did so far
 * Guest speaker: [Runwayml](https://runwayapp.ai/)
 
@@ -95,8 +95,7 @@ Click into each week, you will see the example for each week.
   - Sketch RNN
   - Build a doodle classifier with tf.js
 
-#### Homework:
-- Work on the final assignment, prepare the presentation
+* Homework: Work on the final assignment, prepare the presentation
 
 ### Week 7
 
