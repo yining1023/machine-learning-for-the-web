@@ -109,6 +109,8 @@ Final Presentation
 - [Google AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
 - [fast.ai](http://www.fast.ai/)
 - [Spell.run](http://spell.run)
+- [Siraj Raval's AI Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ## Requirements
 - You are required to attend all class meetings and submit all weekly assignments.
