@@ -22,3 +22,4 @@
 - [Training on Images: Recognizing Handwritten Digits with a Convolutional Neural Network](https://js.tensorflow.org/tutorials/mnist.html)
 - [Coding train: Doodle Classifier - Intelligence and Learning](https://www.youtube.com/watch?v=pqY_Tn2SIVA&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+- [Convolutional Neural Networks - The Math of Intelligence](https://youtu.be/FTr3n7uBIuE)
