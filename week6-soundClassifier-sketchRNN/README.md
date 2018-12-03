@@ -14,7 +14,8 @@
 ## See demos live
 - [Body Pix]()
 - [Speech Commands]()
-- [Sketch RNN]()
+- [Sketch RNN Basic](http://localhost:8003/week6-soundClassifier-sketchRNN/SketchRNN_basic/)
+- [Sketch RNN Interactive](http://localhost:8003/week6-soundClassifier-sketchRNN/SketchRNN_interactive/)
 - [Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier/)
 
 ## Resource:
