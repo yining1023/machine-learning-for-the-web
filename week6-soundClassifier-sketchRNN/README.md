@@ -12,8 +12,8 @@
 - How to build a model in tf.js: Doodle Classifier!
 
 ## See demos live
-- [Sketch RNN Basic]((https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SketchRNN_basic/)
-- [Sketch RNN Interactive]((https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SketchRNN_interactive/)
+- [Sketch RNN Basic](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SketchRNN_basic/)
+- [Sketch RNN Interactive](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SketchRNN_interactive/)
 - [Body Pix]()
 - [Speech Commands]()
 - [p5 speech recognizer]()
