@@ -85,14 +85,14 @@ Click into each week, you will see the example for each week.
 * Review: Present your final assignment proposal and the experiments you did so far
 * Guest speaker: [Runwayml](https://runwayapp.ai/)
 
-### Week 6 Speech command Classifier, Sketch RNN, Body pix, Build your own model
+### Week 6 Speech recognition, Sketch RNN, Body pix, Build your own model
 
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-soundClassifier-sketchRNN)
 
 * Coding session:
   - Body pix from tf.js-models
-  - Speech commands classifier from tf.js-models
-  - Sketch RNN
+  - Speech recognition from p5 speech.js
+  - Sketch RNN from ml5.js
   - Build a doodle classifier with tf.js
 
 * Homework: Work on the final assignment, prepare the presentation
