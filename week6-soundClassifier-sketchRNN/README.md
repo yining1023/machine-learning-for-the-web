@@ -2,7 +2,8 @@
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1v3NBEwDakIlOuvU15nLBFSaoPdaJ3M6n-bVozMTGxWU/edit?usp=sharing)
 - 7 steps of Machine Learning
-- 
+- Convolutional Neural Networks
+- Convolution, Pooling, Activation, 
 
 ## Coding session:
 - Body pix from tf.js-models
@@ -14,7 +15,7 @@
 - [Body Pix]()
 - [Speech Commands]()
 - [Sketch RNN]()
-- [Doodle Classifier]()
+- [Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier/)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
