@@ -1,3 +1,7 @@
+/**
+ * Based on Dan Shiffman's
+https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
+**/
 const CLASSES = 3;
 const IMAGE_SIZE = 784;
 

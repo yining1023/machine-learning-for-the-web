@@ -1,3 +1,7 @@
+/**
+ * Based on Dan Shiffman's
+https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
+**/
 class DoodleData {
   constructor(total) {
     this.total = total;

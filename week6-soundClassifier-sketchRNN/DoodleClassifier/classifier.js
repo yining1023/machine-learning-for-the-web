@@ -1,3 +1,7 @@
+/**
+ * Based on Dan Shiffman's
+https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
+**/
 // Based on: https://github.com/tensorflow/tfjs-examples/tree/master/mnist
 
 class Classifier {

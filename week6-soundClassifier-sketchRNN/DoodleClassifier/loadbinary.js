@@ -1,3 +1,7 @@
+/**
+ * Based on Dan Shiffman's
+https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
+**/
 p5.prototype.registerPreloadMethod('loadBytes');
 
 p5.prototype.loadBytes = function(file, callback) {
