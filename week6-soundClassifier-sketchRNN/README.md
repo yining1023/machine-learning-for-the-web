@@ -3,7 +3,7 @@
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1v3NBEwDakIlOuvU15nLBFSaoPdaJ3M6n-bVozMTGxWU/edit?usp=sharing)
 - 7 steps of Machine Learning
 - Convolutional Neural Networks
-- Convolution, Pooling, Activation, 
+- Convolution, Activation(Relu), Pooling, Stride, Fully connected, Softmax 
 
 ## Coding session:
 - Body pix from tf.js-models
