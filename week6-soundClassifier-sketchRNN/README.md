@@ -1,6 +1,6 @@
 # Week 6 Build your own model
 
-## Presentation: [Slides](https://docs.google.com/presentation/d/1v3NBEwDakIlOuvU15nLBFSaoPdaJ3M6n-bVozMTGxWU/edit?usp=sharing)
+## Presentation: [Slides](https://docs.google.com/presentation/d/1YulUXpmTYr7NHLDPEP56eKYwneA53y9glgx6ZZ97fBM/edit?usp=sharing)
 - 7 steps of Machine Learning
 - Convolutional Neural Networks
 - Convolution, Activation(Relu), Pooling, Stride, Fully connected, Softmax 
