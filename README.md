@@ -99,7 +99,7 @@ Click into each week, you will see the example for each week.
 
 ### Week 7
 
-Final Presentation
+[Final Presentation](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7)
 
 ## Resources
 - [ml5js](https://ml5js.org/)
