@@ -1,0 +1,51 @@
+<!--
+ * Based on Dan Shiffman's
+https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>doodle classifier</title>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.15.2"></script>
+  <script src="sketch.js"></script>
+  <style>
+    body {
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    button {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24pt;
+      margin-right: 10px;
+      border: 1px solid black;
+      background: white;
+    }
+
+    canvas {
+      border: 1px solid black;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Doodle Classifier on 100 classes  from Quickdraw dataset</h1>
+  <button id="guess">guess</button>
+  <button id="clear">clear</button>
+  <div id="canvasContainer"></div>
+  <h2 id="res"></h2>
+  <p>
+    A list of object it can guess:
+    'laptop', 'rainbow', 'baseball_bat', 'ice_cream', 'flower', 'suitcase', 'tree', 'microphone', 'sword', 'helmet', 'apple', 'umbrella', 'frying_pan', 'envelope', 'triangle', 'alarm_clock', 'paper_clip', 'light_bulb', 'scissors', 'cat', 't-shirt', 'ceiling_fan', 'key', 'mountain', 'table', 'moon', 'smiley_face', 'car', 'spoon', 'bird', 'saw', 'traffic_light', 'knife', 'wristwatch', 'shovel', 'circle', 'face', 'bridge', 'camera', 'bread', 'screwdriver', 'tennis_racquet', 'cell_phone', 'airplane', 'bed', 'baseball', 'moustache', 'candle', 'tooth', 'star', 'sock', 'dumbbell', 'lollipop', 'bicycle', 'hat', 'spider', 'clock', 'shorts', 'anvil', 'pants', 'syringe', 'ladder', 'axe', 'headphones', 'grapes', 'square', 'chair', 'coffee_cup', 'lightning', 'cookie', 'wheel', 'pencil', 'cloud', 'mushroom', 'door', 'drums', 'fan', 'bench', 'sun', 'stop_sign', 'eye', 'beard', 'radio', 'snake', 'line', 'power_outlet', 'diving_board', 'rifle', 'eyeglasses', 'broom', 'donut', 'pillow', 'hot_dog', 'butterfly', 'hammer', 'basketball', 'book', 'tent', 'pizza', 'cup'
+  </p>
+</body>
+
+</html>
