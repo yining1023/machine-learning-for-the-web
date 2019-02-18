@@ -18,6 +18,7 @@
 - [p5 speech simple recognition](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SpeechRecognition/simplerecognition.html)
 - [p5 speech continuous recognition](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SpeechRecognition/continuousrecognition.html)
 - [Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier/)
+- [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier100/)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
