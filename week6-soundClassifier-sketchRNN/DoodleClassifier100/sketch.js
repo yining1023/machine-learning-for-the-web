@@ -26,10 +26,36 @@ function setup() {
 }
 
 function guess() {
+  // Get input image from the canvas
+  const inputs = getInputImage();
+
+  // Predict
+  let guess = model.predict(tf.tensor([inputs]));
+
+  // Format res to an array
+  const rawProb = Array.from(guess.dataSync());
+
+  // Get top 5 res with index and probability
+  const rawProbWIndex = rawProb.map((probability, index) => {
+    return {
+      index,
+      probability
+    }
+  });
+
+  const sortProb = rawProbWIndex.sort((a, b) => b.probability - a.probability);
+  const top5ClassWIndex = sortProb.slice(0, 5);
+  const top5Res = top5ClassWIndex.map(i => CLASSES[i.index]);
+  select('#res').html(`I see ${top5Res.toString()}`);
+}
+
+function getInputImage() {
   let inputs = [];
+  // p5 function, get image from the canvas
   let img = get();
   img.resize(28, 28);
   img.loadPixels();
+
   // Group data into [[[i00] [i01], [i02], [i03], ..., [i027]], .... [[i270], [i271], ... , [i2727]]]]
   let oneRow = [];
   for (let i = 0; i < IMAGE_SIZE; i++) {
@@ -41,18 +67,8 @@ function guess() {
       oneRow = [];
     }
   }
-  let guess = model.predict(tf.tensor([inputs]));
-  const rawProb = Array.from(guess.dataSync());
-  const rawProbWIndex = rawProb.map((probability, index) => {
-    return {
-      index,
-      probability
-    }
-  });
-  const sortProb = rawProbWIndex.sort((a, b) => b.probability - a.probability);
-  const top5ClassWIndex = sortProb.slice(0, 5);
-  const top5Res = top5ClassWIndex.map(i => CLASSES[i.index]);
-  select('#res').html(`I see ${top5Res.toString()}`);
+
+  return inputs;
 }
 
 function draw() {
