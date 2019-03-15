@@ -5,6 +5,7 @@ https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifi
 const IMAGE_SIZE = 784;
 let catsData;
 let data;
+let allImgs = [];
 
 function preload() {
   catsData = loadBytes('data/cats1000.bin');
@@ -21,6 +22,29 @@ function setup() {
       createCatImage(start, w * 28, h * 28);
     }
   }
+
+  for (let j = 0; j < 10; j++) {
+    let button = createButton(`download ${j} bactch(10) images`);
+    button.position(20, 400 + j * 30);
+    // j = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+    button.mousePressed(() => download10Img(j));
+  }
+}
+
+function download10Img(start) {
+  // start = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+  for (let i = start * 10; i < 10 + start * 10; i++) {
+    const img = allImgs[i];
+    img.save(`cat_${i}`, 'png');
+  }
+}
+
+function pause(msec) {
+  return new Promise(
+      (resolve, reject) => {
+          setTimeout(resolve, msec || 1000);
+      }
+  );
 }
 
 function createCatImage(start, wIndex, hIndex) {
@@ -33,5 +57,6 @@ function createCatImage(start, wIndex, hIndex) {
     }
   }
   img.updatePixels();
+  allImgs.push(img);
   image(img, wIndex, hIndex);
 }
