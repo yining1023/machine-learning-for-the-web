@@ -20,6 +20,7 @@
 - [Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier/)
 - [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier100/)
 - [Doodle Classifier with KNN Classifier](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier_KNN/)
+- [Get Quickdraw Dataset](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/GetQuickdrawData/)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
