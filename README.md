@@ -3,14 +3,18 @@ This is a repository for the "Machine Learning for the Web" class at ITP, NYU
 
 Libraries like [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://ml5js.org/) unlocked new opportunities for interactive machine learning projects in the browser. The goal of this class is to learn and understand common machine learning techniques and apply them to generate creative outputs in the browser.
 
-This class will start with running models in the browser using high-level APIs from ml5.js, as well as explore the Layer APIs from TensorFlow.js to train models using custom data. This class will also cover preparing the dataset for training models.
+This class will start with running pre-trained models and re-training models in the browser using high-level APIs from ml5.js, as well as explore the Layer APIs from TensorFlow.js to create models from scratch using custom data. This class will also cover preparing the dataset for training models.
 
-At the completion of this course, students will have a better understanding of a few machine learning models, how do they work, how to train these models, and their use case to creative projects. Students will also be able to create interactive ML web applications with pre-trained models.
+At the completion of this course, students will have a better understanding of common and popular machine learning models, how do they work, how to train these models, and their use case to creative projects. The output of the class will be a lot of interactive ML web applications.
+
+The topics that will be covered are Image/Sound/Doodle Classification, Face/Pose Recognition, Image Style Transfer, pix2pix Image Transformation, and Image Synthesis. The techniques and neural networks we will use and build are Transfer Learning, Convolutional neural network, Generative adversarial network, reinforcement learning and more.
+
+Prospective students are expected to have taken an ICM (Introduction to Computational Media) course, or have equivalent programming experience with JavaScript, HTML, CSS.
 
 ## Info
-- Yining Shi, Tuesdays, 6:30pm-9:00pm, Room 20, 10/30 - 12/11/2018
+- Yining Shi, Wednesday, 6:30pm-9:00pm, Room 20, 3/27/2019 - 5/8/2019
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
-- [All class dates](http://help.itp.nyu.edu/curriculum/registration/fall-2018-reg-info/fall-2018-class-dates-term-deadlines)
+- [All class dates](https://itp.nyu.edu/registration/Schedule.php?year=2019&semester=Spring)
 
 ## Get started
 To run each examples, open your terminal, type in the following commands:
