@@ -2,6 +2,8 @@
  * Based on Dan Shiffman's
 https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
 **/
+
+// This sketch allows you to download 1000 cat images
 const IMAGE_SIZE = 784;
 let catsData;
 let data;
@@ -12,40 +14,51 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(280, 280);
+  createCanvas(2800, 280);
   const total = catsData.bytes.length;
   data = new Uint8Array(total);
   data.set(catsData.bytes, 0);
   for (let h = 0; h < 10; h++) {
-    for (let w = 0; w < 10; w++) {
+    for (let w = 0; w < 100; w++) {
       const start = (w + h * 28) * 784;
       createCatImage(start, w * 28, h * 28);
     }
   }
 
-  for (let j = 0; j < 10; j++) {
-    let button = createButton(`download ${j} bactch(10) images`);
-    button.position(20, 400 + j * 30);
-    // j = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-    button.mousePressed(() => download10Img(j));
-  }
+  let mainButton = createButton(`download 1000 images as a zip file`);
+  mainButton.position(20, 380);
+  mainButton.mousePressed(downloadAllImg);
 }
 
-function download10Img(start) {
-  // start = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-  for (let i = start * 10; i < 10 + start * 10; i++) {
-    const img = allImgs[i];
-    img.save(`cat_${i}`, 'png');
-  }
+function downloadAllImg() {
+  const zip = new JSZip();
+
+  allImgs.forEach(async(im, index) => {
+    const blob = await imageDataToBlob(im.imageData);
+    zip.file(`cat_${index}.png`, blob);
+
+    if (index === 999) {
+      zip.generateAsync({ type:"blob" })
+      .then(function(content) {
+        saveAs(content, "cats.zip");
+      });
+    }
+  })
 }
 
-function pause(msec) {
-  return new Promise(
-      (resolve, reject) => {
-          setTimeout(resolve, msec || 1000);
-      }
-  );
-}
+function imageDataToBlob(imageData) {
+  let w = imageData.width;
+  let h = imageData.height;
+  let canvas = document.createElement("canvas");
+  canvas.width = w;
+  canvas.height = h;
+  let ctx = canvas.getContext("2d");
+  ctx.putImageData(imageData, 0, 0, 0, 0, w, h);
+
+  return new Promise((resolve, reject) => {
+    canvas.toBlob(resolve);
+  });
+};
 
 function createCatImage(start, wIndex, hIndex) {
   let img = createImage(28, 28);
