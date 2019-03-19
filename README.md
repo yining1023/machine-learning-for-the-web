@@ -7,7 +7,7 @@ This class will start with running pre-trained models and re-training models in 
 
 At the completion of this course, students will have a better understanding of common and popular machine learning models, how do they work, how to train these models, and their use case to creative projects. The output of the class will be a lot of interactive ML web applications.
 
-The topics that will be covered are Image/Sound/Doodle Classification, Face/Pose Recognition, Image Style Transfer, pix2pix Image Transformation, and Image Synthesis. The techniques and neural networks we will use and build are Transfer Learning, Convolutional neural network, Generative adversarial network, reinforcement learning and more.
+The topics that will be covered are Image/Sound/Doodle Classification, Face/Pose Recognition, Image Style Transfer, pix2pix Image Transformation, and Image Synthesis. The techniques and neural networks we will use and build are Transfer Learning, Convolutional neural network, Generative adversarial network and more.
 
 Prospective students are expected to have taken an ICM (Introduction to Computational Media) course, or have equivalent programming experience with JavaScript, HTML, CSS.
 
