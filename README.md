@@ -5,9 +5,9 @@ Libraries like [TensorFlow.js](https://js.tensorflow.org/) and [ml5.js](https://
 
 This class will start with running pre-trained models and re-training models in the browser using high-level APIs from ml5.js, as well as explore the Layer APIs from TensorFlow.js to create models from scratch using custom data. This class will also cover preparing the dataset for training models.
 
-At the completion of this course, students will have a better understanding of common and popular machine learning models, how do they work, how to train these models, and their use case to creative projects. The output of the class will be a lot of interactive ML web applications.
+At the completion of this course, students will have a better understanding of common and popular machine learning models, how do they work, how to train these models, and their use case to creative projects. The output of the class will be interactive ML web applications.
 
-The topics that will be covered are Image/Sound/Doodle Classification, Face/Pose Recognition, Image Style Transfer, pix2pix Image Transformation, and Image Synthesis. The techniques and neural networks we will use and build are Transfer Learning, Convolutional neural network, Generative adversarial network and more.
+The topics that will be covered are Image/Sound/Doodle Classification, Face/Pose Recognition, Image Style Transfer, pix2pix Image Transformation, and Image Synthesis. The techniques and neural networks we will use and build are Transfer Learning, Convolutional Neural Network, Generative Adversarial Network and more.
 
 Prospective students are expected to have taken an ICM (Introduction to Computational Media) course, or have equivalent programming experience with JavaScript, HTML, CSS.
 
