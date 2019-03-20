@@ -20,9 +20,24 @@ https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifi
   <script src="sketch.js"></script>
 </head>
 
+<style>
+  button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18pt;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  button:hover { 
+    background-color: yellow;
+  }
+</style>
+
 <body>
   <h1>Get Quickdraw dataset</h1>
-  Please wait for >30s for downloading the 1000 images
+  <p>Please wait for >60s for downloading all the images</p>
+  <button id="downloadImg">Download All Images as a .zip File</button>
 </body>
 
 </html>
