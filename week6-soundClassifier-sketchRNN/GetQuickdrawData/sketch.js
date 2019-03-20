@@ -1,7 +1,3 @@
-// This sketch allows you to download 5000 images in one category from quickdraw dataset
-// ***NOTE***: When running this sketch locally, download this chrome extension to allow CORS
-// to be able to download files from Google storage
-// Download the chrome extension here: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
 const IMAGE_SIZE = 784;
 const IMAGE_WIDTH = 28;
 const IMAGE_HEIGHT = 28;
@@ -9,15 +5,18 @@ const OBJECT_NAME = 'lollipop';
 const numCols = 100;
 const numRows = 50;
 const totalImgs = 5000; // numCols * numRows has to = totalImgs
-// You can find the link to other categories here: https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap/
-const fileName = 'https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/lollipop.npy';
+// If you download the full .npy file like "full_numpy_bitmap_lollipop.npy", set this to 80!!!
+const extraBytes = 128;
+// You can download other categories' files here: https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap/
+// put the new .npy files into data folder
+const fileName = 'lollipop5000.npy';
 // Update the above variables to fit into your case
 let imagesData;
 let data;
 let allImgs = [];
 
 function preload() {
-  imagesData = loadBytes(fileName);
+  imagesData = loadBytes(`data/${fileName}`);
 }
 
 function setup() {
@@ -27,7 +26,9 @@ function setup() {
   data.set(imagesData.bytes, 0);
   for (let h = 0; h < numRows; h++) {
     for (let w = 0; w < numCols; w++) {
-      const start = 80 + (w + h * numCols) * IMAGE_SIZE; // quickdraw dataset the real pixel data start from index 80
+      // quickdraw full dataset the real pixel data start from index 80(extraBytes)
+      // 5000.npy starts from 128(extraBytes)
+      const start = extraBytes + (w + h * numCols) * IMAGE_SIZE;
       createOneImage(start, w * IMAGE_WIDTH, h * IMAGE_HEIGHT);
     }
   }
