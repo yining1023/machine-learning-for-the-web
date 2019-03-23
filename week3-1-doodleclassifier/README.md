@@ -6,18 +6,12 @@
 - Convolution, Activation(Relu), Pooling, Stride, Fully connected, Softmax 
 
 ## Coding session:
-- Body pix from tf.js-models
-- Speech commands classifier from tf.js-models
-- Sketch RNN in ml5
 - How to build a model in tf.js: Doodle Classifier!
 
 ## See demos live
-- [Sketch RNN Basic](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SketchRNN_basic/)
-- [Sketch RNN Interactive](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SketchRNN_interactive/)
-- [Body Pix](https://yining1023.github.io/body-pix-demo/), [code](https://github.com/tensorflow/tfjs-models/tree/master/body-pix/demos)
-- [p5 speech simple recognition](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SpeechRecognition/simplerecognition.html)
-- [p5 speech continuous recognition](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/SpeechRecognition/continuousrecognition.html)
-- [Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week6-soundClassifier-sketchRNN/DoodleClassifier/)
+- [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/DoodleClassifier100/)
+- [Doodle Classifier with KNN Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/DoodleClassifier_KNN/)
+- [Get Quickdraw Dataset](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/GetQuickdrawData/)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
