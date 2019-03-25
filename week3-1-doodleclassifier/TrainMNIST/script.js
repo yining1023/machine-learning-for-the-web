@@ -42,7 +42,7 @@ async function run() {
   await showAccuracy(model, data);
   await showConfusion(model, data);
 
-  await model.save('downloads://my-doodleNet');
+  await model.save('downloads://myModel');
 }
 
 document.addEventListener('DOMContentLoaded', run);
