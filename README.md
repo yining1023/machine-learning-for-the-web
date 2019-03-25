@@ -58,6 +58,16 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
+### Week 3-1 Train our own CNN model from scratch
+
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-1-doodleclassifier)
+
+* Coding session:
+  - Build a doodle classifier with tf.js
+  - Build a MNIST handwritten digit recognizier with tf.js
+
+* Homework: Train your own CNN
+
 ### Week 3 Image Transformation (Part 1) Style transfer
 
 * Review: Showing the homework from last week, discuss any difficulties and other creative outputs
@@ -89,7 +99,7 @@ Click into each week, you will see the example for each week.
 * Review: Present your final assignment proposal and the experiments you did so far
 * Guest speaker: [Runwayml](https://runwayapp.ai/)
 
-### Week 6 Speech recognition, Sketch RNN, Body pix, Build your own model
+### Week 6 Speech recognition, Sketch RNN, Body pix
 
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-soundClassifier-sketchRNN)
 
@@ -97,7 +107,6 @@ Click into each week, you will see the example for each week.
   - Body pix from tf.js-models
   - Speech recognition from p5 speech.js
   - Sketch RNN from ml5.js
-  - Build a doodle classifier with tf.js
 
 * Homework: Work on the final assignment, prepare the presentation
 
