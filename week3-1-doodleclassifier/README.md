@@ -12,6 +12,8 @@
 - [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/DoodleClassifier100/)
 - [Doodle Classifier with KNN Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/DoodleClassifier_KNN/)
 - [Get Quickdraw Dataset](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/GetQuickdrawData/)
+- [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/TrainDoodleClassifier)
+- [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-1-doodleclassifier/TrainMNIST)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
