@@ -53,7 +53,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1--2019-Spring)
 
-### Week 2 Image Classification (KNN classifier, PoseNet)
+### Week 2 Image Classification (Transfer Learning, KNN Classifier, PoseNet)
 
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet)
 
@@ -65,7 +65,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
-### Week 3-1 Train our own CNN model from scratch
+### Week 3 Train our own CNN model from scratch
 
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-1-doodleclassifier)
 
@@ -75,7 +75,7 @@ Click into each week, you will see the example for each week.
 
 * Homework: Train your own CNN
 
-### Week 3 Image Transformation (Part 1) Style transfer
+### Week 4 Image Transformation (Part 1) Style transfer
 
 * Review: Showing the homework from last week, discuss any difficulties and other creative outputs
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-styleTransfer)
@@ -87,7 +87,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
 
-### Week 4 Image Transformation (Part 2) pix2pix
+### Week 5 Image Transformation (Part 2) pix2pix, GAN
 
 * Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-pix2pix)
@@ -100,15 +100,12 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/week-4)
 
-### Week 5 Final assignment proposal and guest lecture
+
+### Week 6 Speech recognition, Sketch RNN, Body pix
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-soundClassifier-sketchRNN)
 
 * More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-moreExamples)
 * Review: Present your final assignment proposal and the experiments you did so far
-* Guest speaker: [Runwayml](https://runwayapp.ai/)
-
-### Week 6 Speech recognition, Sketch RNN, Body pix
-
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-soundClassifier-sketchRNN)
 
 * Coding session:
   - Body pix from tf.js-models
