@@ -16,6 +16,13 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
 - [All class dates](https://itp.nyu.edu/registration/Schedule.php?year=2019&semester=Spring)
 
+## Requirements
+- You are required to attend all class meetings and submit all weekly assignments.
+- Grading (pass/fail) will be based on a combination of factors:
+  * Attendance, participation in class discussion, and engagement in other students' projects (25%)
+  * Quality of weekly assignments (50%)
+  * Last Assignment (25%)
+
 ## Get started
 To run each examples, open your terminal, type in the following commands:
 ```
@@ -124,10 +131,3 @@ Click into each week, you will see the example for each week.
 - [Spell.run](http://spell.run)
 - [Siraj Raval's AI Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-
-## Requirements
-- You are required to attend all class meetings and submit all weekly assignments.
-- Grading (pass/fail) will be based on a combination of factors:
-  * Attendance, participation in class discussion, and engagement in other students' projects (25%)
-  * Quality of weekly assignments (50%)
-  * Last Assignment (25%)
