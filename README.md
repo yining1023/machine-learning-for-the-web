@@ -66,7 +66,7 @@ Click into each week, you will see the example for each week.
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
 ### Week 3 Train our own CNN model from scratch
-
+* Guest speaker from creative lab
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-1-doodleclassifier)
 
 * Coding session:
