@@ -1,0 +1,395 @@
+<!--
+ * Based on Dan Shiffman's
+https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>doodle classifier</title>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.15.2"></script>
+  <script src="sketch.js"></script>
+  <style>
+    body {
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    button {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24pt;
+      margin-right: 10px;
+      border: 1px solid black;
+      background: white;
+    }
+
+    canvas {
+      border: 1px solid black;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Doodle Classifier on 345 classes  from Quickdraw dataset</h1>
+  <button id="guess">guess</button>
+  <button id="clear">clear</button>
+  <div id="canvasContainer"></div>
+  <h2 id="res"></h2>
+  <p>
+    A list of object it can guess:<br>
+    aircraft carrier
+    , airplane
+    , alarm clock
+    , ambulance
+    , angel
+    , animal migration
+    , ant
+    , anvil
+    , apple
+    , arm
+    , asparagus
+    , axe
+    , backpack
+    , banana
+    , bandage
+    , barn
+    , baseball
+    , baseball bat
+    , basket
+    , basketball
+    , bat
+    , bathtub
+    , beach
+    , bear
+    , beard
+    , bed
+    , bee
+    , belt
+    , bench
+    , bicycle
+    , binoculars
+    , bird
+    , birthday cake
+    , blackberry
+    , blueberry
+    , book
+    , boomerang
+    , bottlecap
+    , bowtie
+    , bracelet
+    , brain
+    , bread
+    , bridge
+    , broccoli
+    , broom
+    , bucket
+    , bulldozer
+    , bus
+    , bush
+    , butterfly
+    , cactus
+    , cake
+    , calculator
+    , calendar
+    , camel
+    , camera
+    , camouflage
+    , campfire
+    , candle
+    , cannon
+    , canoe
+    , car
+    , carrot
+    , castle
+    , cat
+    , ceiling fan
+    , cello
+    , cell phone
+    , chair
+    , chandelier
+    , church
+    , circle
+    , clarinet
+    , clock
+    , cloud
+    , coffee cup
+    , compass
+    , computer
+    , cookie
+    , cooler
+    , couch
+    , cow
+    , crab
+    , crayon
+    , crocodile
+    , crown
+    , cruise ship
+    , cup
+    , diamond
+    , dishwasher
+    , diving board
+    , dog
+    , dolphin
+    , donut
+    , door
+    , dragon
+    , dresser
+    , drill
+    , drums
+    , duck
+    , dumbbell
+    , ear
+    , elbow
+    , elephant
+    , envelope
+    , eraser
+    , eye
+    , eyeglasses
+    , face
+    , fan
+    , feather
+    , fence
+    , finger
+    , fire hydrant
+    , fireplace
+    , firetruck
+    , fish
+    , flamingo
+    , flashlight
+    , flip flops
+    , floor lamp
+    , flower
+    , flying saucer
+    , foot
+    , fork
+    , frog
+    , frying pan
+    , garden
+    , garden hose
+    , giraffe
+    , goatee
+    , golf club
+    , grapes
+    , grass
+    , guitar
+    , hamburger
+    , hammer
+    , hand
+    , harp
+    , hat
+    , headphones
+    , hedgehog
+    , helicopter
+    , helmet
+    , hexagon
+    , hockey puck
+    , hockey stick
+    , horse
+    , hospital
+    , hot air balloon
+    , hot dog
+    , hot tub
+    , hourglass
+    , house
+    , house plant
+    , hurricane
+    , ice cream
+    , jacket
+    , jail
+    , kangaroo
+    , key
+    , keyboard
+    , knee
+    , knife
+    , ladder
+    , lantern
+    , laptop
+    , leaf
+    , leg
+    , light bulb
+    , lighter
+    , lighthouse
+    , lightning
+    , line
+    , lion
+    , lipstick
+    , lobster
+    , lollipop
+    , mailbox
+    , map
+    , marker
+    , matches
+    , megaphone
+    , mermaid
+    , microphone
+    , microwave
+    , monkey
+    , moon
+    , mosquito
+    , motorbike
+    , mountain
+    , mouse
+    , moustache
+    , mouth
+    , mug
+    , mushroom
+    , nail
+    , necklace
+    , nose
+    , ocean
+    , octagon
+    , octopus
+    , onion
+    , oven
+    , owl
+    , paintbrush
+    , paint can
+    , palm tree
+    , panda
+    , pants
+    , paper clip
+    , parachute
+    , parrot
+    , passport
+    , peanut
+    , pear
+    , peas
+    , pencil
+    , penguin
+    , piano
+    , pickup truck
+    , picture frame
+    , pig
+    , pillow
+    , pineapple
+    , pizza
+    , pliers
+    , police car
+    , pond
+    , pool
+    , popsicle
+    , postcard
+    , potato
+    , power outlet
+    , purse
+    , rabbit
+    , raccoon
+    , radio
+    , rain
+    , rainbow
+    , rake
+    , remote control
+    , rhinoceros
+    , rifle
+    , river
+    , roller coaster
+    , rollerskates
+    , sailboat
+    , sandwich
+    , saw
+    , saxophone
+    , school bus
+    , scissors
+    , scorpion
+    , screwdriver
+    , sea turtle
+    , see saw
+    , shark
+    , sheep
+    , shoe
+    , shorts
+    , shovel
+    , sink
+    , skateboard
+    , skull
+    , skyscraper
+    , sleeping bag
+    , smiley face
+    , snail
+    , snake
+    , snorkel
+    , snowflake
+    , snowman
+    , soccer ball
+    , sock
+    , speedboat
+    , spider
+    , spoon
+    , spreadsheet
+    , square
+    , squiggle
+    , squirrel
+    , stairs
+    , star
+    , steak
+    , stereo
+    , stethoscope
+    , stitches
+    , stop sign
+    , stove
+    , strawberry
+    , streetlight
+    , string bean
+    , submarine
+    , suitcase
+    , sun
+    , swan
+    , sweater
+    , swing set
+    , sword
+    , syringe
+    , table
+    , teapot
+    , teddy-bear
+    , telephone
+    , television
+    , tennis racquet
+    , tent
+    , The Eiffel Tower
+    , The Great Wall of China
+    , The Mona Lisa
+    , tiger
+    , toaster
+    , toe
+    , toilet
+    , tooth
+    , toothbrush
+    , toothpaste
+    , tornado
+    , tractor
+    , traffic light
+    , train
+    , tree
+    , triangle
+    , trombone
+    , truck
+    , trumpet
+    , t-shirt
+    , umbrella
+    , underwear
+    , van
+    , vase
+    , violin
+    , washing machine
+    , watermelon
+    , waterslide
+    , whale
+    , wheel
+    , windmill
+    , wine bottle
+    , wine glass
+    , wristwatch
+    , yoga
+    , zebra
+    , zigzag
+  </p>
+</body>
+
+</html>
