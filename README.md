@@ -64,11 +64,10 @@ Click into each week, you will see the example for each week.
 
 * Coding session:
   * Make a KNN Image Classifier
-  * Regression with feature extractor
   * Posnet
   * poseNet + KNN Image Classifier
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Spring)
 
 ### Week 3 Train our own CNN model from scratch
 * Guest speaker from creative lab
