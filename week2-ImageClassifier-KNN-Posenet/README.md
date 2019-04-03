@@ -18,10 +18,13 @@
 - poseNet + KNN Image Classifier
 
 ## See demos live
-- [KNN Image Classifier](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_Video/)
+- [KNN Image Classifier Video](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_Video/)
+- [KNN Image Classifier Video + Sound](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_VideoSound/)
+- [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_VideoSquare/)
 - [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/FeatureExtractor_Image_Regression/)
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet/)
 - [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet_KNNClassification)
+- [PoseNet Video + Music](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet_VideoMusic)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
 
