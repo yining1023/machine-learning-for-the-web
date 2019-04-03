@@ -22,6 +22,11 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
   * Attendance, participation in class discussion, and engagement in other students' projects (25%)
   * Quality of weekly assignments (50%)
   * Last Assignment (25%)
+  
+## Help
+- [How to push code to a Github Repo and host sketch on Github](https://github.com/yining1023/ml4w-homework#how-to-push-code-to-a-github-repo-and-host-sketch-on-github)
+- [How to update your code and push it to Github](https://github.com/yining1023/ml4w-homework#how-to-update-your-code-and-push-it-to-github)
+- [Video: How to host p5 sketch on github pages](https://youtu.be/8HPYsDTk17A)
 
 ## Get started
 To run each examples, open your terminal, type in the following commands:
@@ -59,11 +64,10 @@ Click into each week, you will see the example for each week.
 
 * Coding session:
   * Make a KNN Image Classifier
-  * Regression with feature extractor
   * Posnet
   * poseNet + KNN Image Classifier
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Spring)
 
 ### Week 3 Train our own CNN model from scratch
 * Guest speaker from creative lab
