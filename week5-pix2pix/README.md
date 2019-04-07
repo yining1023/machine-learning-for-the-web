@@ -14,7 +14,7 @@
 - Training a Label2Facades model
 
 ## See demos live
-- [pix2pix edges to pikachu](https://yining1023.github.io/machine-learning-for-the-web/week4-pix2pix/pix2pix-ml5/Pix2Pix_callback/), [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-pix2pix/pix2pix-ml5/Pix2Pix_callback)
+- [pix2pix edges to pikachu](https://yining1023.github.io/machine-learning-for-the-web/week5-pix2pix/pix2pix-ml5/Pix2Pix_callback/), [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-pix2pix/pix2pix-ml5/Pix2Pix_callback)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/week-4)
 

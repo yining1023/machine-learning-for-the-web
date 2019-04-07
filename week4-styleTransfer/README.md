@@ -14,8 +14,8 @@
 - Running Style Transfer model in ml5.js
 
 ## See demos live
-- [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week3-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
-- [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week3-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
+- [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
+- [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
 

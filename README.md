@@ -37,11 +37,11 @@ $ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using py
 ```
 Go to `localhost:8000` in your browser, you will see a directory list like this:
 - week1-intro/
-- week2-knnClassifier/
-- week3-styleTransfer/
-- week4-pix2pix/
-- week5-soundClassifier/
-- week6-workshop/
+- week2-ImageClassifier-KNN-Posenet/
+- week3-doodleclassifier/
+- week4-styleTransfer/
+- week5-pix2pix/
+- week6-soundClassifier/
 
 Click into each week, you will see the example for each week.
 
@@ -69,32 +69,31 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Spring)
 
-### Week 3 Train our own CNN model from scratch
+### Week 3 Train our own CNN model from scratch: Doodle Classifier
 * Guest speaker from creative lab
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-1-doodleclassifier)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier)
 
 * Coding session:
   - Build a doodle classifier with tf.js
-  - Build a MNIST handwritten digit recognizier with tf.js
 
-* Homework: Train your own CNN
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier)
 
 ### Week 4 Image Transformation (Part 1) Style transfer
 
 * Review: Showing the homework from last week, discuss any difficulties and other creative outputs
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-styleTransfer)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-styleTransfer)
 
 * Coding session:
   * Setup Spell.run training environment
   * Training a new Style Transfer model
   * Running Style Transfer model in ml5.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
+* [Homework]()
 
 ### Week 5 Image Transformation (Part 2) pix2pix, GAN
 
 * Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-pix2pix)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-pix2pix)
 
 * Coding session:
   - Running pix2pix with ml5.js
@@ -102,7 +101,7 @@ Click into each week, you will see the example for each week.
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/week-4)
+* [Homework]()
 
 
 ### Week 6 Speech recognition, Sketch RNN, Body pix
@@ -120,7 +119,7 @@ Click into each week, you will see the example for each week.
 
 ### Week 7
 
-[Final Presentation](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7)
+[Final Presentation]()
 
 ## Resources
 - [ml5js](https://ml5js.org/)
