@@ -1,5 +1,4 @@
-# Week 6 Build your own model
-
+# Week 6 Runway, SketchRNN, Speech Classifier
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1YulUXpmTYr7NHLDPEP56eKYwneA53y9glgx6ZZ97fBM/edit?usp=sharing)
 - 7 steps of Machine Learning
 - Convolutional Neural Networks
