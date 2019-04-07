@@ -41,7 +41,7 @@ Go to `localhost:8000` in your browser, you will see a directory list like this:
 - week3-doodleclassifier/
 - week4-styleTransfer/
 - week5-pix2pix/
-- week6-soundClassifier/
+- week6-runway/
 
 Click into each week, you will see the example for each week.
 
@@ -104,16 +104,14 @@ Click into each week, you will see the example for each week.
 * [Homework]()
 
 
-### Week 6 Speech recognition, Sketch RNN, Body pix
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-soundClassifier-sketchRNN)
+### Week 6 RunwayML, Speech recognition, Sketch RNN, Body pix
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway)
 
 * More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-moreExamples)
 * Review: Present your final assignment proposal and the experiments you did so far
 
 * Coding session:
-  - Body pix from tf.js-models
-  - Speech recognition from p5 speech.js
-  - Sketch RNN from ml5.js
+  - Runway ML
 
 * Homework: Work on the final assignment, prepare the presentation
 
