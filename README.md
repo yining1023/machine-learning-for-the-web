@@ -76,7 +76,7 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Build a doodle classifier with tf.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Spring)
 
 ### Week 4 Image Transformation (Part 1) Style transfer
 
