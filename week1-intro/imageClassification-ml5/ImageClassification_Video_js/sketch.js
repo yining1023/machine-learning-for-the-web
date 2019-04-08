@@ -1,44 +1,30 @@
-const constraints = window.constraints = {
-  audio: false,
-  video: true
-};
+/**
+ * Requests access to the camera and return a Promise with the native width
+ * and height of the video element when resolved.
+ *
+ * @async
+ * @returns {Promise<CameraDimentions>} A promise with the width and height
+ * of the video element used as the camera.
+ */
+var videoElement = document.getElementById('video');
 
-function handleSuccess(stream) {
-  const video = document.querySelector('video');
-  const videoTracks = stream.getVideoTracks();
-  console.log('Got stream with constraints:', constraints);
-  console.log(`Using video device: ${videoTracks[0].label}`);
-  window.stream = stream; // make variable available to browser console
-  video.srcObject = stream;
-}
-
-function handleError(error) {
-  if (error.name === 'ConstraintNotSatisfiedError') {
-    let v = constraints.video;
-    errorMsg(`The resolution ${v.width.exact}x${v.height.exact} px is not supported by your device.`);
-  } else if (error.name === 'PermissionDeniedError') {
-    errorMsg('Permissions have not been granted to use your camera and ' +
-      'microphone, you need to allow the page access to your devices in ' +
-      'order for the demo to work.');
+async function setupCamera() {
+  if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+    const stream = await navigator.mediaDevices.getUserMedia({
+      'audio': false,
+      'video': {facingMode: 'environment'}
+    });
+    window.stream = stream;
+    videoElement.srcObject = stream;
+    return new Promise(resolve => {
+      videoElement.onloadedmetadata = () => {
+        resolve([videoElement.videoWidth,
+          videoElement.videoHeight]);
+      };
+    });
   }
-  errorMsg(`getUserMedia error: ${error.name}`, error);
+
+  return null;
 }
 
-function errorMsg(msg, error) {
-  const errorElement = document.querySelector('#errorMsg');
-  errorElement.innerHTML += `<p>${msg}</p>`;
-  if (typeof error !== 'undefined') {
-    console.error(error);
-  }
-}
-
-async function init() {
-  try {
-    const stream = await navigator.mediaDevices.getUserMedia(constraints);
-    handleSuccess(stream);
-  } catch (e) {
-    handleError(e);
-  }
-}
-
-init();
+setupCamera();
