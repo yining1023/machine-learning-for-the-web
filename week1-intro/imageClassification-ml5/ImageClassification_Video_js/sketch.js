@@ -1,13 +1,42 @@
+let videoElement = document.getElementById('video');
+let resultElement = document.getElementById('result');
+let probabilityElement = document.getElementById('probability');
+let statusElement = document.getElementById('status');
+let classifier;
+
+const promise = setupCamera()
+.then(() => {
+  classifier = ml5.imageClassifier('MobileNet', video, modelReady);
+});
+
+function modelReady() {
+  // Change the status of the model once its ready
+  statusElement.innerText = 'Model Loaded';
+  // Call the classifyVideo function to start classifying the video
+  classifyVideo();
+}
+
+// Get a prediction for the current video frame
+function classifyVideo() {
+  classifier.predict(gotResult);
+}
+
+// When we get a result
+function gotResult(err, results) {
+  // The results are in an array ordered by probability.
+  resultElement.innerText = results[0].label;
+  probabilityElement.innerText = results[0].confidence.toFixed(4);
+  classifyVideo();
+}
+
 /**
  * Requests access to the camera and return a Promise with the native width
  * and height of the video element when resolved.
  *
  * @async
- * @returns {Promise<CameraDimentions>} A promise with the width and height
+ * @returns {Promise<>} A promise
  * of the video element used as the camera.
  */
-var videoElement = document.getElementById('video');
-
 async function setupCamera() {
   if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
     const stream = await navigator.mediaDevices.getUserMedia({
@@ -26,5 +55,3 @@ async function setupCamera() {
 
   return null;
 }
-
-setupCamera();
