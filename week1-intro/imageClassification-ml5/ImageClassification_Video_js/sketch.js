@@ -1,5 +1,6 @@
 let videoElement = document.getElementById('video');
 let resultElement = document.getElementById('result');
+let allresultElement = document.getElementById('allresult');
 let probabilityElement = document.getElementById('probability');
 let statusElement = document.getElementById('status');
 let classifier;
@@ -24,8 +25,8 @@ function classifyVideo() {
 // When we get a result
 function gotResult(err, results) {
   // The results are in an array ordered by probability.
-  console.log
-  resultElement.innerText = JSON.stringify(results);
+  allresultElement.innerText = JSON.stringify(results);
+  resultElement.innerText = results[0].className;
   probabilityElement.innerText = results[0].probability.toFixed(4);
   classifyVideo();
 }
