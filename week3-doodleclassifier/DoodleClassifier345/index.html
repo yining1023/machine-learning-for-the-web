@@ -31,32 +31,28 @@ https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifi
 
     canvas {
       border: 1px solid black;
-      margin: 20px 0;
+      margin: 20px 20px 0 0;
     }
 
-    #canvasContainer {
-      padding-right: 20px;
-    }
-
-    h2 {
-      font-size: 1.4em;
-    }
-
-    #flexContainer {
+    #grid {
       display: flex;
-      flex-direction: row;
+      justify-content: start;
+    }
+
+    #res {
+      font-size: 22px;
     }
   </style>
 </head>
 
 <body>
-  <h1>Doodle Classifier on 345 classes  from Quickdraw dataset</h1>
+  <h1>DoodleNet</h1>
+  <p>A doodle classifier(CNN) trained on 345 classes from <a href="https://quickdraw.withgoogle.com/data" target="_blank">Quickdraw dataset</a></p>
   <button id="guess">guess</button>
   <button id="clear">clear</button>
-
-  <div id="flexContainer">
+  <div id="grid">
     <div id="canvasContainer"></div>
-    <h2 id="res"></h2>
+    <h3 id="res"></h3>
   </div>
   <p>
     A list of object it can guess:<br>
