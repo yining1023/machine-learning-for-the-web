@@ -45,9 +45,9 @@ function guess() {
   });
 
   const sortProb = rawProbWIndex.sort((a, b) => b.probability - a.probability);
-  const top5ClassWIndex = sortProb.slice(0, 10);
-  const top5Res = top5ClassWIndex.map(i => CLASSES[i.index]);
-  select('#res').html(`I see ${top5Res.toString()}`);
+  const topKClassWIndex = sortProb.slice(0, 10);
+  const topKRes = topKClassWIndex.map(i => `<br>${CLASSES[i.index]}`);
+  select('#res').html(`I see: ${topKRes.toString()}`);
 }
 
 function getInputImage() {
