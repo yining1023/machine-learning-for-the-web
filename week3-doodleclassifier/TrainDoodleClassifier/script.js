@@ -30,26 +30,33 @@ async function showExamples(data) {
 }
 
 async function run() {
+  // 1-2. Gathering and Preparing that Data
   const data = new QuickdrawData();
   await data.load();
   await showExamples(data);
 
+  // 3. Build a model
   const model = getModel();
   tfvis.show.modelSummary({name: 'Model Architecture'}, model);
-    
+  
+  // 4. Train the model
   await train(model, data);
 
+  // 5. Evaluate the model
   await showAccuracy(model, data);
   await showConfusion(model, data);
 
+  // Save the model
   await model.save('downloads://myDoodleNet');
 }
 
 document.addEventListener('DOMContentLoaded', run);
 
 function getModel() {
+  // Create a sequential model
   const model = tf.sequential();
   
+  // Define image size
   const IMAGE_WIDTH = 28;
   const IMAGE_HEIGHT = 28;
   const IMAGE_CHANNELS = 1;  
@@ -95,7 +102,6 @@ function getModel() {
     activation: 'softmax'
   }));
 
-  
   // Choose an optimizer, loss function and accuracy metric,
   // then compile and return the model
   const optimizer = tf.train.adam();
@@ -135,6 +141,7 @@ async function train(model, data) {
     ];
   });
 
+  // Train the model
   return model.fit(trainXs, trainYs, {
     batchSize: BATCH_SIZE,
     validationData: [testXs, testYs],
