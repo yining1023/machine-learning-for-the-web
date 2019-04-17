@@ -17,6 +17,7 @@
 - [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/TrainMNIST)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Spring)
+## [2019 spring week 4 homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2019-Spring)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
