@@ -41,6 +41,7 @@
 - [Make music with Posenet from ml4a](https://ml4a.github.io/demos/tfjs/posenet-music.html)
 
 ## Resource:
+- [Coding Train: ml5.js: KNN Classification Part 1 - 3](https://youtu.be/KTNqXwkLuM4)
 - [KNN image classifier in ml5.js](https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet)
 - [PoseNet in ml5.js](https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet)
 - [Brick breaker game in p5.js](https://youtu.be/5kEPixL8JoU)
