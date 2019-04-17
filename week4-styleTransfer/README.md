@@ -1,4 +1,4 @@
-# Week 3 Image Transfermation - Style Transfer
+# Week 4 Image Transfermation - Style Transfer
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1QJumvGwCzErFJFva2LnqNLUmIDp_uz83fPWC6iCR3l0/edit?usp=sharing)
 - What is Style Transfer
@@ -17,7 +17,7 @@
 - [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
 - [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3)
+## [Homework]()
 
 ## Resource:
 - [Training a style transfer model with on Spell, github](https://github.com/yining1023/styleTransfer_spell)
