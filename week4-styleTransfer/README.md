@@ -17,7 +17,7 @@
 - [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
 - [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
 
-## [Homework]()
+## [2019 spring week 4 homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2019-Spring)
 
 ## Resource:
 - [Training a style transfer model with on Spell, github](https://github.com/yining1023/styleTransfer_spell)
