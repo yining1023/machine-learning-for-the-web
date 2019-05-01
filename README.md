@@ -101,13 +101,13 @@ Click into each week, you will see the example for each week.
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
 
-* [Homework]()
+* Homework: Work on the final assignment, prepare the presentation
 
 
 ### Week 6 RunwayML, Speech recognition, Sketch RNN, Body pix
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway)
 
-* More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-moreExamples)
+* More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway)
 * Review: Present your final assignment proposal and the experiments you did so far
 
 * Coding session:
