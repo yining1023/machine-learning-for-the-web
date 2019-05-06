@@ -15,4 +15,5 @@
     Go to `localhost:8000` in your browser
 5. Click the "image to text" button get the caption of the image from your webcam.
     You should be able to see results like this:
+    
     <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week6-runway/im2txt/images/demo2.png" width="500">
