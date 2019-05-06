@@ -3,13 +3,13 @@
 
 
 ## Coding session:
+- AttnGAN(text2image) in Runway with p5js
+- Im2txt in Runway with p5js
 - PhotoSketch in Runway - ColoringBook
 
-- Body pix from tf.js-models
-- Speech commands classifier from tf.js-models
-- Sketch RNN in ml5
-
 ## See demos live
+- [AttnGAN(text to image)](https://yining1023.github.io/machine-learning-for-the-web/week6-runway/AttnGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway/AttnGAN)
+- [im2txt(https://yining1023.github.io/machine-learning-for-the-web/week6-runway/im2txt/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway/im2txt)
 - [ColoringBook Runway](https://yining1023.github.io/machine-learning-for-the-web/week6-runway/PhotoSketch/ColoringBook/), [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway/PhotoSketch/ColoringBook)
 
 - [Sketch RNN Basic](https://yining1023.github.io/machine-learning-for-the-web/week6-runway/SketchRNN_basic/)
