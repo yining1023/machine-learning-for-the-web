@@ -15,4 +15,5 @@
     Go to `localhost:8000` in your browser
 5. Type a sentence in the input below, click the "text to image" button get a an image.
     You should be able to see results like this:
+
     <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week6-runway/AttnGAN/images/demo1.png" width="500">
