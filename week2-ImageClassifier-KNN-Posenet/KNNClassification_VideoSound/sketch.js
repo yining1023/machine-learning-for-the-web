@@ -46,7 +46,7 @@ function addExample(label) {
 // Predict the current frame.
 function classify() {
   // Get the total number of classes from knnClassifier
-  const numClasses = knnClassifier.getNumClasses();
+  const numClasses = knnClassifier.getNumLabels();
   if (numClasses <= 0) {
     console.error('There is no examples in any class');
     return;
