@@ -137,7 +137,7 @@ function gotResults(err, result) {
 
 // Update the example count for each class	
 function updateExampleCounts() {
-  const counts = knnClassifier.getClassExampleCountByLabel();
+  const counts = knnClassifier.getCountByLabel();
 
   select('#exampleA').html(counts['A'] || 0);
   select('#exampleB').html(counts['B'] || 0);

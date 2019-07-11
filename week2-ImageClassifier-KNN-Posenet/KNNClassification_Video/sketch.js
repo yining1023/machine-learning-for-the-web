@@ -145,7 +145,7 @@ function gotResults(err, result) {
 
 // Update the example count for each class	
 function updateExampleCounts() {
-  const counts = knnClassifier.getClassExampleCountByLabel();
+  const counts = knnClassifier.getCountByLabel();
 
   select('#exampleRock').html(counts['Rock'] || 0);
   select('#examplePaper').html(counts['Paper'] || 0);
@@ -166,10 +166,10 @@ function clearAllClasses() {
 
 // Save dataset as myKNNDataset.json
 function saveDataset() {
-  knnClassifier.saveDataset('myKNNDataset');
+  knnClassifier.save('myKNNDataset');
 }
 
 // Load dataset to the classifier
 function loadDataset() {
-  knnClassifier.loadDataset('./myKNNDataset.json', updateExampleCounts);
+  knnClassifier.load('./myKNNDataset.json', updateExampleCounts);
 }
