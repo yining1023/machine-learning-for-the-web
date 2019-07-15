@@ -26,8 +26,8 @@ function classifyVideo() {
 function gotResult(err, results) {
   // The results are in an array ordered by probability.
   allresultElement.innerText = JSON.stringify(results);
-  resultElement.innerText = results[0].className;
-  probabilityElement.innerText = results[0].probability.toFixed(4);
+  resultElement.innerText = results[0].label;
+  probabilityElement.innerText = results[0].confidence.toFixed(4);
   classifyVideo();
 }
 
