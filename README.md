@@ -30,11 +30,11 @@ $ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using py
 ```
 Go to `localhost:8000` in your browser, you will see a directory list like this:
 - week1-intro/
-- week2-ImageClassifier-KNN-Posenet/
-- week3-doodleclassifier/
-- week4-styleTransfer/
-- week5-pix2pix/
-- week6-runway/
+- week2-...
+- week3-...
+- week4-...
+- week5-...
+- week6-...
 
 Click into each week, you will see the example for each week.
 
