@@ -1,0 +1,57 @@
+<!--
+ * Based on Dan Shiffman's
+https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/03_DoodleClassifier
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>doodle classifier</title>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.15.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/knn-classifier"></script>
+  <script src="sketch.js"></script>
+  <style>
+    body {
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    button {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24pt;
+      margin-right: 10px;
+      border: 1px solid black;
+      background: white;
+    }
+
+    canvas {
+      border: 1px solid black;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <h3>Teachable Doodle Classifier</h3>
+  <div id="canvasContainer"></div>
+  <button id="guess">guess</button>
+  <button id="clear">clear</button>
+  <p>
+    <button id="addA">Add an Example to A</button>
+    <button id="resetA">Reset A</button>
+    <p><span id="exampleA">0</span> A examples | Confidence in A is: <span id="confidenceA">0</span></p>
+
+    <br><button id="addB">Add an Example to B</button>
+    <button id="resetB">Reset B</button>
+    <p><span id="exampleB">0</span> B examples | Confidence in B is: <span id="confidenceB">0</span></p>
+  </p>
+  <h2 id="res"></h2>
+</body>
+
+</html>

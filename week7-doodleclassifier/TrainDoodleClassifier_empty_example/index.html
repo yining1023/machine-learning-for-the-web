@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Train a DoodleNet TensorFlow.js Tutorial</title>
+
+  <!-- Import TensorFlow.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0/dist/tf.min.js"></script>
+  <!-- Import tfjs-vis -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.0.2/dist/tfjs-vis.umd.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+
+  <!-- Import the data file -->
+  <script src="data.js" type="module"></script>
+
+  <!-- Import the main script file -->
+  <script src="script.js" type="module"></script>
+
+  <script src="sketch.js"></script>
+
+  <style>
+    body {
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    button {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24pt;
+      margin: 10px;
+      border: 1px solid black;
+      background: white;
+    }
+
+    canvas {
+      border: 1px solid black;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Train a Doodle Classifier on 3 classes from Quickdraw dataset</h1>
+  <div>
+    <label>Choose a myDoodleNet.json file:</label>
+    <input type="file" id="upload-json" name="upload-json">
+  </div>
+  <div>
+    <label>Choose a myDoodleNet.weights.bin file:</label>
+    <input type="file" id="upload-weights" name="upload-weights">
+  </div>
+
+  <button id="load">Load Model</button><br>
+  <button id="guess">Guess</button>
+  <button id="clear">Clear</button>
+  <div id="canvasContainer"></div>
+  <h2 id="res"></h2>
+  <p>
+    A list of object it can guess: <br>BOWTIE, LOLLIPOP, RAINBOW
+  </p>
+</body>
+</html>

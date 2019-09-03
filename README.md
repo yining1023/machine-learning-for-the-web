@@ -46,32 +46,43 @@ Click into each week, you will see the example for each week.
 * Coding session:
   * Installing ml5.js
   * Running Image Classification example with ml5.js
-  * Installing tf.js
-  * Running examples with tf.js
+  * Hosting p5 sketch on github
+  * Updating homework wiki
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1--2019-Spring)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1--2019-Fall)
 
-### Week 2 Image Classification (Transfer Learning, KNN Classifier, PoseNet)
+### Week 2 Image Classification (Transfer Learning, KNN Classifier)
 
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-imageClassifier)
 
 * Coding session:
   * Make a KNN Image Classifier
   * Posnet
   * poseNet + KNN Image Classifier
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Spring)
+* [Homework]()
 
-### Week 3 Train our own CNN model from scratch: Doodle Classifier
-* Guest speaker from creative lab
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier)
+### Week 3 Pose (PoseNet, BodyPix, U-Net)
+
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose)
 
 * Coding session:
-  - Build a doodle classifier with tf.js
+  * Posnet
+  * PoseNet + KNN Image Classifier
+  * Body-pix
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Spring)
+* [Homework]()
 
-### Week 4 Image Transformation (Part 1) Style transfer
+### Week 4 Sound Classifier
+
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifer)
+
+* Coding session:
+  * Sound Classifer
+
+* [Homework]()
+
+### Week 5 Image Transformation (Part 1) Style transfer
 
 * Review: Showing the homework from last week, discuss any difficulties and other creative outputs
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-styleTransfer)
@@ -83,7 +94,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework]()
 
-### Week 5 Image Transformation (Part 2) pix2pix, GAN
+### Week 6 Image Transformation (Part 2) pix2pix, GAN
 
 * Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-pix2pix)
@@ -96,21 +107,53 @@ Click into each week, you will see the example for each week.
 
 * Homework: Work on the final assignment, prepare the presentation
 
+### Week 7 Train our own CNN model from scratch: Doodle Classifier
+* Guest speaker from creative lab
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier)
 
-### Week 6 RunwayML, Speech recognition, Sketch RNN, Body pix
+* Coding session:
+  - Build a doodle classifier with tf.js
+
+* [Homework]()
+
+### Week 8 RunwayML, Speech recognition, Sketch RNN, Body pix
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway)
 
-* More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway)
+* More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-runway)
 * Review: Present your final assignment proposal and the experiments you did so far
 
 * Coding session:
   - Runway ML
 
-* Homework: Work on the final assignment, prepare the presentation
+* [Homework]()
 
-### Week 7
+### Week 9 StyleGAN
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-styleGAN)
 
-[Final Presentation]()
+* Coding session:
+  - Using pre-trained styleGAN models in Runway
+  - Create latent space animation
+  - Train your own styleGAN
+
+* [Homework]()
+
+### Week 10 densePose
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-styleGAN)
+
+* Coding session:
+  - densePose in Runway
+  - densePose2Texture in Runway
+  - Create your own textures
+
+* [Homework]()
+
+### Week 11 Final Project Proposal
+
+### Week 12 Guest Speaker
+
+### Week 13 User Testing
+
+### Week 14 Final Project Presentation
 
 ## Resources
 - [ml5js](https://ml5js.org/)
@@ -122,6 +165,12 @@ Click into each week, you will see the example for each week.
 - [Spell.run](http://spell.run)
 - [Siraj Raval's AI Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+## Reading
+- [A Brief History of Neural Networks and Deep Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/) by Andrey Kurenkov
+- [Is this AI? We drew you a flowchart to work it out](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) by Karen Hao
+- [Deep Learning with JavaScript: Neural Networks in TensorFlow.js
+](https://livebook.manning.com/book/deep-learning-with-javascript/welcome/v-7/)
 
 # Policies
 
@@ -147,6 +196,21 @@ Class will culminate with final projects. You are expected to push your abilitie
 
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
 
+### USE OF FREE AND OPEN SOURCE CODE EXAMPLES
+(The following is adapted from Golan Levin’s Interactivity and Computation Course (Fall 2018) at Carnegie Mellon University.)
+
+#### You must cite the source of any code you use
+with the exception of examples specifically provided by the professor that are demonstrated in the videos for this course. Please note the following additional expectations and guidelines:
+
+#### Check the License.
+When using others' code, pay attention to the license under which it has been released, and be certain to fulfill the terms and requirements of those licenses. Descriptions of common licenses, and their requirements, can be found at choosealicense.com. Some licenses may require permission. If you are confused or aren’t sure how to credit code, ask one of the course instructors and make your best good faith effort. Not properly citing code sources is grounds for a 0 on an assignment.
+
+#### Use Libraries.
+The use of general, repurposable libraries is strongly encouraged. The people who developed and contributed these components to the community worked hard, often for no pay; acknowledge them by citing their name and linking to their repository.
+
+#### Be Careful.
+It sometimes happens that an artist places the entire source code for their sketch or artwork online, as a resource from which others can learn. Assignments professors give in new-media arts courses are often similar (e.g. "Clock"); you may also discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a poetic experience. Your challenge, if and/or when you work with others' code, is to make it your own. It should be clear that downloading an artwork from someone's GitHub and simply changing the colors would be disgracefully lazy. And doing so without proper citation would be outright plagiarism.
+
 ## Statement of Principle
 
 The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
@@ -162,4 +226,3 @@ Your health and safety are a priority at NYU. If you experience any health or me
 ## Statement on use of Electronic Devices
 
 Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
-
