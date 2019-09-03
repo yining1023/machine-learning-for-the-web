@@ -172,6 +172,9 @@ Click into each week, you will see the example for each week.
 - [Deep Learning with JavaScript: Neural Networks in TensorFlow.js
 ](https://livebook.manning.com/book/deep-learning-with-javascript/welcome/v-7/)
 
+## EQUIPMENT
+You will need a modern laptop (4 years old or younger is a good rule of thumb). Most required software is freely available.
+
 # Policies
 
 ## Evaluation
