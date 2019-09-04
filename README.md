@@ -49,7 +49,7 @@ Click into each week, you will see the example for each week.
   * Hosting p5 sketch on github
   * Updating homework wiki
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1--2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2019-Fall)
 
 ### Week 2 Image Classification (Transfer Learning, KNN Classifier)
 
