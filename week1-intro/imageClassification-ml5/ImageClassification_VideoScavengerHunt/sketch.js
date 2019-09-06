@@ -27,11 +27,11 @@ function setup() {
   // Initialize the Image Classifier method with MobileNet and the video as the second argument
   classifier = ml5.imageClassifier('MobileNet', video, modelReady);
 
-  select('#start').mousePressed(() => {
+  select('#start').mousePressed(function() {
     playNextWord();
   });
 
-  select('#next').mousePressed(() => {
+  select('#next').mousePressed(function() {
     currentIndex++;
     if (currentIndex >= words.length) {
       currentIndex = 0;
@@ -39,6 +39,8 @@ function setup() {
     playNextWord();
   });
 
+  // speechEnded function will be called when an utterance is finished
+  // Read more at p5.speech's onEnd property: http://ability.nyu.edu/p5.js-speech/
   myVoice.onEnd = speechEnded;
 }
 
@@ -57,17 +59,24 @@ function modelReady() {
 
 // Get a prediction for the current video frame
 function classifyVideo() {
-  classifier.predict(gotResult);
+  classifier.classify(gotResult);
 }
 
 // When we get a result
 function gotResult(err, results) {
-  // The results are in an array ordered by probability.
-  const result = results[0].className;
+  // The results are in an array ordered by confidence.
+  // Get the first result string
+  const result = results[0].label;
+  // Split the first result string by coma and get the first word
   const oneWordRes = result.split(',')[0];
-  const top3Res = results.map(r => r.className);
+  // Get the top 3 results as strings in an array
+  // Read more about map function here: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+  const top3Res = results.map(r => r.label);
+  // Find if any of the top 3 result strings includes the current word
+  // Read more about find function here: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
   const ifFound = top3Res.find(r => r.includes(currentWord))
   if (ifFound) {
+    // If top 3 results includes the current word
     isPlaying = false;
     select('#message').html(`You found ${currentWord}!`);
     myVoice.speak(`You found ${currentWord}!`);
