@@ -9,8 +9,8 @@
 - Introduction to ml5.js, tf.js, examples, experiments, datasets
 
 ## Coding session:
-- Install ml5.js, [get started](https://ml5js.org/docs/getting-started)
-- Running [Image Classification](https://ml5js.org/docs/image-classification-example) example with ml5.js
+- Install ml5.js, [get started](https://ml5js.org/getting-started/)
+- Running [Image Classification](https://ml5js.org/reference/api-ImageClassifier/) example with ml5.js
 - Install tf.js, [get started](https://js.tensorflow.org/#getting-started)
 - Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting-started)
 
@@ -29,7 +29,7 @@
 - tf.js [examples](https://github.com/tensorflow/tfjs-examples)
 - [How to host p5 sketch on github pages](https://youtu.be/8HPYsDTk17A)
 - [Google AI experiments](https://experiments.withgoogle.com/collection/ai)
-- [ml5 image classifier webcam](https://editor.p5js.org/ml5/full/rJ-C5AQ5X) (also works on the mobile phone)
+- [ml5 image classifier webcam](https://editor.p5js.org/yining/sketches/TKI4SkqM5) (also works on the mobile phone, [full screen](https://editor.p5js.org/yining/full/TKI4SkqM5))
 
 ## Inspirations about image classifier
 - [Emojis Cavenger Hunt](https://emojiscavengerhunt.withgoogle.com/)
