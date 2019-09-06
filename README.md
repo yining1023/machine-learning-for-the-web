@@ -30,11 +30,11 @@ $ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using py
 ```
 Go to `localhost:8000` in your browser, you will see a directory list like this:
 - week1-intro/
-- week2-ImageClassifier-KNN-Posenet/
-- week3-doodleclassifier/
-- week4-styleTransfer/
-- week5-pix2pix/
-- week6-runway/
+- week2-...
+- week3-...
+- week4-...
+- week5-...
+- week6-...
 
 Click into each week, you will see the example for each week.
 
@@ -49,7 +49,7 @@ Click into each week, you will see the example for each week.
   * Hosting p5 sketch on github
   * Updating homework wiki
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1--2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2019-Fall)
 
 ### Week 2 Image Classification (Transfer Learning, KNN Classifier)
 
@@ -171,6 +171,9 @@ Click into each week, you will see the example for each week.
 - [Is this AI? We drew you a flowchart to work it out](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) by Karen Hao
 - [Deep Learning with JavaScript: Neural Networks in TensorFlow.js
 ](https://livebook.manning.com/book/deep-learning-with-javascript/welcome/v-7/)
+
+## EQUIPMENT
+You will need a modern laptop (4 years old or younger is a good rule of thumb). Most required software is freely available.
 
 # Policies
 
