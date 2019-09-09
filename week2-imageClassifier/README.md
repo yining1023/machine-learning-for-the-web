@@ -14,10 +14,10 @@
 - Regression with feature extractor
 
 ## See demos live
-- [KNN Image Classifier Video](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_Video/)
-- [KNN Image Classifier Video + Sound](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_VideoSound/)
-- [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/KNNClassification_VideoSquare/)
-- [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/FeatureExtractor_Image_Regression/)
+- [KNN Image Classifier Video](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_Video/)
+- [KNN Image Classifier Video + Sound](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSound/)
+- [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSquare/)
+- [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/FeatureExtractor_Image_Regression/)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Spring)
 
