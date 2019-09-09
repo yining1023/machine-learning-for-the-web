@@ -19,7 +19,7 @@
 - [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSquare/)
 - [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/FeatureExtractor_Image_Regression/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Fall)
 
 ## Inspirations about KNN image classifier:
 - [Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f), [live demo](https://shekit.github.io/alexa-sign-language-translator/)
