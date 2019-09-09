@@ -1,6 +1,6 @@
 # Week 3 Poses
 
-## Presentation: [Slides](https://docs.google.com/presentation/d/1oDLq34QWMs_YJiap-yX4Co6TPRCWv63OjcKn5fpq3Vo/edit?usp=sharing)
+## Presentation: [Slides](https://docs.google.com/presentation/d/16fUTCFbxCX3C0aPQRpgaFZEi4IW_61JGmj4Lu0YRXrc/edit?usp=sharing)
 - What is poseNet
 - Existing projects related to poseNet
 - What is Bodypix
