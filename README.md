@@ -57,10 +57,8 @@ Click into each week, you will see the example for each week.
 
 * Coding session:
   * Make a KNN Image Classifier
-  * Posnet
-  * poseNet + KNN Image Classifier
 
-* [Homework]()
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Fall)
 
 ### Week 3 Pose (PoseNet, BodyPix, U-Net)
 
