@@ -10,12 +10,14 @@ KNN Classification on Webcam Images with mobileNet. Built with p5.js
 let video;
 // Create a KNN classifier
 const knnClassifier = ml5.KNNClassifier();
-// Create a featureExtractor that can extract the already learned features from MobileNet
-const featureExtractor = ml5.featureExtractor('MobileNet', modelReady);
+
+let featureExtractor;
 let currentWord;
 let myVoice;
 
 function setup() {
+  // Create a featureExtractor that can extract the already learned features from MobileNet
+  featureExtractor = ml5.featureExtractor('MobileNet', modelReady);
   noCanvas();
   // Create a video element
   video = createCapture(VIDEO);
@@ -40,21 +42,21 @@ function addExample(label) {
 
   // Add an example with a label to the classifier
   knnClassifier.addExample(features, label);
-  updateExampleCounts();
+  updateCounts();
 }
 
 // Predict the current frame.
 function classify() {
-  // Get the total number of classes from knnClassifier
-  const numClasses = knnClassifier.getNumLabels();
-  if (numClasses <= 0) {
-    console.error('There is no examples in any class');
+  // Get the total number of labels from knnClassifier
+  const numLabels = knnClassifier.getNumLabels();
+  if (numLabels <= 0) {
+    console.error('There is no examples in any label');
     return;
   }
   // Get the features of the input video
   const features = featureExtractor.infer(video);
 
-  // Use knnClassifier to classify which class do these features belong to
+  // Use knnClassifier to classify which label do these features belong to
   // You can pass in a callback function `gotResults` to knnClassifier.classify function
   knnClassifier.classify(features, gotResults);
 }
@@ -79,7 +81,7 @@ function createButtons() {
 
   // Clear all classes button
   buttonClearAll = select('#clearAll');
-  buttonClearAll.mousePressed(clearAllClasses);
+  buttonClearAll.mousePressed(clearAllLabels);
 }
 
 // Show the results
@@ -90,14 +92,14 @@ function gotResults(err, result) {
   }
 
   if (result.confidencesByLabel) {
-    const confideces = result.confidencesByLabel;
+    const confidences = result.confidencesByLabel;
     // result.label is the label that has the highest confidence
     if (result.label) {
       select('#result').html(result.label);
-      select('#confidence').html(`${confideces[result.label] * 100} %`);
+      select('#confidence').html(`${confidences[result.label] * 100} %`);
 
       // If the confidence is higher then 0.9
-      if (result.label !== currentWord && confideces[result.label] > 0.9) {
+      if (result.label !== currentWord && confidences[result.label] > 0.9) {
         currentWord = result.label;
         // Say the current word 
         myVoice.speak(currentWord);
@@ -109,7 +111,7 @@ function gotResults(err, result) {
 }
 
 // Update the example count for each class	
-function updateExampleCounts() {
+function updateCounts() {
   const counts = knnClassifier.getCountByLabel();
 
   select('#example1').html(counts['Hello'] || 0);
@@ -117,7 +119,7 @@ function updateExampleCounts() {
 }
 
 // Clear all the examples in all classes
-function clearAllClasses() {
-  knnClassifier.clearAllClasses();
-  updateExampleCounts();
+function clearAllLabels() {
+  knnClassifier.clearAllLabels();
+  updateCounts();
 }

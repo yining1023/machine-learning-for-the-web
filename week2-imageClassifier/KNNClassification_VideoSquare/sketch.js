@@ -13,10 +13,12 @@ let posY;
 const squareSize = 100;
 // Create a KNN classifier
 const knnClassifier = ml5.KNNClassifier();
-// Create a featureExtractor that can extract the already learned features from MobileNet
-const featureExtractor = ml5.featureExtractor('MobileNet', modelReady);
+let featureExtractor;
 
 function setup() {
+  // Create a featureExtractor that can extract the already learned features from MobileNet
+  featureExtractor = ml5.featureExtractor('MobileNet', modelReady);
+
   const canvas = createCanvas(640, 480);
   posX = width / 2;
   posY = height / 2;
@@ -54,21 +56,21 @@ function addExample(label) {
 
   // Add an example with a label to the classifier
   knnClassifier.addExample(features, label);
-  updateExampleCounts();
+  updateCounts();
 }
 
 // Predict the current frame.
 function classify() {
-  // Get the total number of classes from knnClassifier
-  const numClasses = knnClassifier.getNumLabels();
-  if (numClasses <= 0) {
-    console.error('There is no examples in any class');
+  // Get the total number of labels from knnClassifier
+  const numLabels = knnClassifier.getNumLabels();
+  if (numLabels <= 0) {
+    console.error('There is no examples in any label');
     return;
   }
   // Get the features of the input video
   const features = featureExtractor.infer(video);
 
-  // Use knnClassifier to classify which class do these features belong to
+  // Use knnClassifier to classify which label do these features belong to
   knnClassifier.classify(features, gotResults);
 }
 
@@ -104,7 +106,7 @@ function createButtons() {
 
   // Clear all classes button
   buttonClearAll = select('#clearAll');
-  buttonClearAll.mousePressed(clearAllClasses);
+  buttonClearAll.mousePressed(clearAllLabels);
 }
 
 // Show the results
@@ -115,11 +117,11 @@ function gotResults(err, result) {
   }
 
   if (result.confidencesByLabel) {
-    const confideces = result.confidencesByLabel;
+    const confidences = result.confidencesByLabel;
     // result.label is the label that has the highest confidence
     if (result.label) {
       select('#result').html(result.label);
-      select('#confidence').html(`${confideces[result.label] * 100} %`);
+      select('#confidence').html(`${confidences[result.label] * 100} %`);
 
       switch(result.label) {
         case 'Up':
@@ -153,7 +155,7 @@ function gotResults(err, result) {
 }
 
 // Update the example count for each class	
-function updateExampleCounts() {
+function updateCounts() {
   const counts = knnClassifier.getCountByLabel();
 
   select('#example1').html(counts['Up'] || 0);
@@ -163,13 +165,13 @@ function updateExampleCounts() {
 }
 
 // Clear the examples in one class
-function clearClass(classLabel) {
-  knnClassifier.clearClass(classLabel);
-  updateExampleCounts();
+function clearLabel(classLabel) {
+  knnClassifier.clearLabel(classLabel);
+  updateCounts();
 }
 
 // Clear all the examples in all classes
-function clearAllClasses() {
-  knnClassifier.clearAllClasses();
-  updateExampleCounts();
+function clearAllLabels() {
+  knnClassifier.clearAllLabels();
+  updateCounts();
 }
