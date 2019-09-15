@@ -10,14 +10,14 @@
 - Posnet
 - poseNet + KNN Image Classifier
 - BodyPix
+- U-net
 
 ## See demos live
-- [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/FeatureExtractor_Image_Regression/)
-- [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet/)
-- [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet_KNNClassification)
-- [PoseNet Video + Music](https://yining1023.github.io/machine-learning-for-the-web/week2-ImageClassifier-KNN-Posenet/PoseNet_VideoMusic)
+- [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet/)
+- [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_KNNClassification)
+- [PoseNet Video + Music](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Spring)
 
 ## Inspirations about PoseNet:
 - [Moving morrir](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
