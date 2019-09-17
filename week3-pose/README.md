@@ -4,18 +4,20 @@
 - What is poseNet
 - Existing projects related to poseNet
 - What is Bodypix
-- What is Densepose
+- What is UNET
 
 ## Coding session:
 - Posnet
 - poseNet + KNN Image Classifier
 - BodyPix
-- U-net
+- UNET
 
 ## See demos live
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet/)
 - [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_KNNClassification)
 - [PoseNet Video + Music](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic)
+- [BodyPix](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix/)
+- [BodyPix Parts](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts/)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Spring)
 
