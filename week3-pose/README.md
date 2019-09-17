@@ -27,3 +27,6 @@
 - [Making music by posing melody shapes to my webcam](https://t.co/RN9qQTDkti)
 - [Make music with Posenet from ml4a](https://ml4a.github.io/demos/tfjs/posenet-music.html)
 - [PoseNet in ml5.js](https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet)
+- [Semi-Conductor](https://experiments.withgoogle.com/semi-conductor)
+- [Body, Movement, Language: AI Sketches With Bill T. Jones](https://experiments.withgoogle.com/billtjonesai)
+- [Touch Type](https://experiments.withgoogle.com/touch-type)
