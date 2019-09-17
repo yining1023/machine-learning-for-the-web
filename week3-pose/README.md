@@ -19,7 +19,7 @@
 - [BodyPix](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix/)
 - [BodyPix Parts](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Fall)
 
 ## Inspirations about PoseNet:
 - [Moving morrir](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
