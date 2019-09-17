@@ -31,3 +31,4 @@
 - [Semi-Conductor](https://experiments.withgoogle.com/semi-conductor)
 - [Body, Movement, Language: AI Sketches With Bill T. Jones](https://experiments.withgoogle.com/billtjonesai)
 - [Touch Type](https://experiments.withgoogle.com/touch-type)
+- [nixel-Body](http://cmuems.com/2018/60212f/nixel/10/12/nixel-body/)
