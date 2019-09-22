@@ -16,6 +16,7 @@
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet/)
 - [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_KNNClassification)
 - [PoseNet Video + Music](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic)
+- [PoseNet Video + Music + Multiple Squares](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic_multiple)
 - [BodyPix](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix/)
 - [BodyPix Parts](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts/)
 - [BodyPix Bubbles](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-bubbles/)
