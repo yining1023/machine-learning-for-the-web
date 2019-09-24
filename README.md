@@ -69,16 +69,19 @@ Click into each week, you will see the example for each week.
   * PoseNet + KNN Image Classifier
   * Body-pix
 
-* [Homework]()
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Fall)
 
 ### Week 4 Sound Classifier
 
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifer)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifier)
 
 * Coding session:
-  * Sound Classifer
+  * Sound Classifer with Teachable Machine
+  * Pose Classifier with Teachable Machine
+  * Image Classifier with Teachable Machine
+  * Classifiers with Arduino
 
-* [Homework]()
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2019-Fall)
 
 ### Week 5 Image Transformation (Part 1) Style transfer
 
