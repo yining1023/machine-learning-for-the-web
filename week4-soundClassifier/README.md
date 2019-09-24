@@ -10,13 +10,12 @@ Week 4 Sound Classifier (Teachable Machine)
   * Classifiers with Arduino
 
 ## Help
-  * How to use p5 serial(https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+  * [How to use p5 serial](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
   * Tips for p5 serial
     * node 10
     * `npm install -g p5.serialserver` don't use `sudo`
     * `p5serial`
     * Get the port name right
-
  
 ## See demos live:
   * [Image Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineImage/)
