@@ -12,6 +12,7 @@
 ## Help
   * [How to use p5 serial](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
   * Tips for p5 serial
+    * Download the app [here](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.1)
     * node 10
     * `npm install -g p5.serialserver` don't use `sudo`
     * `p5serial`
