@@ -1,4 +1,4 @@
-# Week 4 Image Transfermation - Style Transfer
+# Week 5 Image Transfermation - Style Transfer
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1QJumvGwCzErFJFva2LnqNLUmIDp_uz83fPWC6iCR3l0/edit?usp=sharing)
 - What is Style Transfer
@@ -14,16 +14,12 @@
 - Running Style Transfer model in ml5.js
 
 ## See demos live
-- [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
-- [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week4-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
+- [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
+- [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
 
-## [2019 spring week 5 homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2019-Spring)
+## [homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2019-fall)
 
 ## Resource:
 - [Training a style transfer model with on Spell, github](https://github.com/yining1023/styleTransfer_spell)
 - [Training a style transfer model with on Spell, video](https://youtu.be/STHRNIJc-vI)
 - [Introduction to Spell (for Machine Learning in the Cloud)](https://youtu.be/ggBOAPtFjYU)
-- [Text Generation with LSTM and Spell](https://youtu.be/xfuVcfwtEyw)
-- [Training LSTM from ml5.js](https://github.com/ml5js/training-lstm)
-- [What is word2vec](https://youtu.be/LSS_bos_TPI?list=PLRqwX-V7Uu6aQ0oh9nH8c6U1j9gCg-GdF)
-- [Training word2vec](https://github.com/ml5js/training-word2vec)
