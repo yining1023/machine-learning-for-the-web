@@ -98,7 +98,7 @@ Click into each week, you will see the example for each week.
 ### Week 6 Image Transformation (Part 2) pix2pix, GAN
 
 * Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-pix2pix)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-pix2pix)
 
 * Coding session:
   - Running pix2pix with ml5.js
@@ -126,7 +126,7 @@ Click into each week, you will see the example for each week.
 * [Homework]()
 
 ### Week 9 Train our own CNN model from scratch: Doodle Classifier
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-doodleclassifier)
 
 * Coding session:
   - Build a doodle classifier with tf.js
@@ -134,7 +134,7 @@ Click into each week, you will see the example for each week.
 * [Homework]()
 
 ### Week 10 StyleGAN
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-styleGAN)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week10-styleGAN)
 
 * Coding session:
   - Using pre-trained styleGAN models in Runway
@@ -144,7 +144,7 @@ Click into each week, you will see the example for each week.
 * [Homework]()
 
 ### Week 11 densePose and Final Project Proposal
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-styleGAN)
+* [Notes]()
 
 * Coding session:
   - densePose in Runway
