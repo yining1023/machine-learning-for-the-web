@@ -105,11 +105,27 @@ Click into each week, you will see the example for each week.
   - Setup Spell.run training environment
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
+* [Homework]()
 
-* Homework: Work on the final assignment, prepare the presentation
+### Week 7 RunwayML
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
 
-### Week 7 Train our own CNN model from scratch: Doodle Classifier
-* Guest speaker from creative lab
+* More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
+
+* Coding session:
+  - Runway ML
+
+* [Homework]()
+
+### Week 8 DIY Neural Network with ml5.js
+* [Notes]()
+
+* Coding session:
+  - Build a Neural Network with ml5.js
+
+* [Homework]()
+
+### Week 9 Train our own CNN model from scratch: Doodle Classifier
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier)
 
 * Coding session:
@@ -117,18 +133,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework]()
 
-### Week 8 RunwayML, Speech recognition, Sketch RNN, Body pix
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway)
-
-* More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-runway)
-* Review: Present your final assignment proposal and the experiments you did so far
-
-* Coding session:
-  - Runway ML
-
-* [Homework]()
-
-### Week 9 StyleGAN
+### Week 10 StyleGAN
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-styleGAN)
 
 * Coding session:
@@ -138,7 +143,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework]()
 
-### Week 10 densePose
+### Week 11 densePose and Final Project Proposal
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-styleGAN)
 
 * Coding session:
@@ -147,8 +152,6 @@ Click into each week, you will see the example for each week.
   - Create your own textures
 
 * [Homework]()
-
-### Week 11 Final Project Proposal
 
 ### Week 12 Guest Speaker
 
