@@ -1,4 +1,4 @@
-# Week 5 Image Transfermation - Pix2pix
+# Week 6 Image Transfermation - Pix2pix
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1v3NBEwDakIlOuvU15nLBFSaoPdaJ3M6n-bVozMTGxWU/edit?usp=sharing)
 - What is pix2pix
