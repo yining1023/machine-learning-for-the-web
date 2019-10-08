@@ -105,7 +105,7 @@ Click into each week, you will see the example for each week.
   - Setup Spell.run training environment
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
-* [Homework]()
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2019-Fall)
 
 ### Week 7 RunwayML
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
