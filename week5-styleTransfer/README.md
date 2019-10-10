@@ -16,7 +16,7 @@
 ## See demos live
 - [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
 - [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
-- [Photo Styles Transfer with Runway](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/photostylestransfer/) (Need to open Runway, and run 'FastPhotoStyle' model on localhost:8000)
+- [Photo Styles Transfer with Runway](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/photostylestransfer/) (Need to open Runway, and run 'FastPhotoStyle' model on localhost:8000)
 
 ## [homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2019-fall)
 
