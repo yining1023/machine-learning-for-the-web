@@ -28,7 +28,7 @@ function setup() {
   createBtn();
 
   // Create video images from webcam
-  video = createCapture();
+  video = createCapture(VIDEO);
   video.size(320, 240);
   video.hide();
 }

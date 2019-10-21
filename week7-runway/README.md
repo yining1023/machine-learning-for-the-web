@@ -1,15 +1,36 @@
-# Week 6 Runway, SketchRNN, Speech Classifier
-## Presentation: [Slides](https://docs.google.com/presentation/d/1mjkabKule4XYKrYzDoNaKTjAbFbeimTSJHAlc9aRtoc/edit?usp=sharing)
+# Week 7 Runway
+## [Introduction to Runway](https://learn.runwayml.com/#/):
+- Install Runway
+- Run a model in Runway, input, output, network, export
+- Chain models in runway
 
-## Coding session:
-- AttnGAN(text2image) in Runway with p5js
-- Im2txt in Runway with p5js
-- PhotoSketch in Runway - ColoringBook
+## Demo session:
+- Runway Models
+  - GPT2, Liquid-Warping-GAN, UGATIT, StyleGAN, deeplab, Spade-Coco, Few-Shot-Face-Translation-GAN
+- Runway with p5.js
+  - AttnGAN(text2image) in Runway with p5js
+  - Im2txt in Runway with p5js
+  - PhotoSketch in Runway - ColoringBook
+  - deeplab in Runway with p5.js
+  - GPT2 in Runway with p5.js
+  - CycleGAN in Runway with p5.js
+- Runway with Processing
+- Runway with Photoshop
+- Runway with Unity
 
 ## See demos live
-- [AttnGAN(text to image)](https://yining1023.github.io/machine-learning-for-the-web/week6-runway/AttnGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway/AttnGAN)
-- [im2txt](https://yining1023.github.io/machine-learning-for-the-web/week6-runway/im2txt/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway/im2txt)
-- [ColoringBook Runway](https://yining1023.github.io/machine-learning-for-the-web/week6-runway/PhotoSketch/ColoringBook/), [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-runway/PhotoSketch/ColoringBook)
+- [AttnGAN(text to image)](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AttnGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/AttnGAN)
+- [im2txt](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/im2txt/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/im2txt)
+- [ColoringBook Runway](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/PhotoSketch/ColoringBook/), [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/PhotoSketch/ColoringBook)
+- [deeplab Runway](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/deeplab/), Need to run deeplab at `http://localhost:8000` in Runway
+- [GPT2](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/GPT2/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/GPT2)
+- [CycleGAN](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/CycleGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/CycleGAN)
 
 ## Resource:
-- [Get started with Runway](https://docs.runwayapp.ai/#/)
+- [Get started with Runway](https://learn.runwayml.com/#/)
+- [Ellen's runway workshop](https://github.com/ellennickles/painting-landscapes-with-the-body)
+- [Runwayml with p5.js](https://github.com/runwayml/p5js)
+- [Runway with Processing](https://github.com/runwayml/processing-library)
+- [Runway with Photoshop](https://github.com/runwayml/RunwayML-for-Photoshop)
+- [Runway with Unity](https://github.com/runwayml/RunwayML-for-Unity)
+- [Made with Runway](https://runwayml.com/madewith)
