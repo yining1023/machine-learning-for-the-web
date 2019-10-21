@@ -143,17 +143,9 @@ Click into each week, you will see the example for each week.
 
 * [Homework]()
 
-### Week 11 densePose and Final Project Proposal
-* [Notes]()
+### Week 11 Guest Speaker (11/12)
 
-* Coding session:
-  - densePose in Runway
-  - densePose2Texture in Runway
-  - Create your own textures
-
-* [Homework]()
-
-### Week 12 Guest Speaker
+### Week 12 Final Project Proposal
 
 ### Week 13 User Testing
 
