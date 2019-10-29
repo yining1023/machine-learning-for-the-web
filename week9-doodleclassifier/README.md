@@ -1,4 +1,4 @@
-# Week 3 Build your own CNN model
+# Week 9 Build your own CNN model
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1YulUXpmTYr7NHLDPEP56eKYwneA53y9glgx6ZZ97fBM/edit?usp=sharing)
 - 7 steps of Machine Learning
@@ -16,8 +16,7 @@
 - [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/TrainDoodleClassifier)
 - [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/TrainMNIST)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Spring)
-## [2019 spring week 4 homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2019-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2019-Spring)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
