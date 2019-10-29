@@ -33,3 +33,4 @@
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 - [ml5 Neural Network Reference](https://learn.ml5js.org/docs/#/reference/neural-network)
 - [ml5 Neural Network examples code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
+- [How to collect data](https://github.com/ml5js/Intro-ML-Arts-IMA/blob/source/04_diy_neural/data-tutorial.md)
