@@ -115,15 +115,15 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Runway ML
 
-* [Homework]()
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2019-Fall)
 
 ### Week 8 DIY Neural Network with ml5.js
-* [Notes]()
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
 
 * Coding session:
   - Build a Neural Network with ml5.js
 
-* [Homework]()
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2019-Fall)
 
 ### Week 9 Train our own CNN model from scratch: Doodle Classifier
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-doodleclassifier)
