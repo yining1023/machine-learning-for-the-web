@@ -28,3 +28,8 @@
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2019-Fall)
 
 ## Resource:
+- [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
+- [Tensorflow Playground](https://playground.tensorflow.org)
+- [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+- [ml5 Neural Network Reference](https://learn.ml5js.org/docs/#/reference/neural-network)
+- [ml5 Neural Network examples code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
