@@ -6,7 +6,7 @@ function setup() {
 
   let nnOptions = {
     dataUrl: 'data/titanic_cleaned.csv',
-    inputs: ['fare_class','sex', 'age', 'fare'],
+    inputs: ['fare_class','sex', 'fare'],
     outputs: ['survived'],
     task: 'classification',
     debug: true
@@ -35,19 +35,11 @@ function finishedTraining() {
 
 // TODO: normalize and encode values going into predict?
 function classify() {
-  let age = parseInt(select('#age').value());
   let fare = parseInt(select('#fare').value());
   let fare_class = select('#fare_class').value();
   let sex = select('#sex').value();
 
-  // let inputs = {
-  //   age: age,
-  //   fare: fare,
-  //   fare_class: fare_class,
-  //   sex: sex
-  // };
-
-  let inputs = [fare_class, sex, age, fare];
+  let inputs = [fare_class, sex, fare];
   neuralNetwork.classify(inputs, gotResults);
 }
 

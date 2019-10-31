@@ -63,5 +63,4 @@ function createTrainingData(){
             nn.addData([x], [1])
         }
     }
-    
 }
