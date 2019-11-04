@@ -133,7 +133,11 @@ Click into each week, you will see the example for each week.
 
 * [Homework]()
 
-### Week 10 StyleGAN
+### Week 10 Guest Speaker (11/12)
+
+* [Homework - Final project proposal]()
+
+### Week 11 StyleGAN
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week10-styleGAN)
 
 * Coding session:
@@ -142,8 +146,6 @@ Click into each week, you will see the example for each week.
   - Train your own styleGAN
 
 * [Homework]()
-
-### Week 11 Guest Speaker (11/12)
 
 ### Week 12 Final Project Proposal
 
