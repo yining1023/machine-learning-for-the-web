@@ -28,6 +28,11 @@
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2019-Fall)
 
+## Runway projects
+- [Creativity Disrupted](https://gitlab.fhnw.ch/hgk-ml/hgk-ml-seminars/tree/master/creativity-disrupted)
+- [A Wojcicki made sth with Runway to convert 3D model in Unity to a generated photo](https://twitter.com/pretendsmarts/status/1189901105775489026)
+- [Andreas Refsgaard made a "perler beads to landscape" in Processing with Runway](https://twitter.com/AndreasRef/status/1189897194243006470)
+
 ## Resource:
 - [Get started with Runway](https://learn.runwayml.com/#/)
 - [Ellen's runway workshop](https://github.com/ellennickles/painting-landscapes-with-the-body)
