@@ -16,11 +16,10 @@
 - [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/TrainDoodleClassifier)
 - [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/TrainMNIST)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2019-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2019-Fall)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
-- [Tensorflow Playground](https://playground.tensorflow.org)
 - [Training on Images: Recognizing Handwritten Digits with a Convolutional Neural Network](https://js.tensorflow.org/tutorials/mnist.html)
 - [Coding train: Doodle Classifier - Intelligence and Learning](https://www.youtube.com/watch?v=pqY_Tn2SIVA&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
