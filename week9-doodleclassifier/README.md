@@ -9,12 +9,12 @@
 - How to build a model in tf.js: Doodle Classifier!
 
 ## See demos live
-- [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/DoodleClassifier100/)
-- [Doodle Classifier on 345 classes](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/DoodleClassifier345/)
-- [Doodle Classifier with KNN Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/DoodleClassifier_KNN/)
-- [Get Quickdraw Dataset](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/GetQuickdrawData/)
-- [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/TrainDoodleClassifier)
-- [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/week3-doodleclassifier/TrainMNIST)
+- [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/week9-doodleclassifier/DoodleClassifier100/)
+- [Doodle Classifier on 345 classes](https://yining1023.github.io/machine-learning-for-the-web/week9-doodleclassifier/DoodleClassifier345/)
+- [Doodle Classifier with KNN Classifier](https://yining1023.github.io/machine-learning-for-the-web/week9-doodleclassifier/DoodleClassifier_KNN/)
+- [Get Quickdraw Dataset](https://yining1023.github.io/machine-learning-for-the-web/week9-doodleclassifier/GetQuickdrawData/)
+- [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/week9-doodleclassifier/TrainDoodleClassifier)
+- [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/week9-doodleclassifier/TrainMNIST)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2019-Fall)
 
