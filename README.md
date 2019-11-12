@@ -131,11 +131,11 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Build a doodle classifier with tf.js
 
-* [Homework]()
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2019-Fall)
 
 ### Week 10 Guest Speaker (11/12)
 
-* [Homework - Final project proposal]()
+* [Homework - Final project proposal](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2019-Fall)
 
 ### Week 11 StyleGAN
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week10-styleGAN)
