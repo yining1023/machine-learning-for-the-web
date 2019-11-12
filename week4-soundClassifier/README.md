@@ -22,6 +22,7 @@
   * [Image Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineImage/)
   * [Sound Classifer with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineSound/)
   * [Pose Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachinePoses/)
+  * [Speech Reconition with p5.speech](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/SpeechRecognition/)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2019-Fall)
 
