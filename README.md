@@ -145,7 +145,7 @@ Click into each week, you will see the example for each week.
   - Create latent space animation
   - Train your own styleGAN
 
-* [Homework]()
+* Homework: [Continue final projects](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2019-Fall)
 
 ### Week 12 Final Project Proposal
 
