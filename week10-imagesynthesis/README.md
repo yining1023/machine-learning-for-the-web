@@ -11,6 +11,8 @@
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 
 ### Resources
+* [StyleGAN: None of These Faces Are Real](https://youtu.be/-cOYwZ2XcAc) from Two Minute Papers
+* [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
 * [How Generative Models Work](https://youtu.be/f-cCpVGoxhY) From Gene Kogan
 * [Google's A.I. Experiments: Visualizing High-Dimensional Space](https://www.youtube.com/watch?v=wvsE8jm1GzE)
 * Octavio Good on [Generative Adversarial Networks](https://www.youtube.com/watch?v=Oqm9vsf_hvU&feature=youtu.be&t=1313) (21:54 - 28:35)
