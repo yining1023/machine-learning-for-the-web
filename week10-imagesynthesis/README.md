@@ -12,7 +12,7 @@
 
 ### Videos/Tutorials
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
-* [https://heartbeat.fritz.ai/animated-stylegan-image-transitions-with-runwayml-57a2e20db80f](https://heartbeat.fritz.ai/animated-stylegan-image-transitions-with-runwayml-57a2e20db80f)
+* [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://heartbeat.fritz.ai/animated-stylegan-image-transitions-with-runwayml-57a2e20db80f)
 
 ### Resources
 * [StyleGAN: None of These Faces Are Real](https://youtu.be/-cOYwZ2XcAc) from Two Minute Papers
