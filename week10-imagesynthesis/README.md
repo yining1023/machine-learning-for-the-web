@@ -1,3 +1,9 @@
+## Presentation: [Slides](https://docs.google.com/presentation/d/1Mv1XlDNRNRcX9xWRE5OQ31Wv7K5dL2svsbHid9Rr758/edit?usp=sharing)
+- Latent space
+- GAN
+- StyleGAN
+- How to train a styleGAN with own dataset
+
 ### Code Examples
 * [Generate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/GOiFqtbkK)
 * [Interpolate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/dyJmIybwi-)
@@ -12,3 +18,5 @@
 * [GAN Lab](https://poloclub.github.io/ganlab/) by Minsuk Kahng, Nikhil Thorat, Polo Chau, Fernanda Viégas, and Martin Wattenberg
 * [Using AI to Produce “Impossible” Tulips: Anna Ridler uses AI to bring “tulipmania” into the future](https://hyperallergic.com/487261/anna-ridler-tulipmania/) by Elain Ayers
 * Mario Klingemann’s Neurography: [Cameraless Photography with Neural Networks](https://www.youtube.com/watch?v=21W5-q5YYjw)
+
+### Homework: continue final projects development
