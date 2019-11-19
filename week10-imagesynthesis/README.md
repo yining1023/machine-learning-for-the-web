@@ -8,6 +8,9 @@
 * [Generate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/GOiFqtbkK)
 * [Interpolate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/dyJmIybwi-)
 * [Wandering Latent Space StyleGAN](https://editor.p5js.org/ima_ml/sketches/7YZzS37yh)
+* [Rainbow Transition](https://editor.p5js.org/yining/sketches/u4ZnAkJT9)
+
+### Videos
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 
 ### Resources
