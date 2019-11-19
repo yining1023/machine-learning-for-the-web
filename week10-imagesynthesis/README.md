@@ -1,2 +1,3 @@
 ### Resources
-- [Intro to Generative Models](https://youtu.be/f-cCpVGoxhY)
+- [How Generative Models Work](https://youtu.be/f-cCpVGoxhY) From Gene Kogan
+
