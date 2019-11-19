@@ -5,7 +5,7 @@
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 
 ### Resources
-- [How Generative Models Work](https://youtu.be/f-cCpVGoxhY) From Gene Kogan
+* [How Generative Models Work](https://youtu.be/f-cCpVGoxhY) From Gene Kogan
 * [Google's A.I. Experiments: Visualizing High-Dimensional Space](https://www.youtube.com/watch?v=wvsE8jm1GzE)
 * [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/) by Shan Carter (see the first three sections for latent space descriptions)
 * Octavio Good on [Generative Adversarial Networks](https://www.youtube.com/watch?v=Oqm9vsf_hvU&feature=youtu.be&t=1313) (21:54 - 28:35)
