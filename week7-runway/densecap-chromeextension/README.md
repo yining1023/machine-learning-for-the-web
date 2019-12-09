@@ -7,7 +7,7 @@
 4. Click "Load unpacked" and point to the root directory of the extension.
 
 ## Demo video
-
+[![Alt text](https://img.youtube.com/vi/KPlGN23eyaE/0.jpg)](https://www.youtube.com/watch?v=KPlGN23eyaE)
 
 # Below is the original readme
 # Pikachu Everywhere
