@@ -1,0 +1,24 @@
+{
+  "name": "Image to text with DenseCap",
+  "version": "0.1",
+  "description": "Get description of every image.",
+  "manifest_version": 2,
+  "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "all_frames": true,
+      "js":      ["assets/js/contentScript.js"]
+  }],
+  "permissions": [
+    "https://some-random-api.ml/*"
+  ],
+  "background": {
+    "scripts": ["assets/js/background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "assets/images/icon16.png",
+    "32": "assets/images/icon32.png",
+    "48": "assets/images/icon48.png",
+    "128": "assets/images/icon128.png"
+  }
+}
