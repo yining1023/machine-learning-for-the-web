@@ -156,19 +156,23 @@ Click into each week, you will see the example for each week.
 ## Resources
 - [ml5js](https://ml5js.org/)
 - [TensorFlow.js](https://js.tensorflow.org/)
-- [Coding Train on ml5js](https://www.youtube.com/watch?v=jmznx0Q1fP0)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Google AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
++ [3 Blue 1 Brown - Neural Networks](https://www.3blue1brown.com/neural-networks)
 - [fast.ai](http://www.fast.ai/)
 - [Spell.run](http://spell.run)
-- [Siraj Raval's AI Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-- [3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [RunwayML](https://runwayml.com)
++ [Machine Learning Workshop by @AndreasRef](https://andreasref.github.io/ml/)
++ [Coding Train Video Series](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw):
+  + [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+  + [Neural Networks and Machine Learning](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
++ [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
++ [Udemy - Machine learning with Javascript](https://www.udemy.com/machine-learning-with-javascript/)
++ [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 
 ## Reading
-- [A Brief History of Neural Networks and Deep Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/) by Andrey Kurenkov
-- [Is this AI? We drew you a flowchart to work it out](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) by Karen Hao
-- [Deep Learning with JavaScript: Neural Networks in TensorFlow.js
-](https://livebook.manning.com/book/deep-learning-with-javascript/welcome/v-7/)
+- [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
+- [Deep learning](https://www.deeplearningbook.org/)
 
 ## EQUIPMENT
 You will need a modern laptop (4 years old or younger is a good rule of thumb). Most required software is freely available.
