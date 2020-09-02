@@ -12,7 +12,7 @@ The topics that will be covered are Image/Sound/Doodle Classification, Face/Pose
 Prospective students are expected to have taken an ICM (Introduction to Computational Media) course, or have equivalent programming experience with JavaScript(p5.js), HTML, CSS.
 
 ## Info
-- Yining Shi, Tuesday, 6:30PM - 9:00PM, Zoom meeeting, 9/2/2020 - 12/13/2020
+- Yining Shi, Tuesday, 6:30PM - 9:00PM, Zoom meeeting, 9/8/2020 - 12/8/2020
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
 - [All class dates](https://itp.nyu.edu/registration/Schedule.php?year=2020&semester=Fall)
 
