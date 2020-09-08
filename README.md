@@ -46,10 +46,10 @@ Click into each week, you will see the example for each week.
 * Coding session:
   * Installing ml5.js
   * Running Image Classification example with ml5.js
-  * Hosting p5 sketch on github
-  * Updating homework wiki
+  * Hosting p5 sketch on github or use p5 web editor
+  * How to updating homework wiki
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2020-Fall)
 
 ### Week 2 Image Classification (Transfer Learning, KNN Classifier)
 
@@ -58,7 +58,7 @@ Click into each week, you will see the example for each week.
 * Coding session:
   * Make a KNN Image Classifier
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2020-Fall)
 
 ### Week 3 Pose (PoseNet, BodyPix, U-Net)
 
@@ -69,7 +69,7 @@ Click into each week, you will see the example for each week.
   * PoseNet + KNN Image Classifier
   * Body-pix
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2020-Fall)
 
 ### Week 4 Sound Classifier
 
@@ -81,7 +81,7 @@ Click into each week, you will see the example for each week.
   * Image Classifier with Teachable Machine
   * Classifiers with Arduino
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2020-Fall)
 
 ### Week 5 Image Transformation (Part 1) Style transfer
 
@@ -93,7 +93,7 @@ Click into each week, you will see the example for each week.
   * Training a new Style Transfer model
   * Running Style Transfer model in ml5.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
 
 ### Week 6 Image Transformation (Part 2) pix2pix, GAN
 
@@ -105,7 +105,7 @@ Click into each week, you will see the example for each week.
   - Setup Spell.run training environment
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2020-Fall)
 
 ### Week 7 RunwayML
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
@@ -123,7 +123,7 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Build a Neural Network with ml5.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
 
 ### Week 9 Train our own CNN model from scratch: Doodle Classifier
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-doodleclassifier)
@@ -131,7 +131,7 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Build a doodle classifier with tf.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
 
 ### Week 10 Guest Speaker (11/12)
 
