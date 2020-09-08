@@ -11,8 +11,9 @@
 ## Coding session:
 - Install ml5.js, [get started](https://ml5js.org/getting-started/)
 - Running [Image Classification](https://ml5js.org/reference/api-ImageClassifier/) example with ml5.js
-- Install tf.js, [get started](https://js.tensorflow.org/#getting-started)
-- Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting-started)
+- Advance
+  - Install tf.js, [get started](https://js.tensorflow.org/#getting-started)
+  - Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting-started)
 
 ## See demos live
 - [Image classifier on an image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification/)
