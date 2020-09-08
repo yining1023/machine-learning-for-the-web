@@ -22,7 +22,7 @@
 - [Image classifier with translated restults and speech output using MobileNet, Google Translate API and p5.speech](https://youtu.be/DmAZ42g7nRQ) (To run this example, you need to replace the google API key in the `sketch.js`)
 - [Webcam Scavenger Hunt Game using MobileNet, p5.js, p5.speech](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_VideoScavengerHunt/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2019-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2020-Fall)
 
 ## Resources:
 - ml5.js [examples](https://github.com/ml5js/ml5-examples)
