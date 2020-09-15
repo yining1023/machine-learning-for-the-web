@@ -28,6 +28,11 @@
 - [Pacman with tf.js](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
 - [Pong ML Game](https://github.com/matamalaortiz/Pong-ML)
 - [Play Pong with your webcam from ml4a](https://ml4a.github.io/demos/tfjs/regression-pong.html)
+- [Project Euphonia](https://www.youtube.com/watch?v=OAdegPmkK-o)
+- [Teachable Snake](https://experiments.withgoogle.com/teachable-snake)
+- [Teachable Sorter](https://experiments.withgoogle.com/teachable-snake)
+- [Teachable Arcade](https://teachable-arcade.glitch.me/)
+- [Eyeo Festival 2019 - Coding train](https://vimeo.com/354276216), [code](https://github.com/CodingTrain/Eyeo-Festival-2019)
 
 ## Resource:
 - [Coding Train: ml5.js: KNN Classification Part 1 - 3](https://youtu.be/KTNqXwkLuM4)
