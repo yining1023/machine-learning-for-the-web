@@ -1,4 +1,4 @@
-# Week 2 KNN Image Classifier and PoseNet
+# Week 2 KNN Image Classifier
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1oDLq34QWMs_YJiap-yX4Co6TPRCWv63OjcKn5fpq3Vo/edit?usp=sharing)
 - What is a teachable machine / KNN image classifier
