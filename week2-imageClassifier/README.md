@@ -14,6 +14,7 @@
 - Regression with feature extractor
 
 ## See demos live
+- [Teachable Machine Video](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/teachableMachineImage)
 - [KNN Image Classifier Video](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_Video/)
 - [KNN Image Classifier Video + Sound](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSound/)
 - [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSquare/)
