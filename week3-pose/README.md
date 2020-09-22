@@ -23,7 +23,7 @@
 - [BodyPix Bubbles](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-bubbles/)
 - [UNET_webcam](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/UNET_webcam/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2019-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2020-Fall)
 
 ## Inspirations about PoseNet:
 - [Moving morrir](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
@@ -35,3 +35,7 @@
 - [Body, Movement, Language: AI Sketches With Bill T. Jones](https://experiments.withgoogle.com/billtjonesai)
 - [Touch Type](https://experiments.withgoogle.com/touch-type)
 - [nixel-Body](http://cmuems.com/2018/60212f/nixel/10/12/nixel-body/)
+- [DeepSquat](https://twitter.com/drewbuttons/status/1184933151170351105)
+- [Pose Animator](https://twitter.com/yemount/status/1258776351248494593)
+- [Web Olympic](https://vibertthio.com/web-olympic/)
+
