@@ -2,7 +2,7 @@ let video;
 let myBodyPix;
 let segment;
 
-const option = {
+const options = {
   "multiplier": 0.25,
   "outputStride": 8, // 8, 16, or 32, default is 16
   "segmentationThreshold": 0.5 // 0 - 1, defaults to 0.5 
@@ -13,7 +13,7 @@ function setup() {
   video = createCapture(VIDEO);
   video.size(600, 400);
   video.hide();
-  myBodyPix = ml5.bodyPix(video, modelReady);
+  myBodyPix = ml5.bodyPix(video, options, modelReady);
 }
 
 function modelReady() {

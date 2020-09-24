@@ -20,7 +20,9 @@
 - [PoseNet Video + Music + Multiple Squares](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic_multiple/index.html)
 - [BodyPix](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix/)
 - [BodyPix Parts](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts/)
+- [BodyPix Parts Custom Color](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts-custom/)
 - [BodyPix Bubbles](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-bubbles/)
+- [BodyPix Change Background](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-change-background/)
 - [UNET_webcam](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/UNET_webcam/)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2020-Fall)
