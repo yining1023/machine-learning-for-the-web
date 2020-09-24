@@ -24,9 +24,9 @@ function modelReady() {
 
 function gotResults(err, results) {
   if (err) console.log(err);
-  if (results) {``
+  if (results) {
     // console.log(results);
-    bodyPixArray = results.raw.data;
+    bodyPixArray = results.segmentation.data;
     background(0);
     image(video, 0, 0, 600, 400);
     for (let j = 0; j < 400; j+=10) {
