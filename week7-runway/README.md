@@ -25,6 +25,8 @@
 - [deeplab Runway](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/deeplab/), Need to run deeplab at `http://localhost:8000` in Runway
 - [GPT2](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/GPT2/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/GPT2)
 - [CycleGAN](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/CycleGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/CycleGAN)
+- [Adain Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AdainStyleTransfer/) with Runway and p5js
+- [Photo Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/photostylestansfer/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/photostylestansfer)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2019-Fall)
 
