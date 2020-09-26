@@ -19,11 +19,11 @@ function setup() {
         "style_image": styleImgData,
       };
           
-      fetch("https://adain-style-transfer-7cad044a.hosted-models.runwayml.cloud/v1/query", {
+      fetch("https://adain-style-transfer-YOUR_MODEL_ID.hosted-models.runwayml.cloud/v1/query", {
         method: "POST",
         headers: {
           "Accept": "application/json",
-          "Authorization": "Bearer oj5PaUAz2URZ1gmF2IkRHg==",
+          "Authorization": "Bearer YOUR OWN AUTH",
           "Content-Type": "application/json",
         },
         body: JSON.stringify(postData)
