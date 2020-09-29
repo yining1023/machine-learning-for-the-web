@@ -20,8 +20,8 @@
   - [Facemesh_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Facemesh/Facemesh_Image)
   - [Facemesh_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Facemesh/Facemesh_Webcam)
 - HandPose
-  - [Handpose_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/HandPose/Handpose_Image)
-  - [Handpose_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/HandPose/Handpose_Image)
+  - [Handpose_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Image)
+  - [Handpose_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Webcam)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2020-Fall)
 
