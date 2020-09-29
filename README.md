@@ -72,7 +72,18 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2020-Fall)
 
-### Week 4 Sound Classifier
+### Week 4 Face and Hand
+
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/face-hand)
+
+* Coding session:
+  * Face-api
+  * Facemesh
+  * Handpose
+
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2020-Fall)
+
+### Week 5 Sound Classifier
 
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifier)
 
@@ -82,9 +93,9 @@ Click into each week, you will see the example for each week.
   * Image Classifier with Teachable Machine
   * Classifiers with Arduino
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2020-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
 
-### Week 5 Image Transformation (Part 1) Style transfer
+### Week 6 Image Transformation (Part 1) Style transfer
 
 * Review: Showing the homework from last week, discuss any difficulties and other creative outputs
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-styleTransfer)
@@ -96,7 +107,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
 
-### Week 6 Image Transformation (Part 2) pix2pix, GAN
+### Week 7 Image Transformation (Part 2) pix2pix, GAN
 
 * Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-pix2pix)
@@ -108,7 +119,7 @@ Click into each week, you will see the example for each week.
   - Training a new pix2pix model
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2020-Fall)
 
-### Week 7 RunwayML
+### Week 8 RunwayML
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
 
 * More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
@@ -118,7 +129,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2019-Fall)
 
-### Week 8 DIY Neural Network with ml5.js
+### Week 9 DIY Neural Network with ml5.js
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
 
 * Coding session:
@@ -126,7 +137,7 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
 
-### Week 9 Train our own CNN model from scratch: Doodle Classifier
+### Week 10 Train our own CNN model from scratch: Doodle Classifier
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-doodleclassifier)
 
 * Coding session:
@@ -134,11 +145,11 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
 
-### Week 10 Guest Speaker (11/12)
+### Week 11 Guest Speaker (11/12)
 
 * [Homework - Final project proposal](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2019-Fall)
 
-### Week 11 Image Synthesis(StyleGAN)
+### Week 12 Image Synthesis(StyleGAN)
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week10-imagesynthesis)
 
 * Coding session:
@@ -147,8 +158,6 @@ Click into each week, you will see the example for each week.
   - Train your own styleGAN
 
 * Homework: [Continue final projects development](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2019-Fall)
-
-### Week 12 Final Project Proposal
 
 ### Week 13 User Testing
 
