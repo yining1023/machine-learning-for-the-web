@@ -1,4 +1,4 @@
-# Week 3 Poses
+# Week 4 Face and Hand
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1jSA93R4QJdz2ixko4wSyfrVsa523u042V4DQknTEssc/edit?usp=sharing)
 - Face recognition
