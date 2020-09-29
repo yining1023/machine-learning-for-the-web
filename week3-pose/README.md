@@ -40,4 +40,5 @@
 - [DeepSquat](https://twitter.com/drewbuttons/status/1184933151170351105)
 - [Pose Animator](https://twitter.com/yemount/status/1258776351248494593)
 - [Web Olympic](https://vibertthio.com/web-olympic/)
+- [AR Body Filter](https://sheeborshee.com/AR-body-filters-2019)
 
