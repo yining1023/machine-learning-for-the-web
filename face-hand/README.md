@@ -26,6 +26,9 @@
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2020-Fall)
 
 # Resource
-- [faceapi-js](https://github.com/justadudewhohacks/face-api.js/)
+- [ml5js - faceapi](https://learn.ml5js.org/#/reference/face-api)
+- [ml5js - faceMesh source](https://github.com/ml5js/ml5-library/blob/development/src/Facemesh/index.js)
+- [ml5js - handPose source](https://github.com/ml5js/ml5-library/blob/development/src/Handpose/index.js)
+- [tfjs - faceapi-js](https://github.com/justadudewhohacks/face-api.js/)
 - [tfjs - faceMesh](https://github.com/tensorflow/tfjs-models/tree/master/facemesh)
 - [tfjs - handPose](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
