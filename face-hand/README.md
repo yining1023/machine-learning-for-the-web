@@ -32,3 +32,6 @@
 - [tfjs - faceapi-js](https://github.com/justadudewhohacks/face-api.js/)
 - [tfjs - faceMesh](https://github.com/tensorflow/tfjs-models/tree/master/facemesh)
 - [tfjs - handPose](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
+
+# Projects
+- [LipSync game using Face Mesh model](https://lipsync.withyoutube.com/)
