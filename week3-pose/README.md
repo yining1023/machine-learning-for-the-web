@@ -14,8 +14,8 @@
 
 ## See demos live
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet/)
-- [Posnet Multiple Noses](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_mutil_noses)(Detect multiple poses, draw nose on each pose)
-- [Posenet Nose tail](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_Nose_Tail)Save nose previous positions
+- [Posnet Multiple Noses](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_mutil_noses) (Detect multiple poses, draw nose on each pose)
+- [Posenet Nose tail](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_Nose_Tail) Save nose previous positions
 - [PoseNet Move the Stickman](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_Stickman)
 - [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_KNNClassification)
 - [PoseNet with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/teachableMachinePoses)
