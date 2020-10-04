@@ -14,18 +14,20 @@
 
 ## See demos live
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet/)
+- [Posnet Multiple Noses](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_mutil_noses)(Detect multiple poses, draw nose on each pose)
+- [Posenet Nose tail](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_Nose_Tail)Save nose previous positions
 - [PoseNet Move the Stickman](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_Stickman)
 - [PoseNet with KNNClassification](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_KNNClassification)
 - [PoseNet with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/teachableMachinePoses)
 - [PoseNet Video + Music](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic)
 - [PoseNet Video + Music + Multiple Squares](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic_multiple/index.html)
+- PoseNet in Zoom, [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose/PoseNet_Zoom), [demo](https://www.tiktok.com/@yining1023/video/6879817173217414406?lang=en)
 - [BodyPix](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix/)
 - [BodyPix Parts](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts/)
 - [BodyPix Parts Custom Color](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts-custom/)
 - [BodyPix Bubbles](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-bubbles/)
 - [BodyPix Change Background](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-change-background/)
 - [UNET_webcam](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/UNET_webcam/)
-- PoseNet in Zoom, [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose/PoseNet_Zoom), [demo](https://www.tiktok.com/@yining1023/video/6879817173217414406?lang=en)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2020-Fall)
 
