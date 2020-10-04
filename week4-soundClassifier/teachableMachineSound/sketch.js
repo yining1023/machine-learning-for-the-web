@@ -1,4 +1,4 @@
-const mySoundModelURL = 'https://storage.googleapis.com/tm-speech-commands/yiningtestsound07112019/model.json';
+const mySoundModelURL = 'https://teachablemachine.withgoogle.com/models/jhTNSV1NM/' + 'model.json';
 let mySoundModel;
 let resultDiv;
 
@@ -15,6 +15,10 @@ function gotResults(err, results) {
   if (err) console.log(err);
   if (results) {
     console.log(results);
-    resultDiv.html('Result is: ' + results[0].label);
+    if (results[0].confidence > 0.9) {
+      resultDiv.html('Result is: ' + results[0].label);
+    } else {
+      resultDiv.html('Result is...');
+    }
   }
 }
