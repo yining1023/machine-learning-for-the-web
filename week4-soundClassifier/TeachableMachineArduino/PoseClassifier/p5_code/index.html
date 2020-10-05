@@ -1,0 +1,30 @@
+<html><head>
+  <meta charset="UTF-8">
+  <title>Poses classifier</title>
+
+  <script src="tf.min.js"></script>
+  <script src="teachablemachine-pose.min.js"></script>
+  <script src="p5.min.js"></script>
+  <script src="p5.dom.min.js"></script>
+  <script language="javascript" type="text/javascript" src="p5.serialport.js"></script>
+<style>
+  .bold-text {
+    font-size: 20px;
+    font-weight: bold;
+  }
+</style></head>
+
+
+
+<body>
+  <h2>Poses classifier on Webcam</h2>
+  <div>
+    <p>The Poses Classifier classify video as class <span id="res" class="bold-text">...</span> with <span id="prob" class="bold-text">...</span> confidence.</p>
+    <p>Class "sit": Sit in front of the webcam</p>
+    <p>Class "standup": Stand up front of the webcam</p>
+    <div id="vidContainer"></div>
+  </div>
+  <script src="sketch.js"></script>
+
+
+</body></html>
