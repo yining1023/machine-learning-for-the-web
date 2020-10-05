@@ -6,13 +6,13 @@
   - <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/master/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
 
   #### Steps
-  - [Download](https://www.arduino.cc/en/main/software) Arduino IDE
-  - [Download](https://github.com/p5-serial/p5.serialcontrol/releases) p5 serial app (Don't open the app yet)
-  - Run p5 code in p5 web editor [sketch](https://editor.p5js.org/yining/sketches/eHYnYa5BR) (Remember to update the portName and mySoundModelURL, and update class names to your own classes.)
-  - Build the arduino circuit like the image above
-  - Upload Arduino code to the Arduino board, You can find [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifier/teachableMachineArduino-sound/arduino_code)
-  - Open p5 serial app(don't open any port in the p5 serial app, just keep the app open)
-  - Go back to p5 web editor, test if p5 sketch and arduino can communicate.
+  1. [Download](https://www.arduino.cc/en/main/software) Arduino IDE
+  2. [Download](https://github.com/p5-serial/p5.serialcontrol/releases) p5 serial app (Don't open the app yet)
+  3. Run p5 code in p5 web editor [sketch](https://editor.p5js.org/yining/sketches/eHYnYa5BR) (Remember to update the portName and mySoundModelURL, and update class names to your own classes.)
+  4. Build the arduino circuit like the image above
+  5. Upload Arduino code to the Arduino board, You can find [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifier/teachableMachineArduino-sound/arduino_code)
+  6. Open p5 serial app(don't open any port in the p5 serial app, just keep the app open)
+  7. Go back to p5 web editor, test if p5 sketch and arduino can communicate.
 
 ### Sound Classifier with Arduino and Teachable Machine with Servo Motor
 - Upload the [Arduino Sketch](https://github.com/yining1023/Machine-Learning-for-Physical-Computing/tree/master/Examples/TeachableMachineArduino/SoundClassifier_with_Servo/SoundClassifier_Servo) to the Arduino board
@@ -50,7 +50,7 @@
   * [Sound Classifer with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineSound/)
   * [Pose Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachinePoses/)
   * [Speech Reconition with p5.speech](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/SpeechRecognition/)
-  - [Demo made by Cara Neels](https://vimeo.com/363431151)
+  * [Demo made by Cara Neels](https://vimeo.com/363431151)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
 
