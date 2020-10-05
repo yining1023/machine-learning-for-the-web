@@ -46,6 +46,7 @@
     - When you are re-uploading Arduino sketch, you need to stop p5 sketch in the editor and close the p5 serial app.
  
 ## See demos live:
+  * [Sound Classifier Speechcommand](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/SoundClassification_speechcommand)
   * [Image Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineImage/)
   * [Sound Classifer with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineSound/)
   * [Pose Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachinePoses/)
