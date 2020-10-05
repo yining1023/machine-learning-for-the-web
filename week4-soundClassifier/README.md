@@ -3,12 +3,9 @@
 ## Presentation: 
 [Slides]()
 
-## Coding session:
-  * Speech recognition
-  * Classifiers with Arduino
-  * Sound Classifer with Teachable Machine
-  * Pose Classifier with Teachable Machine
-  * Image Classifier with Teachable Machine
+## Workshop:
+### Sound Classifiers with Arduino and Teachable Machine
+  [Demo video](https://youtu.be/bmyncxth3_Y)
   
 
 ## Help
