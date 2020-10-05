@@ -52,7 +52,9 @@
   * [Image Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineImage/)
   * [Sound Classifer with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineSound/)
   * [Pose Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachinePoses/)
-  * [Speech Reconition with p5.speech](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/SpeechRecognition/)
+  * [p5 Speech Continuous Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Continuous-Recognition)
+  * [p5 Speech Single Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Simple-Recignition)
+  * [p5 Speech Speech Synthesis](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Speech-Synthesis)
   - [Demo made by Cara Neels](https://vimeo.com/363431151)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
