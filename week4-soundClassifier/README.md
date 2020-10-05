@@ -1,8 +1,5 @@
 # Week 5 Sound
 
-## Presentation: 
-[Slides]()
-
 ## Workshop:
 ### Sound Classifier with Arduino and Teachable Machine
   - [Demo video](https://youtu.be/bmyncxth3_Y)
