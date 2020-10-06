@@ -56,6 +56,11 @@
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
 
+## Links
+- [p5 speech](https://idmnyu.github.io/p5.js-speech/)
+- [tfjs speech command model](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
+- [ml5js sound classifier](https://learn.ml5js.org/#/reference/sound-classifier)
+
 ## Inspirations about Teachable Machine:
   * [Airi Flies](https://www.yonaymoris.me/projects/airiflies)
   * [Eyeo 2019 - Coding Train Race](https://vimeo.com/354276216), [code](https://github.com/CodingTrain/Eyeo-Festival-2019)
