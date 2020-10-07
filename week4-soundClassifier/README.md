@@ -60,6 +60,7 @@
 - [p5 speech](https://idmnyu.github.io/p5.js-speech/)
 - [tfjs speech command model](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
 - [ml5js sound classifier](https://learn.ml5js.org/#/reference/sound-classifier)
+- [Arduino Machine learning](https://blog.arduino.cc/2019/10/15/get-started-with-machine-learning-on-arduino/), [Color2Emoji](https://blog.arduino.cc/2019/11/07/fruit-identification-using-arduino-and-tensorflow/)
 
 ## Inspirations about Teachable Machine:
   * [Airi Flies](https://www.yonaymoris.me/projects/airiflies)
