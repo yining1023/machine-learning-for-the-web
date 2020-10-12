@@ -18,7 +18,7 @@
 - [Photo Styles Transfer with Runway](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/photostylestansfer/) (Need to open Runway, and run 'FastPhotoStyle' model on localhost:8000)
 - [AdainStyleTransfer and bodyPix with Runway](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/photostylestansfer/) (Need to host AdainStyleTransfer model in Runway, and change the model url and auth in the code)
 
-## [homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-fall)
 
 ## Resource:
 - [ml5js style transfer pre-trained models](https://github.com/ml5js/ml5-data-and-models/tree/master/models/style-transfer)
