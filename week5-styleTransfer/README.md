@@ -21,6 +21,8 @@
 ## [homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-fall)
 
 ## Resource:
+- [ml5js style transfer pre-trained models](https://github.com/ml5js/ml5-data-and-models/tree/master/models/style-transfer)
+- [Google Colab](https://colab.research.google.com/)
 - [Training a style transfer model with on Spell, github](https://github.com/yining1023/styleTransfer_spell)
 - [Training a style transfer model with on Spell, video](https://youtu.be/STHRNIJc-vI)
 - [Introduction to Spell (for Machine Learning in the Cloud)](https://youtu.be/ggBOAPtFjYU)
