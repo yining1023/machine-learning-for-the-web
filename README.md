@@ -95,13 +95,11 @@ Click into each week, you will see the example for each week.
 
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
 
-### Week 6 Image Transformation (Part 1) Style transfer
+### Week 6 Style transfer
 
-* Review: Showing the homework from last week, discuss any difficulties and other creative outputs
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-styleTransfer)
 
 * Coding session:
-  * Setup Spell.run training environment
   * Training a new Style Transfer model
   * Running Style Transfer model in ml5.js
 
