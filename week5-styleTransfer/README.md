@@ -9,7 +9,7 @@
 - Use the trained model in ml5.js (one image and webcam images)
 
 ## Coding session:
-- Training a new Style Transfer model
+- Training a new Style Transfer model, Run this [Google Colab](https://colab.research.google.com/drive/1hkE8uZHfQAX8CMq7j13XJc_Aj0kVdcn3?usp=sharing).
 - Running Style Transfer model in ml5.js
 
 ## See demos live
