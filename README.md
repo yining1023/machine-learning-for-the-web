@@ -103,7 +103,7 @@ Click into each week, you will see the example for each week.
   * Training a new Style Transfer model
   * Running Style Transfer model in ml5.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2020-Fall)
 
 ### Week 7 Image Transformation (Part 2) pix2pix, GAN
 
@@ -115,7 +115,7 @@ Click into each week, you will see the example for each week.
   - Setup Spell.run training environment
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2020-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2020-Fall)
 
 ### Week 8 RunwayML
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
@@ -125,7 +125,7 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Runway ML
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2019-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2019-Fall)
 
 ### Week 9 DIY Neural Network with ml5.js
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
@@ -133,7 +133,7 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Build a Neural Network with ml5.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
 
 ### Week 10 Train our own CNN model from scratch: Doodle Classifier
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-doodleclassifier)
@@ -141,14 +141,14 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Build a doodle classifier with tf.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2020-Fall)
 
 ### Week 11 Guest Speaker (11/12)
 
 * [Homework - Final project proposal](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2019-Fall)
 
 ### Week 12 Image Synthesis(StyleGAN)
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week10-imagesynthesis)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week11-imagesynthesis)
 
 * Coding session:
   - Using pre-trained styleGAN models in Runway
