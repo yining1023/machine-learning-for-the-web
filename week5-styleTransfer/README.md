@@ -5,7 +5,7 @@
 - How does it work
 - What Neural Networks See
 - Different kinds of style transfer
-- How to use Spell.run to train your own style transfer
+- How to train your own style transfer
 - Use the trained model in ml5.js (one image and webcam images)
 
 ## Coding session:
@@ -16,8 +16,9 @@
 - [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
 - [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
 - [Photo Styles Transfer with Runway](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/photostylestansfer/) (Need to open Runway, and run 'FastPhotoStyle' model on localhost:8000)
+- [AdainStyleTransfer and bodyPix with Runway](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/photostylestansfer/) (Need to host AdainStyleTransfer model in Runway, and change the model url and auth in the code)
 
-## [homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2019-fall)
+## [homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2020-fall)
 
 ## Resource:
 - [Training a style transfer model with on Spell, github](https://github.com/yining1023/styleTransfer_spell)
