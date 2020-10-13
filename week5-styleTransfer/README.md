@@ -10,7 +10,7 @@
 
 ## Coding session:
 - Training a new Style Transfer model, Run this [Google Colab](https://colab.research.google.com/drive/1TZNdhoUEBoxQqY5EFloZcuyYUs9oNQ-g?usp=sharing).
-- Running Style Transfer model in ml5.js
+- Running Style Transfer model in ml5.js, [p5 sketch](https://editor.p5js.org/yining/sketches/1DBFHwte2)
 
 ## See demos live
 - [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
