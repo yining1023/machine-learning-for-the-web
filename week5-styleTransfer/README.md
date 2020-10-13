@@ -10,12 +10,13 @@
 
 ## Coding session:
 - Training a new Style Transfer model, Run this [Google Colab](https://colab.research.google.com/drive/1TZNdhoUEBoxQqY5EFloZcuyYUs9oNQ-g?usp=sharing).
+  - Some Notes:
+    - Open the colab, make sure the GPU is enabled: Menu - Runtime - Change runtime type
+    - Run through each cell, wait for each cell to finish running, make sure there is no error in each cell's output
+    - Step 2 and 3 may take 1 and 2 hours to finish, keep the tab open and active while waiting
+    - Once step 2(download datasets) finishes, don't re-run it, becase it takes a long to finish
 - Running Style Transfer model in ml5.js, [p5 sketch](https://editor.p5js.org/yining/sketches/1DBFHwte2)
-Notes:
-- Open the colab, make sure the GPU is enabled: Menu - Runtime - Change runtime type
-- Run through each cell, wait for each cell to finish running, make sure there is no error in each cell's output
-- Step 2 and 3 may take 1 and 2 hours to finish, keep the tab open and active while waiting
-- Once step 2(download datasets) finishes, don't re-run it, becase it takes a long to finish
+
 
 ## See demos live
 - [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
