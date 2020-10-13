@@ -29,10 +29,10 @@ function setup() {
 
   // Create a new Style Transfer method with a defined style.
   // We give the video as the second argument
-  style = ml5.styleTransfer('models/udnie', video, modelLoaded);
+  style = ml5.styleTransfer('models/pollock', video, modelLoaded);
 }
 
-function draw(){
+function draw() {
   // Switch between showing the raw camera or the style
   if (isTransferring) {
     image(resultImg, 0, 0, 320, 240);
@@ -53,7 +53,7 @@ function startStop() {
   } else {
     select('#startStop').html('Stop');
     // Make a transfer using the video
-    style.transfer(gotResult); 
+    style.transfer(gotResult);
   }
   isTransferring = !isTransferring;
 }
@@ -62,6 +62,6 @@ function startStop() {
 function gotResult(err, img) {
   resultImg.attribute('src', img.src);
   if (isTransferring) {
-    style.transfer(gotResult); 
+    style.transfer(gotResult);
   }
 }
