@@ -16,7 +16,7 @@
     - Step 2 and 3 may take 1 and 2 hours to finish, keep the tab open and active while waiting(Power your computer while waiting)
     - Once step 2(download datasets) finishes, don't re-run it, becase it takes a long to finish
     - While running step 2(download dataset), it might notify you that "Disk is almost full", ignore that
-- Running Style Transfer model in ml5.js, [p5 sketch](https://editor.p5js.org/yining/sketches/1DBFHwte2)
+- Running Style Transfer model in ml5.js, [p5 sketch](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Video)
 
 
 ## See demos live
