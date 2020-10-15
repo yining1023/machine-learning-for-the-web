@@ -177,9 +177,7 @@ Click into each week, you will see the example for each week.
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [Udemy - Machine learning with Javascript](https://www.udemy.com/machine-learning-with-javascript/)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
-
-## Reading
-- [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
+- [Paper with Code](https://paperswithcode.com/)
 - [Deep learning](https://www.deeplearningbook.org/)
 
 ## EQUIPMENT
