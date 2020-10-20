@@ -42,7 +42,7 @@
   - [Faces to flowers mirror]() (host models in runway and update the model url and auth in the code)
   - [Cartoon Mirror]() (host models in runway and update the model url and auth in the code)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2019-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2020-Fall)
 
 ## Runway projects
 - [Made with Runway](https://runwayml.com/madewith)
