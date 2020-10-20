@@ -21,9 +21,9 @@
   - GPT2 in Runway with p5.js
   - CycleGAN in Runway with p5.js
 
-- Runway with Processing
-- Runway with Photoshop
-- Runway with Unity
+- [Runway with Processing](https://github.com/runwayml/processing-library)
+- [Runway with Photoshop](https://github.com/runwayml/RunwayML-for-Photoshop)
+- [Runway with Unity](https://github.com/runwayml/RunwayML-for-Unity)
 - [Creating a custom GPT-2 Slack Bot with RunwayML’s hosted models.](https://medium.com/runwayml/creating-a-custom-gpt-2-slack-bot-with-runwaymls-hosted-models-c639fe135379)
 
 ## See demos live
