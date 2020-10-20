@@ -37,7 +37,10 @@
   - [Photo Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/photostylestansfer/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/photostylestansfer)(Run midels at http://localhost:8000)
 
 - Runway Hosted Models
-  - [Adain Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AdainStyleTransfer/) with Runway and p5js (host models in runway and update the auth in the code)
+  - [Adain Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AdainStyleTransfer/) with Runway and p5js (host models in runway and update the model url and auth in the code)
+  - [U2net Background remover]() (host models in runway and update the model url and auth in the code)
+  - [Faces to flowers mirror]() (host models in runway and update the model url and auth in the code)
+  - [Cartoon Mirror]() (host models in runway and update the model url and auth in the code)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2019-Fall)
 
