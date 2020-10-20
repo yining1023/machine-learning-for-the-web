@@ -6,7 +6,7 @@
 
 ## Demo session:
 - Runway Models
-  - GPT2, Liquid-Warping-GAN, UGATIT, StyleGAN, deeplab, Spade-Coco, Few-Shot-Face-Translation-GAN
+  - GPT2, UGATIT, StyleGAN, deeplab, Spade-Coco, Few-Shot-Face-Translation-GAN(Swap faces), MUNIT(faces to flowers), CartoonGAN,
 - Runway Hosted Models and Networks, with p5.js
   - AttnGAN(text2image) in Runway with p5js
   - Im2txt in Runway with p5js
