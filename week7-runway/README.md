@@ -27,7 +27,7 @@
 - [Creating a custom GPT-2 Slack Bot with RunwayML’s hosted models.](https://medium.com/runwayml/creating-a-custom-gpt-2-slack-bot-with-runwaymls-hosted-models-c639fe135379)
 
 ## See demos live
-- Runway Network
+### Runway Network
   - [AttnGAN(text to image)](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AttnGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/AttnGAN)
   - [im2txt](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/im2txt/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/im2txt)
   - [ColoringBook Runway](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/PhotoSketch/ColoringBook/), [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/PhotoSketch/ColoringBook)
@@ -36,7 +36,7 @@
   - [CycleGAN](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/CycleGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/CycleGAN)
   - [Photo Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/photostylestansfer/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/photostylestansfer)(Run midels at http://localhost:8000)
 
-- Runway Hosted Models
+### Runway Hosted Models
   - [Adain Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AdainStyleTransfer/) with Runway and p5js (host models in runway and update the model url and auth in the code)
   - [U2net Background remover](https://editor.p5js.org/yining/sketches/TWmMEQzzV) (host models in runway and update the model url and token in the code)
   - [Faces to flowers mirror](https://editor.p5js.org/yining/sketches/cxSvg6jx6) (host models in runway and update the model url and token in the code)
