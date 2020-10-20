@@ -2,7 +2,8 @@
 ## [Introduction to Runway](https://learn.runwayml.com/#/):
 - Install Runway
 - Run a model in Runway, input, output, network, export
-- Chain models in runway
+- Chain models in Runway
+- Host models in Runway
 
 ## Demo session:
 - Runway Models
@@ -23,6 +24,7 @@
 - Runway with Processing
 - Runway with Photoshop
 - Runway with Unity
+- [Creating a custom GPT-2 Slack Bot with RunwayML’s hosted models.](https://medium.com/runwayml/creating-a-custom-gpt-2-slack-bot-with-runwaymls-hosted-models-c639fe135379)
 
 ## See demos live
 - [AttnGAN(text to image)](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AttnGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/AttnGAN)
