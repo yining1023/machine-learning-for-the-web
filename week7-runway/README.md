@@ -38,9 +38,9 @@
 
 - Runway Hosted Models
   - [Adain Style Transfer](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AdainStyleTransfer/) with Runway and p5js (host models in runway and update the model url and auth in the code)
-  - [U2net Background remover]() (host models in runway and update the model url and auth in the code)
-  - [Faces to flowers mirror]() (host models in runway and update the model url and auth in the code)
-  - [Cartoon Mirror]() (host models in runway and update the model url and auth in the code)
+  - [U2net Background remover](https://editor.p5js.org/yining/sketches/TWmMEQzzV) (host models in runway and update the model url and token in the code)
+  - [Faces to flowers mirror](https://editor.p5js.org/yining/sketches/cxSvg6jx6) (host models in runway and update the model url and token in the code)
+  - [Cartoon Mirror](https://editor.p5js.org/yining/sketches/afDzYVfrM) (host models in runway and update the model url and token in the code)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2020-Fall)
 
