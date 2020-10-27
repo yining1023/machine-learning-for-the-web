@@ -1,3 +1,5 @@
+# Week 8
+
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1Mv1XlDNRNRcX9xWRE5OQ31Wv7K5dL2svsbHid9Rr758/edit?usp=sharing)
 - Latent space
 - GAN
