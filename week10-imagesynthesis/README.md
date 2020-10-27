@@ -11,6 +11,7 @@
 * [Rainbow Transition](https://editor.p5js.org/yining/sketches/u4ZnAkJT9)
 
 ### Videos/Tutorials
+* [How to train an image generator in Runway](https://learn.runwayml.com/#/create/train-image-generation)
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 * [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://heartbeat.fritz.ai/animated-stylegan-image-transitions-with-runwayml-57a2e20db80f)
 
