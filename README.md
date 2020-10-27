@@ -128,12 +128,14 @@ Click into each week, you will see the example for each week.
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2020-Fall)
 
 ### Week 8 Image Synthesis(StyleGAN)
-* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week11-imagesynthesis)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week10-imagesynthesis)
 
 * Coding session:
   - Using pre-trained styleGAN models in Runway
   - Create latent space animation
   - Train your own styleGAN
+
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
   
 ### Week 9 Text Generation(GPT-2)
 
