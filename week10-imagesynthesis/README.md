@@ -7,10 +7,12 @@
 - How to train a styleGAN with own dataset
 
 ### Code Examples
+(Need to run Stylegan at `localhost:8000` in Runway)
 * [Generate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/GOiFqtbkK)
 * [Interpolate StyleGAN Image](https://editor.p5js.org/ima_ml/sketches/dyJmIybwi-)
 * [Wandering Latent Space StyleGAN](https://editor.p5js.org/ima_ml/sketches/7YZzS37yh)
 * [Rainbow Transition](https://editor.p5js.org/yining/sketches/u4ZnAkJT9)
+* Use this [Explore StyleGAN features](https://editor.p5js.org/yining/sketches/lJUZecC1) to find one interesting feature
 
 ### Videos/Tutorials
 * [How to train an image generator in Runway](https://learn.runwayml.com/#/create/train-image-generation)
