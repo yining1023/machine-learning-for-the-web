@@ -26,6 +26,7 @@
 - [Noun projects](https://thenounproject.com/)
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 - [Chrome extension that downloads all images in a web page](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm/related)
+- [Downloadthemall](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge?hl=en)
 - [Smithsonian Releases 2.8 Million Images Into Public Domain](https://www.smithsonianmag.com/smithsonian-institution/smithsonian-releases-28-million-images-public-domain-180974263/)
 
 ### Resources
