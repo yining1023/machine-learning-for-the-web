@@ -22,6 +22,8 @@
 
 - [Free eBooks - Project Gutenberg](https://www.gutenberg.org/)
 - [All the news - Kaggle](https://www.kaggle.com/snapcrack/all-the-news)
+- [Wikipedia API](https://en.wikipedia.org/api/rest_v1/#/Page_content/get_page_summary_title), example query: [https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stack%20Overflow](https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stack%20Overflow)
+- [Enron](https://enron.email) (600,000+ employee emails made public during fraud investigation)
 
 ### Code Examples
 
