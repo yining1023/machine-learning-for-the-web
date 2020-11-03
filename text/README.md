@@ -11,10 +11,12 @@
 - Word2Vec with ml5js
 - Sentiment with ml5js
 - CharRNN with ml5js
-- Train your own GPT-2
-  - Training GPT-2 in Runway, [video](https://youtu.be/-v5StaeOisM)
-  - [Training GPT-2 with Colab](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce), expires in 12 hours, remember to download the model before the session expires.
-  - [GPT-2 playground with Google Colab](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
+  - Train your own CharRNN, [instruction](https://github.com/ml5js/training-charRNN)
+- GPT-2 with Runway
+  - Train your own GPT-2
+    - Training GPT-2 in Runway, [video](https://youtu.be/-v5StaeOisM)
+    - [Training GPT-2 with Colab](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce), expires in 12 hours, remember to download the model before the session expires.
+    - [GPT-2 playground with Google Colab](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
 
 ### Where to find data
 
