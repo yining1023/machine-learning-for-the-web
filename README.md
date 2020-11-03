@@ -138,6 +138,16 @@ Click into each week, you will see the example for each week.
 * [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
   
 ### Week 9 Text Generation(GPT-2)
+* [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/text)
+
+* Coding session:
+  - ml5js Word2Vec
+  - ml5js Sentiment
+  - ml5js CharRNN
+  - Runway GPT-2
+  - Train your own GPT-2
+
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
 
 ### Week 10 DIY Neural Network with ml5.js
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
