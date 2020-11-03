@@ -34,12 +34,12 @@
 - [ml5.js word2vec](https://editor.p5js.org/ml5/sketches/Word2Vec_Interactive), [doc](https://learn.ml5js.org/docs/#/reference/word2vec)
 
 ### Resources
-
 - [Training text generator with Runway](https://youtu.be/-v5StaeOisM)
 - [Better Language Models
   and Their Implications: GPT-2 Blog](https://openai.com/blog/better-language-models/)
 - [Talk to Transformer: GPT-2 Demo](https://talktotransformer.com/)
+- [Hugging face transformers](https://github.com/huggingface/transformers)
 - [CharRNN from ml5js](https://learn.ml5js.org/docs/#/reference/charrnn)
-- [HUgging face transformers](https://github.com/huggingface/transformers)
+- [Train CharRNN ml5js model](https://github.com/ml5js/training-charRNN)
 
 ### [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
