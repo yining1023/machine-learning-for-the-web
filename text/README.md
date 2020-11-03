@@ -42,7 +42,7 @@
 - [CharRNN from ml5js](https://learn.ml5js.org/docs/#/reference/charrnn)
 - [Train CharRNN ml5js model](https://github.com/ml5js/training-charRNN)
 
-### Related Projects:
+### RNN Related Projects:
 - 🍿 [Sunspring](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
 - 🎨 [Double Agent](http://littlepig.org.uk/installations/doubleagent/index.htm) by Simon Biggs (Drawing)
 - 🎨 [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/) (Drawing)
