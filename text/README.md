@@ -1,6 +1,6 @@
 # Text Generation
 
-## Presentation: [Slides](https://drive.google.com/file/d/17Vw8eAq8rg1n-sYTli3BZ-YW8-kbPEYh/view?usp=sharing)
+## Presentation: [Slides](https://docs.google.com/presentation/d/1oFxNwLSgPF_RXHqZFa-LRvL2e6Ch2V_Qz9OSRwZiFMs/edit?usp=sharing)
 
 - LSTM/CharRNN
 - GPT-2
