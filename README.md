@@ -1,7 +1,7 @@
 # Machine Learning for the Web
 This is a repository for the "Machine Learning for the Web" class at ITP, NYU
 
-Libraries like [TensorFlow.js](https://www.tensorflow.org/js/), [Teachable Machine](https://teachablemachine.withgoogle.com/), [ml5.js](https://ml5js.org/) and RunwayML(http://runwayml.com/) unlocked new opportunities for interactive machine learning projects in the browser. The goal of this class is to learn and understand common machine learning techniques and apply them to generate creative outputs in the browser.
+Tools like [TensorFlow.js](https://www.tensorflow.org/js/), [Teachable Machine](https://teachablemachine.withgoogle.com/), [ml5.js](https://ml5js.org/) and RunwayML(http://runwayml.com/) unlocked new opportunities for interactive machine learning projects in the browser. The goal of this class is to learn and understand common machine learning techniques and apply them to generate creative outputs in the browser.
 
 This class will start with running pre-trained models and re-training models in the browser using high-level APIs from ml5.js and [p5.js](https://p5js.org/), as well as explore the Layer APIs from TensorFlow.js to create models from scratch using custom data. This class will also cover preparing the dataset for training models.
 
