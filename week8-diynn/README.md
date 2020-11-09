@@ -1,4 +1,4 @@
-# Week 8 DIY Neural Network with ml5.js
+# DIY Neural Network with ml5.js
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1PkU1P8kFvpEr3JoR0cYCyZ-HmZ3CXeeVoKXHWQc7TWk/edit?usp=sharing)
 - 7 steps of Machine Learning
@@ -25,7 +25,7 @@
 - [NeuralNetwork_titanic](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_titanic)
 - [NeuralNetwork_xy_classifier](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_xy_classifier)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2019-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
 
 ## Resource:
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
