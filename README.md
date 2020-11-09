@@ -155,7 +155,7 @@ Click into each week, you will see the example for each week.
 * Coding session:
   - Build a Neural Network with ml5.js
 
-* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
+* [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2020-Fall)
 
 ### Week 11 Train our own CNN model from scratch: Doodle Classifier
 * [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week9-doodleclassifier)
