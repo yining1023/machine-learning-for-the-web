@@ -28,6 +28,11 @@
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
 
 ## Resource:
+- ml5.js: Train Your Own Neural Network
+  - [ml5.js: Train Your Own Neural Network](https://youtu.be/8HEgeAbYphA?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (35 min)
+  - [ml5.js: Save Neural Network Training Data](https://youtu.be/q6cwxORPDo8?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (12 min)
+  - [ml5.js: Save Neural Network Trained Model](https://youtu.be/wUrg9Hjkhg0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (11 min)
+  - [ml5: Neural Network Regression](https://youtu.be/fFzvwdkzr_c?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (10 min)
 - [The 7 Steps of Machine Learning](https://youtu.be/nKW8Ndu7Mjw)
 - [Tensorflow Playground](https://playground.tensorflow.org)
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
