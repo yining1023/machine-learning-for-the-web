@@ -12,6 +12,11 @@
 
 ## See demos live
 
+- [p5.js Convolution demo](https://editor.p5js.org/codingtrain/sketches/BN1lE-gyl)
+- [p5.js Convolution demo -- max pooling](https://editor.p5js.org/codingtrain/sketches/GMRfsK7Wn)
+- [Training a model with `ml5.neuralNetwork()` and Google Quick, Draw! images](https://editor.p5js.org/ima_ml/sketches/bL6jONrFQ)
+- [Classifying Drawings with ml5's DoodleNet](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN)
+
 - [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier100/)
 - [Doodle Classifier on 345 classes](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier345/)
 - [Doodle Classifier with KNN Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier_KNN/)
@@ -20,6 +25,11 @@
 - [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainMNIST)
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-11-2020-Fall)
+
+### Video Tutorials
+
+- [What is Convolutional Neural Network Part 1](https://youtu.be/qPKsVAI_W6M?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+- [What is Convolutional Neural Network Part 2](https://youtu.be/pRWq_mtuppU?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 
 ## Resource:
 
