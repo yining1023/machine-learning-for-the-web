@@ -16,7 +16,6 @@
 - [p5.js Convolution demo -- max pooling](https://editor.p5js.org/codingtrain/sketches/GMRfsK7Wn)
 - [Training a model with `ml5.neuralNetwork()` and Google Quick, Draw! images](https://editor.p5js.org/ima_ml/sketches/bL6jONrFQ)
 - [Classifying Drawings with ml5's DoodleNet](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN)
-
 - [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier100/)
 - [Doodle Classifier on 345 classes](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier345/)
 - [Doodle Classifier with KNN Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier_KNN/)
