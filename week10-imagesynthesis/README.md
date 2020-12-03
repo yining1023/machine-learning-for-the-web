@@ -13,6 +13,8 @@
 * [Wandering Latent Space StyleGAN](https://editor.p5js.org/ima_ml/sketches/7YZzS37yh)
 * [Rainbow Transition](https://editor.p5js.org/yining/sketches/u4ZnAkJT9)
 * Use this [Explore StyleGAN features](https://editor.p5js.org/yining/sketches/lJUZecC1) to find one interesting feature
+(Need to host Stylegan model in runway)
+* [Generate StyleGAN Image](https://editor.p5js.org/yining/sketches/TmQVlCKr6), need to update the token with your own token
 
 ### Videos/Tutorials
 * [How to train an image generator in Runway](https://learn.runwayml.com/#/create/train-image-generation)
