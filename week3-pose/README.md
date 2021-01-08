@@ -21,7 +21,7 @@
 - [PoseNet with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/teachableMachinePoses)
 - [PoseNet Video + Music](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic)
 - [PoseNet Video + Music + Multiple Squares](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet_VideoMusic_multiple/index.html)
-- PoseNet in Zoom, [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose/PoseNet_Zoom), [demo](https://www.tiktok.com/@yining1023/video/6879817173217414406?lang=en)
+- PoseNet in Zoom, [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose/PoseNet_Zoom), [demo](https://www.instagram.com/p/CF8HlJwlLq8/?igshid=1rkol05vsdjxc)
 - [BodyPix](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix/)
 - [BodyPix Parts](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts/)
 - [BodyPix Parts Custom Color](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-parts-custom/)
