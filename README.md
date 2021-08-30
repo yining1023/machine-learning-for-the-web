@@ -31,7 +31,7 @@ To run each examples, open your terminal, type in the following commands:
 ```
 $ git clone https://github.com/yining1023/machine-learning-for-the-web.git
 $ cd machine-learning-for-the-web
-$ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
+$ python -m SimpleHTTPServer     # $ python -m http.server (if you are using python 3)
 ```
 
 Go to `localhost:8000` in your browser, you will see a directory list like this:
