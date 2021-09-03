@@ -200,6 +200,7 @@ Click into each week, you will see the example for each week.
 ## Resources
 
 - [ml5js](https://ml5js.org/)
+- [Coding Train ML5 Beginners Guide Course](https://thecodingtrain.com/learning/ml5/index.html)
 - [TensorFlow.js](https://js.tensorflow.org/)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Google AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
@@ -208,9 +209,6 @@ Click into each week, you will see the example for each week.
 - [Spell.run](http://spell.run)
 - [RunwayML](https://runwayml.com)
 - [Machine Learning Workshop by @AndreasRef](https://andreasref.github.io/ml/)
-- [Coding Train Video Series](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw):
-  - [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
-  - [Neural Networks and Machine Learning](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [Udemy - Machine learning with Javascript](https://www.udemy.com/machine-learning-with-javascript/)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
