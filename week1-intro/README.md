@@ -22,7 +22,7 @@
 - [Image classifier with speech output using MobileNet and p5.speech](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_VideoSound/).
 - [Image classifier with translated restults and speech output using MobileNet, Google Translate API and p5.speech](https://youtu.be/DmAZ42g7nRQ) (To run this example, you need to replace the google API key in the `sketch.js`)
 - [Webcam Scavenger Hunt Game using MobileNet, p5.js, p5.speech](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_VideoScavengerHunt/)
-- [Object Detection]
+- Object Detection
   - [Object Detection-COCO-SSD-Image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/ObjectDetector/ObjectDetector_COCOSSD_single_image)
   - [Object Detection-COCO-SSD-Webcam](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/ObjectDetector/ObjectDetector_COCOSSD_Video)
   - [Object Detection-YOLO-Image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/ObjectDetector/ObjectDetector_YOLO_single_image)
@@ -32,6 +32,7 @@
 
 ## Resources:
 - ml5.js [examples](https://github.com/ml5js/ml5-examples)
+- [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/)
 - tf.js [examples](https://github.com/tensorflow/tfjs-examples)
 - [How to host p5 sketch on github pages](https://youtu.be/8HPYsDTk17A)
 - [Google AI experiments](https://experiments.withgoogle.com/collection/ai)
