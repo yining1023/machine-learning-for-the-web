@@ -28,7 +28,7 @@
   - [Object Detection-YOLO-Image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/ObjectDetector/ObjectDetector_YOLO_single_image)
   - [Object Detection-YOLO-Webcam](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/ObjectDetector/ObjectDetector_YOLO_Video)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2020-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2021-Fall)
 
 ## Resources:
 - ml5.js [examples](https://github.com/ml5js/ml5-examples)
