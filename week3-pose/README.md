@@ -31,7 +31,7 @@
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2021-Fall)
 
-## Inspirations about PoseNet:
+## Inspirations about Pose:
 - [Moving morrir](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
 - [Sidewalk Orchestra](https://github.com/cvalenzuela/sidewalk_orchestra)
 - [Making music by posing melody shapes to my webcam](https://t.co/RN9qQTDkti)
@@ -45,4 +45,5 @@
 - [Pose Animator](https://twitter.com/yemount/status/1258776351248494593)
 - [Web Olympic](https://vibertthio.com/web-olympic/)
 - [AR Body Filter](https://sheeborshee.com/AR-body-filters-2019)
+- [ballet rotoscope](https://www.youtube.com/watch?v=yzJk6ww3LD0)
 
