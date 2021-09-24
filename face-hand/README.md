@@ -29,7 +29,7 @@
       - [Train the model](https://editor.p5js.org/yining/sketches/IrBFfXbSF)
       - [Run the model](https://editor.p5js.org/yining/sketches/6cFF9-L-Z)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2020-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2021-Fall)
 
 # Resource
 - [ml5js - faceapi](https://learn.ml5js.org/#/reference/face-api)
