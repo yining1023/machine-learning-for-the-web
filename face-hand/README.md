@@ -43,3 +43,4 @@
 - [LipSync game using Face Mesh model](https://lipsync.withyoutube.com/)
 - [Customizable AR face masks - Made with TensorFlow.js](https://www.youtube.com/watch?v=TpiGFaHC_5U)
 - [fingerspelling](https://fingerspelling.xyz/)
+- [Cat filter](https://neon-scintillating-harpymimus.glitch.me), [code](https://github.com/yining1023/cat-filter)
