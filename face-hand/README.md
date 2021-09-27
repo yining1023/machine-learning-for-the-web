@@ -19,6 +19,7 @@
 - Face Mesh
   - [Facemesh_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Facemesh/Facemesh_Image)
   - [Facemesh_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Facemesh/Facemesh_Webcam)
+  - [Cat face filter](https://neon-scintillating-harpymimus.glitch.me/), [code](https://github.com/yining1023/cat-filter/tree/main)
 - HandPose
   - [Handpose_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Image)
   - [Handpose_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Webcam)
