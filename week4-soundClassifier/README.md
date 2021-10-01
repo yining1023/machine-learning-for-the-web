@@ -61,9 +61,9 @@
 - [p5 Speech Continuous Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Continuous-Recognition)
 - [p5 Speech Single Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Simple-Recignition)
 - [p5 Speech Speech Synthesis](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Speech-Synthesis)
-- [PitchDetection](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection)
-- [PitchDetection Game](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Game)
-- [PitchDetection Piano](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Piano)
+- [PitchDetection](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection), https://editor.p5js.org/ml5/sketches/PitchDetection
+- [PitchDetection Game](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Game), https://editor.p5js.org/ml5/sketches/PitchDetection_Game
+- [PitchDetection Piano](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Piano), https://editor.p5js.org/ml5/sketches/PitchDetection_Piano
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2021-Fall)
 
