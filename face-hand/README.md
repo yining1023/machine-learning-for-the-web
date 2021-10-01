@@ -23,13 +23,16 @@
 - HandPose
   - [Handpose_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Image)
   - [Handpose_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Webcam)
-  - [Handpost multiple hands with mediapipe](https://editor.p5js.org/yining/sketches/cME_7BnLW)
   - Training hand pose model
     - Hand pose tracking + KNN Classification, [p5 web editor code](https://editor.p5js.org/yining/sketches/uUwg0z9Z5), [demo video](https://www.loom.com/share/f81cf908e5b7404ba0071902019d67c2)
     - Hand pose tracking + Neural Network, [demo video](https://www.loom.com/share/420fa5941dea411491af817011622c86)
       - [Collect data](https://editor.p5js.org/yining/sketches/dCoPm-Opb)
       - [Train the model](https://editor.p5js.org/yining/sketches/IrBFfXbSF)
       - [Run the model](https://editor.p5js.org/yining/sketches/6cFF9-L-Z)
+  - Multiple hands detection:
+    - [Handpose multiple hands with mediapipe](https://editor.p5js.org/yining/sketches/cME_7BnLW) If the webcam video is not loading, try open a incognito window, or set the camera access for the browser.
+    - [KNN Classifier on multiple hands](https://editor.p5js.org/yining/sketches/C91TLtexi): Change `HAND_NUM = 2` if you would like to detect other hand numbers. Once clicking on "Add example" button, it will start collecting data in 5 seconds for 5 seconds.
+      
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2021-Fall)
 
