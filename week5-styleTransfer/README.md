@@ -21,7 +21,7 @@
 ## See demos live
 - [Style Transfer on one image](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Image/)
 - [Style Transfer on webcam images](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Video/)
-- [AdainStyleTransfer and bodyPix with Runway](https://yining1023.github.io/machine-learning-for-the-web/week5-styleTransfer/AdainStyleTransfer-bodyPix) (Need to host AdainStyleTransfer model in Runway, and change the model url and auth in the code), [p5 web editor link](https://editor.p5js.org/yining/sketches/8LCXJw6un)
+
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2021-fall)
 
