@@ -26,6 +26,10 @@
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2021-fall)
 
+## Style Transfer projects
+- [Cubist Mirror](https://genekogan.com/works/style-transfer/)
+- [Anime/Manga-Style Filter with PoseNet and Style Transfer](https://blog.jzhong.today/mlforweb/Final-Anime-Filter/)
+
 ## Resource:
 - [ml5js style transfer pre-trained models](https://github.com/ml5js/ml5-data-and-models/tree/master/models/style-transfer)
 - [Google Colab](https://colab.research.google.com/)
