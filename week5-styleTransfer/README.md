@@ -1,4 +1,4 @@
-# Week 5 Image Transfermation - Style Transfer
+# Week 6 Image Transfermation - Style Transfer
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1QJumvGwCzErFJFva2LnqNLUmIDp_uz83fPWC6iCR3l0/edit?usp=sharing)
 - What is Style Transfer
