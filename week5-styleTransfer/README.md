@@ -10,7 +10,7 @@
 
 ## Coding session:
 - Running Style Transfer model in ml5.js, [p5 sketch](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-styleTransfer/styleTransfer-ml5/StyleTransfer_Video)
-- Training a new Style Transfer model, Run this [Google Colab](https://colab.research.google.com/drive/1TZNdhoUEBoxQqY5EFloZcuyYUs9oNQ-g?usp=sharing). Watch this [video1](https://www.loom.com/share/dc6751df8b2f4341ac6f836050850e15), [video2](https://www.loom.com/share/6bf37a744aff498ea231358e982b122d)
+- Training a new Style Transfer model, Run this [Google Colab](https://colab.research.google.com/drive/1TZNdhoUEBoxQqY5EFloZcuyYUs9oNQ-g?usp=sharing). Watch this [video1](https://www.loom.com/share/6bf37a744aff498ea231358e982b122d), [video2](https://www.loom.com/share/dc6751df8b2f4341ac6f836050850e15)
   - Some Notes:
     - Open the colab, make sure the GPU is enabled: Menu - Runtime - Change runtime type
     - Run through each cell, wait for each cell to finish running, make sure there is no error in each cell's output
