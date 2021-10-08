@@ -118,19 +118,8 @@ Click into each week, you will see the example for each week.
 
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2021-Fall)
 
-#### pix2pix, GAN
-
-- Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
-- [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-pix2pix)
-
-- Coding session:
-  - Running pix2pix with ml5.js
-  - Setup Spell.run training environment
-  - Prepare dataset for pix2pix
-  - Training a new pix2pix model
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2021-Fall)
-
 ### Week 7 RunwayML
+- Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
 
@@ -192,6 +181,13 @@ Click into each week, you will see the example for each week.
 ### Week 12 Pix2pix
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-pix2pix)
+
+- Coding session:
+  - Running pix2pix with ml5.js
+  - Setup Spell.run training environment
+  - Prepare dataset for pix2pix
+  - Training a new pix2pix model
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2021-Fall)
 
 ### Week 13 User Testing
 
