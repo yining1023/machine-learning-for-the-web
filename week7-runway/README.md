@@ -2,7 +2,7 @@
 ## [Introduction to Runway](https://learn.runwayml.com/#/):
 - Install Runway
 - Run a model in Runway, input, output, network, export
-- Chain models in Runway
+- Chain models in Runway: im2txt->AttnGAN
 - Host models in Runway
 
 ## Demo session:
