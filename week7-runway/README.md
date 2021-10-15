@@ -65,7 +65,6 @@
 ## Resource:
 - [Get started with Runway](https://learn.runwayml.com/#/)
 - [Creating a custom GPT-2 Slack Bot with RunwayML’s hosted models.](https://medium.com/runwayml/creating-a-custom-gpt-2-slack-bot-with-runwaymls-hosted-models-c639fe135379)
-- [Ellen's runway workshop](https://github.com/ellennickles/painting-landscapes-with-the-body)
 - [Runwayml with p5.js](https://github.com/runwayml/p5js)
 - [Runway with Processing](https://github.com/runwayml/processing-library)
 - [Runway with Photoshop](https://github.com/runwayml/RunwayML-for-Photoshop)
