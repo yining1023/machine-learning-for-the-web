@@ -75,8 +75,8 @@ function draw(){
 }
 
 function newDrawing(data){
-    if(data && data.text) {
-      output_text = data.text;
+    if(data && data.generated_text) {
+      output_text = data.generated_text;
     }
 }
 
