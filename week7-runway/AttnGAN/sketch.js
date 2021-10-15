@@ -19,7 +19,7 @@
 // Gets an image from Runway via HTTP Post request with a text
 
 // Update the following url based on the server address shown in your Runway app under Input--Network
-const url = 'http://localhost:8006/query';
+const url = 'http://localhost:8000/query';
 let textInput;
 let button; 
 
