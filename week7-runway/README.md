@@ -44,7 +44,7 @@
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2020-Fall)
 
-## Runway projects
+## Related projects
 - [Made with Runway](https://runwayml.com/madewith)
 - [Generated fairytales](http://www.dh.umu.se/en/stories?id=41555)
 - [Monster GAN](https://medium.com/@huangkaikai/computational-creativity-generative-creature-design-for-concept-art-c4a1180ae0e6)
@@ -59,6 +59,8 @@
 - [Mayan symbols generator](https://twitter.com/fabe_45/status/1278447673960534021)
 - [ChairGAN](https://twitter.com/adampickard/status/1275796544072138754)
 - [New Balance Shoes generator](https://medium.com/runwayml/augmenting-the-design-process-onur-yuce-gun-creative-manager-of-computational-design-new-f59de3d1abaa)
+- [No Machine is an Island](https://medium.com/@lyxsix/no-machine-is-an-island-497e92e9927e) by Yuxi Liu and Larissa Pschetz
+- [Introspectons](https://medium.com/runwayml/introspections-9cb6660c0311) by Philipp Schmitt
 
 ## Resource:
 - [Get started with Runway](https://learn.runwayml.com/#/)
@@ -69,3 +71,9 @@
 - [Runway with Photoshop](https://github.com/runwayml/RunwayML-for-Photoshop)
 - [Runway with Unity](https://github.com/runwayml/RunwayML-for-Unity)
 - [Made with Runway](https://runwayml.com/madewith)
+- Videos
+  - [Getting Started with RunwayML](https://www.youtube.com/playlist?list=PLj598ZXODDO8oS5V1zS_IvMfT_wWWQb_6)
+  - [The Coding Train: Introduction to Runway: Machine Learning for Creators (Part 1)](https://www.youtube.com/watch?v=ARnf4ilr9Hc&t=1s)
+  - [Intro to Machine Learning with Gene Kogan](https://www.youtube.com/playlist?list=PLj598ZXODDO_oWYAiO5c0Ac05IyrPUG8t)
+- [Machine Learning En Plein Air: Building accessible tools for artists](https://medium.com/runwayml/machine-learning-en-plein-air-building-accessible-tools-for-artists-87bfc7f99f6b) by Cristóbal Valenzuela
+- [Runway: Adding artificial intelligence capabilities to design and creative platforms](https://nips2018creativity.github.io/doc/runway.pdf) by Cristóbal Valenzuela, Alejandro Matamala, and Anastasis Germanidis
