@@ -19,7 +19,7 @@
 // Sends an image to Runway via HTTP Post request, get the caption of the image back
 
 // Update the following url based on the server address shown in your Runway app under Input--Network
-const url = 'http://localhost:8002/query';
+const url = 'http://localhost:8000/query';
 let myCanvas, video, button; 
 
 function setup() {
@@ -41,7 +41,7 @@ function draw() {
 // Create some instruction text
 function createInstruction() {
   createElement('h1', 'Runway im2txt(image to  text) model with p5.js');
-  createElement('p', '1. Open Runway, add im2txt model to your workspace <br>2. Select "Network" as input and ouput, Run the model<br>3. Update the "port" variable in the "sketch.js" file to the number shown in Runway input "Network" window, e.g. http://localhost:8006<br>4. Run the sketch<br>5. Click the "image to text" button get a caption of the image from your webcam.');
+  createElement('p', '1. Open Runway, add im2txt model to your workspace <br>2. Select "Network" as input and ouput, Run the model<br>3. Update the "port" variable in the "sketch.js" file to the number shown in Runway input "Network" window, e.g. http://localhost:8000<br>4. Run the sketch<br>5. Click the "image to text" button get a caption of the image from your webcam.');
 }
 
 // Create a button
