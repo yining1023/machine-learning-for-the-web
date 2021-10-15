@@ -16,7 +16,6 @@
 - Runway Hosted Models and Networks, with p5.js
   - AttnGAN(text2image) in Runway with p5js
   - Im2txt in Runway with p5js
-  - PhotoSketch in Runway - ColoringBook
   - deeplab in Runway with p5.js
   - GPT2 in Runway with p5.js
   - CycleGAN in Runway with p5.js
@@ -30,7 +29,6 @@
 ### Runway Network
   - [AttnGAN(text to image)](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/AttnGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/AttnGAN)
   - [im2txt](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/im2txt/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/im2txt)
-  - [ColoringBook Runway](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/PhotoSketch/ColoringBook/), [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/PhotoSketch/ColoringBook)
   - [deeplab Runway](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/deeplab/), Need to run deeplab at `http://localhost:8000` in Runway
   - [GPT2](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/GPT2/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/GPT2)
   - [CycleGAN](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/CycleGAN/) with Runway and p5js, [See instruction](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway/CycleGAN)
