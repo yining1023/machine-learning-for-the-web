@@ -6,7 +6,7 @@
     Your Runway interface should look like this:
     <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week7-runway/im2txt/images/demo1.png" width="500">
 
-3. Update the "port" variable in the "sketch.js" file to the number shown in Runway input "Network" window, e.g. http://localhost:8006
+3. Update the "port" variable in the "sketch.js" file to the number shown in Runway input "Network" window, e.g. http://localhost:8000
 4. Run the sketch
     Go to current directory
     ```
