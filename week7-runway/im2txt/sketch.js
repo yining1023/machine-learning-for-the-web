@@ -61,9 +61,9 @@ function image2Txt() {
     };
     // Send HTTP Post request to Runway with text, runway will return the output image src
     httpPost(url, 'json', postData, (output) => {
-      if (output && output.results && output.results[0]) {
-        console.log('results: ', output.results[0].caption)
-        createElement('h2', output.results[0].caption);
+      if (output && output.caption) {
+        console.log('results: ', output.caption)
+        createElement('h2', output.caption);
 
         // Call image2Txt again
         image2Txt();
