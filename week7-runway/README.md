@@ -7,7 +7,7 @@
 
 ## Demo session:
 - Runway Models
-  - First Order Motion, Deoldify, UGATIT, Few-Shot-Face-Translation-GAN(Swap faces), MUNIT(faces to flowers), CartoonGAN, Image Super Resolution
+  - Deoldify, UGATIT, Few-Shot-Face-Translation-GAN(Swap faces), MUNIT(faces to flowers), CartoonGAN, Image Super Resolution
   - GPT2, ChinesePoetry 
   - StyleGAN, SkyGAN, PokemonGAN
   - deeplab, Spade-Coco, Yolov4, U2net, MiDas,
