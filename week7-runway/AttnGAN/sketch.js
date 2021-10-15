@@ -33,7 +33,7 @@ function setup() {
 // Create some instruction text
 function createInstruction() {
   createElement('h1', 'Runway AttnGAN(text to image) model with p5.js');
-  createElement('p', '1. Open Runway, add AttnGAN model to your workspace <br>2. Select "Network" as input and ouput, Run the model<br>3. Update the "port" variable in the "sketch.js" file to the number shown in Runway input "Network" window, e.g. http://localhost:8006<br>4. Run the sketch<br>5. Type a sentence in the input below, click the "text to image" button get a an image.');
+  createElement('p', '1. Open Runway, add AttnGAN model to your workspace <br>2. Select "Network" as input and ouput, Run the model<br>3. Update the "port" variable in the "sketch.js" file to the number shown in Runway input "Network" window, e.g. http://localhost:8000<br>4. Run the sketch<br>5. Type a sentence in the input below, click the "text to image" button get a an image.');
 }
 
 // Create text input
