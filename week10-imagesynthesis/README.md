@@ -47,4 +47,4 @@
 * [Machine Learning Font](http://www.machinelearningfont.com/)
 * [Stylegan trained on 6000 isometric procedural buildings](https://twitter.com/lasdairmott/status/1234756842166767616?s=20)
 
-### [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
+### [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2021-Fall)
