@@ -45,6 +45,7 @@
 - [Hugging face transformers](https://github.com/huggingface/transformers)
 - [CharRNN from ml5js](https://learn.ml5js.org/docs/#/reference/charrnn)
 - [Train CharRNN ml5js model](https://github.com/ml5js/training-charRNN)
+- Learning about [Transformer models](https://huggingface.co/course/chapter1) on Huggingface
 
 ### RNN Related Projects:
 - 🍿 [Sunspring](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
