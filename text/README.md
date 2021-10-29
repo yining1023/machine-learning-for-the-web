@@ -36,7 +36,6 @@
 - [CharRNN_Text](https://yining1023.github.io/machine-learning-for-the-web/text/CharRNN_Text)
 - [CharRNN_Text_Stateful](https://yining1023.github.io/machine-learning-for-the-web/text/CharRNN_Text_Stateful)
 - [GPT-2 in p5 web editor](https://editor.p5js.org/yining/sketches/o6nhfMfu), need to run Runway GPT-2 model at `localhost:8000`
-- [ml5.js word2vec](https://editor.p5js.org/ml5/sketches/Word2Vec_Interactive), [doc](https://learn.ml5js.org/docs/#/reference/word2vec)
 
 ### Resources
 - [Training text generator with Runway](https://youtu.be/-v5StaeOisM)
