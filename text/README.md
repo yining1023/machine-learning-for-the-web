@@ -1,10 +1,13 @@
 # Text Generation
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1oFxNwLSgPF_RXHqZFa-LRvL2e6Ch2V_Qz9OSRwZiFMs/edit?usp=sharing)
-
+- Word2Vec
+- Universal Sentence Encoder
+- Sentiment
 - LSTM/CharRNN
 - GPT-2
 - How to train a GPT-2 with our own dataset
+- GPT-3
 
 ### Coding sessions
 
