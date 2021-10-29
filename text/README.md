@@ -55,4 +55,4 @@
 - 🎶 [RNN for generating Baroque Music video](https://www.youtube.com/watch?v=SacogDL_4JU)
 - 📖 [Let's Read a Story](https://medium.com/ml5js/lets-read-a-story-talking-to-books-using-semantic-similarity-f283168b4264) by Itay Niv
 
-### [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2020-Fall)
+### [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2021-Fall)
