@@ -23,7 +23,7 @@
 * [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://heartbeat.fritz.ai/animated-stylegan-image-transitions-with-runwayml-57a2e20db80f)
 
 ### Datasets
-- [Illustrations of the Natural World](https://www.flickr.com/search/?user_id=61021753%40N02&view_all=1&text=apple), search for different words
+- [Illustrations of the Natural World](https://www.flickr.com/search/?user_id=61021753%40N02&view_all=1&text=flower), search for different words
 - Flickr API: https://github.com/antiboredom/flickr-scrape. You can get an API key here: https://www.flickr.com/services/api/misc.api_keys.html
 - Google maps
 - [Noun projects](https://thenounproject.com/)
