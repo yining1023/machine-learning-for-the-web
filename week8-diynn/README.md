@@ -25,7 +25,7 @@
 - [NeuralNetwork_titanic](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_titanic)
 - [NeuralNetwork_xy_classifier](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_xy_classifier)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2020-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2021-Fall)
 
 ## Resource:
 - ml5.js: Train Your Own Neural Network
