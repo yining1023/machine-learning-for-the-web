@@ -14,7 +14,7 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
 
 ## Info
 
-- Yining Shi, Tuesday, 6:40 PM - 9:10 PM, 370 Jay Street, Room 410 Loc: Brooklyn Campus, Zoom meeeting, 09/03/2021 - 12/10/2021
+- Yining Shi, Friday, 6:40 PM - 9:10 PM, 370 Jay Street, Room 410 Loc: Brooklyn Campus, Zoom meeeting, 09/03/2021 - 12/10/2021
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
 - [All class dates](https://itp.nyu.edu/registration/Schedule.php?year=2021&semester=Fall)
 
