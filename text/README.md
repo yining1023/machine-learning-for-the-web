@@ -1,6 +1,7 @@
 # Text Generation
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1oFxNwLSgPF_RXHqZFa-LRvL2e6Ch2V_Qz9OSRwZiFMs/edit?usp=sharing)
+
 - Word2Vec
 - Universal Sentence Encoder
 - Sentiment
@@ -29,7 +30,6 @@
 - [Enron](https://enron.email) (600,000+ employee emails made public during fraud investigation)
 - [Scrapping Reddit data](https://towardsdatascience.com/scraping-reddit-data-1c0af3040768)
 
-
 ### Code Examples
 
 - [Sentiment](https://yining1023.github.io/machine-learning-for-the-web/text/Sentiment)
@@ -40,6 +40,7 @@
 - [GPT-2 in p5 web editor](https://editor.p5js.org/yining/sketches/o6nhfMfu), need to run Runway GPT-2 model at `localhost:8000`
 
 ### Resources
+
 - [Training text generator with Runway](https://youtu.be/-v5StaeOisM)
 - [Better Language Models
   and Their Implications: GPT-2 Blog](https://openai.com/blog/better-language-models/)
@@ -50,6 +51,7 @@
 - Learning about [Transformer models](https://huggingface.co/course/chapter1) on Huggingface
 
 ### RNN Related Projects:
+
 - 🍿 [Sunspring](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
 - 🎨 [Double Agent](http://littlepig.org.uk/installations/doubleagent/index.htm) by Simon Biggs (Drawing)
 - 🎨 [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/) (Drawing)
@@ -60,4 +62,4 @@
 - 🎶 [RNN for generating Baroque Music video](https://www.youtube.com/watch?v=SacogDL_4JU)
 - 📖 [Let's Read a Story](https://medium.com/ml5js/lets-read-a-story-talking-to-books-using-semantic-similarity-f283168b4264) by Itay Niv
 
-### [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2021-Fall)
+### [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2023-Spring)

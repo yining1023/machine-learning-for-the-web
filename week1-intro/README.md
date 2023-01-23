@@ -1,6 +1,7 @@
 # Week 1 Introduction to Machine Learning
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1s0iT382Pl1DMGKb5xhk7_V3DlW1QQHfHs4snNoS_sIU/edit?usp=sharing)
+
 - What’s Artificial Intelligence, Machine Learning, Deep learning?
 - Supervised Learning, Unsupervised Learning, Reinforcement Learning
 - Machine Learning output types: Regression, Classification, Clustering, Sequence prediction
@@ -9,6 +10,7 @@
 - Introduction to ml5.js, tf.js, examples, experiments, datasets
 
 ## Coding session:
+
 - Install ml5.js, [get started](https://ml5js.org/getting-started/)
 - Running [Image Classification](https://ml5js.org/reference/api-ImageClassifier/) example with ml5.js
 - Advance
@@ -16,6 +18,7 @@
   - Running tf.js [get started example](https://github.com/tensorflow/tfjs-examples/tree/master/getting-started)
 
 ## See demos live
+
 - [Image classifier on an image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification/)
 - [Image classifier with webcam](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_Video/)
 - [Image classifier with webcam plain javascript](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_Video_js/)(This demo works on Mobile Phone. Please use Safari browser on ios(iPhone), or Chrome browser on android phone)
@@ -28,9 +31,10 @@
   - [Object Detection-YOLO-Image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/ObjectDetector/ObjectDetector_YOLO_single_image)
   - [Object Detection-YOLO-Webcam](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/ObjectDetector/ObjectDetector_YOLO_Video)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2021-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2023-Spring)
 
 ## Resources:
+
 - ml5.js [examples](https://github.com/ml5js/ml5-examples)
 - [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/)
 - tf.js [examples](https://github.com/tensorflow/tfjs-examples)
@@ -39,6 +43,7 @@
 - [ml5 image classifier webcam](https://editor.p5js.org/yining/sketches/TKI4SkqM5) (also works on the mobile phone, [full screen](https://editor.p5js.org/yining/full/TKI4SkqM5))
 
 ## Inspirations about image classifier
+
 - [Emojis Cavenger Hunt](https://emojiscavengerhunt.withgoogle.com/)
 - [Thing Translator](https://experiments.withgoogle.com/ai/thing-translator)
 - [Giorgio Cam](https://experiments.withgoogle.com/ai/giorgio-cam)

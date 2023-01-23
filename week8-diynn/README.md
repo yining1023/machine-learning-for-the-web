@@ -1,14 +1,17 @@
 # DIY Neural Network with ml5.js
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1PkU1P8kFvpEr3JoR0cYCyZ-HmZ3CXeeVoKXHWQc7TWk/edit?usp=sharing)
+
 - 7 steps of Machine Learning
 - What is Neural Network
 - How to build a Neural Network with ml5.js
 
 ## Coding session:
+
 - DIY Neural Network with ml5.js
 
 ## See demos live
+
 - [NeuralNetwork_Simple-Classification](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_Simple-Classification)
 - [NeuralNetwork_Simple-Regression](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_Simple-Regression)
 - [NeuralNetwork_XOR](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_XOR)
@@ -25,9 +28,10 @@
 - [NeuralNetwork_titanic](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_titanic)
 - [NeuralNetwork_xy_classifier](https://yining1023.github.io/machine-learning-for-the-web/week8-diynn/NeuralNetwork_xy_classifier)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2021-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2023-Spring)
 
 ## Resource:
+
 - ml5.js: Train Your Own Neural Network
   - [ml5.js: Train Your Own Neural Network](https://youtu.be/8HEgeAbYphA?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (35 min)
   - [ml5.js: Save Neural Network Training Data](https://youtu.be/q6cwxORPDo8?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (12 min)

@@ -1,6 +1,7 @@
 # Week 4 Face and Hand
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1jSA93R4QJdz2ixko4wSyfrVsa523u042V4DQknTEssc/edit?usp=sharing)
+
 - Face recognition
   - Face-api
   - Face Mesh
@@ -8,11 +9,13 @@
   - HandPose
 
 ## Coding session:
+
 - Face-api
 - Face Mesh
 - HandPose
 
 ## See demos live
+
 - Face-api
   - [FaceApi_Image_Landmarks](https://yining1023.github.io/machine-learning-for-the-web/face-hand/FaceApi/FaceApi_Image_Landmarks)
   - [FaceApi_Video_Landmarks](https://yining1023.github.io/machine-learning-for-the-web/face-hand/FaceApi/FaceApi_Video_Landmarks)
@@ -32,11 +35,11 @@
   - Multiple hands detection:
     - [Handpose multiple hands with mediapipe](https://editor.p5js.org/yining/sketches/cME_7BnLW) If the webcam video is not loading, try open a incognito window, or set the camera access for the browser.
     - [KNN Classifier on multiple hands](https://editor.p5js.org/yining/sketches/C91TLtexi): Change `HAND_NUM = 2` if you would like to detect other hand numbers. Once clicking on "Add example" button, it will start collecting data in 5 seconds for 5 seconds.
-      
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2021-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2023-Spring)
 
 # Resource
+
 - [ml5js - faceapi](https://learn.ml5js.org/#/reference/face-api)
 - [ml5js - faceMesh source](https://github.com/ml5js/ml5-library/blob/development/src/Facemesh/index.js)
 - [ml5js - handPose source](https://github.com/ml5js/ml5-library/blob/development/src/Handpose/index.js)
@@ -45,6 +48,7 @@
 - [tfjs - handPose](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
 
 # Projects
+
 - [LipSync game using Face Mesh model](https://lipsync.withyoutube.com/)
 - [Customizable AR face masks - Made with TensorFlow.js](https://www.youtube.com/watch?v=TpiGFaHC_5U)
 - [fingerspelling](https://fingerspelling.xyz/)

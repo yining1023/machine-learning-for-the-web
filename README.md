@@ -14,9 +14,8 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
 
 ## Info
 
-- Yining Shi, Friday, 6:40 PM - 9:10 PM, 370 Jay Street, Room 410 Loc: Brooklyn Campus, Zoom meeeting, 09/03/2021 - 12/10/2021
+- Yining Shi, Wednesday, 6:00 PM - 8:30 PM, 370 Jay Street, Room 411 Loc: Brooklyn Campus, In person, 01/25/2023 - 5/3/2023
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
-- [All class dates](https://itp.nyu.edu/registration/Schedule.php?year=2021&semester=Fall)
 
 ## Help
 
@@ -58,7 +57,7 @@ Click into each week, you will see the example for each week.
   - Hosting p5 sketch on github or use p5 web editor
   - How to updating homework wiki
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2023-Spring)
 
 ### Week 2 Image Classification (Transfer Learning, KNN Classifier)
 
@@ -68,7 +67,7 @@ Click into each week, you will see the example for each week.
 
   - Make a KNN Image Classifier
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2023-Spring)
 
 ### Week 3 Pose (PoseNet, BodyPix, U-Net)
 
@@ -80,7 +79,7 @@ Click into each week, you will see the example for each week.
   - PoseNet + KNN Image Classifier
   - Body-pix
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2023-Spring)
 
 ### Week 4 Face and Hand
 
@@ -92,7 +91,7 @@ Click into each week, you will see the example for each week.
   - Facemesh
   - Handpose
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2023-Spring)
 
 ### Week 5 Sound Classifier
 
@@ -105,7 +104,7 @@ Click into each week, you will see the example for each week.
   - Image Classifier with Teachable Machine
   - Classifiers with Arduino
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2023-Spring)
 
 ### Week 6 Image Transformation, Style transfer
 
@@ -116,9 +115,10 @@ Click into each week, you will see the example for each week.
   - Training a new Style Transfer model
   - Running Style Transfer model in ml5.js
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2023-Spring)
 
 ### Week 7 RunwayML
+
 - Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
@@ -129,7 +129,7 @@ Click into each week, you will see the example for each week.
 
   - Runway ML
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2023-Spring)
 
 ### Week 8 Image Synthesis(StyleGAN)
 
@@ -141,7 +141,7 @@ Click into each week, you will see the example for each week.
   - Create latent space animation
   - Train your own styleGAN
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2023-Spring)
 
 ### Week 9 Text Generation(GPT-2)
 
@@ -155,7 +155,7 @@ Click into each week, you will see the example for each week.
   - Runway GPT-2
   - Train your own GPT-2
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2023-Spring)
 
 ### Week 10 DIY Neural Network with ml5.js
 
@@ -165,7 +165,7 @@ Click into each week, you will see the example for each week.
 
   - Build a Neural Network with ml5.js
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2023-Spring)
 
 ### Week 11 DIY CNN model: Doodle Classifier
 
@@ -176,7 +176,7 @@ Click into each week, you will see the example for each week.
   - Build a CNN with ml5js
   - Build a doodle classifier with tf.js
 
-- [Homework - Final project proposal](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-11-2021-Fall)
+- [Homework - Final project proposal](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-11-2023-Spring)
 
 ### Week 12 Pix2pix
 
@@ -187,7 +187,7 @@ Click into each week, you will see the example for each week.
   - Setup Spell.run training environment
   - Prepare dataset for pix2pix
   - Training a new pix2pix model
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2021-Fall)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2023-Spring)
 
 ### Week 13 User Testing
 

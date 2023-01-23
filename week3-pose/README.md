@@ -1,18 +1,21 @@
 # Week 3 Poses
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/16fUTCFbxCX3C0aPQRpgaFZEi4IW_61JGmj4Lu0YRXrc/edit?usp=sharing)
+
 - What is poseNet
 - Existing projects related to poseNet
 - What is Bodypix
 - What is UNET
 
 ## Coding session:
+
 - Posnet
 - poseNet + KNN Image Classifier
 - BodyPix
 - UNET
 
 ## See demos live
+
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet/)
 - [Posnet Multiple Noses](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_mutil_noses) (Detect multiple poses, draw nose on each pose)
 - [Posenet Nose tail](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_Nose_Tail) Save nose previous positions
@@ -31,10 +34,10 @@
 - [BodyPix Change Background](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-change-background/)
 - [UNET_webcam](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/UNET_webcam/)
 
-
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2021-Fall)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2023-Spring)
 
 ## Inspirations about Pose:
+
 - [Moving morrir](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
 - [Sidewalk Orchestra](https://github.com/cvalenzuela/sidewalk_orchestra)
 - [Making music by posing melody shapes to my webcam](https://t.co/RN9qQTDkti)
@@ -49,4 +52,3 @@
 - [Web Olympic](https://vibertthio.com/web-olympic/)
 - [AR Body Filter](https://sheeborshee.com/AR-body-filters-2019)
 - [ballet rotoscope](https://www.youtube.com/watch?v=yzJk6ww3LD0)
-
