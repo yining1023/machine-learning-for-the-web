@@ -5,7 +5,7 @@
 ### Sound Classifier with Arduino and Teachable Machine
 
 - [Demo video](https://youtu.be/bmyncxth3_Y), [Demo made by Cara Neels](https://vimeo.com/363431151)
-- <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/master/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
+- <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/main/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
 
 #### Steps
 
