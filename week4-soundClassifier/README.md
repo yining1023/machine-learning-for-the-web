@@ -77,7 +77,7 @@
 
 ## Inspirations about Teachable Machine:
 
-- [Airi Flies](https://www.yonaymoris.me/projects/airiflies)
+- [Airi Flies](https://yonaymoris.github.io/AiriFlies/)
 - [Eyeo 2019 - Coding Train Race](https://vimeo.com/354276216), [code](https://github.com/CodingTrain/Eyeo-Festival-2019)
 - [Teachable Snake](https://experiments.withgoogle.com/teachable-snake)
 - [Move that Little Dude](https://dylandawkinsblog.wordpress.com/2019/05/08/machine-learning-for-web-final/)
