@@ -1,5 +1,7 @@
 # Image Generation
 
+## Presentation: [Slides](https://docs.google.com/presentation/d/19oIbxS1SRf3VhXyKDNIStmsYJL7v6vWLzkuOH3ViqQE/edit#slide=id.g1802b953517_0_471)
+
 ## Objectives
 
 - What is foundation model
