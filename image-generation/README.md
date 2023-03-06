@@ -4,7 +4,7 @@
 
 ## Objectives
 
-- What is foundation model
+- What is GAN model
 - What is diffusion model
 - Become familiar with Runway and understand how to run new models/tools in the browser.
 - Explore DALL-E 2 image generation tool
