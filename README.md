@@ -107,14 +107,9 @@ Click into each week, you will see the example for each week.
 
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2023-Spring)
 
-### Week 6 Image Transformation, Style transfer
+### Week 6 Image Generation
 
-- [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week5-styleTransfer)
-
-- Coding session:
-
-  - Training a new Style Transfer model
-  - Running Style Transfer model in ml5.js
+- [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/image-generation)
 
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2023-Spring)
 
