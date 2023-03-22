@@ -117,27 +117,13 @@ Click into each week, you will see the example for each week.
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/runway)
 
-- More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/runway)
-
 - Coding session:
 
   - Runway ML
 
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2023-Spring)
 
-### Week 8 Image Synthesis(StyleGAN)
-
-- [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week10-imagesynthesis)
-
-- Coding session:
-
-  - Using pre-trained styleGAN models in Runway
-  - Create latent space animation
-  - Train your own styleGAN
-
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-8-2023-Spring)
-
-### Week 9 Text Generation(GPT-2)
+### Week 8 Text Generation
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/text)
 
@@ -146,12 +132,14 @@ Click into each week, you will see the example for each week.
   - ml5js Word2Vec
   - ml5js Sentiment
   - ml5js CharRNN
-  - Runway GPT-2
-  - Train your own GPT-2
+  - GPT-2
+  - GPT-3
+  - ChatGPT
+  - GPT-4
 
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2023-Spring)
 
-### Week 10 DIY Neural Network with ml5.js
+### Week 9 DIY Neural Network with ml5.js
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
 
@@ -161,7 +149,7 @@ Click into each week, you will see the example for each week.
 
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-10-2023-Spring)
 
-### Week 11 DIY CNN model: Doodle Classifier
+### Week 10 DIY CNN model: Doodle Classifier
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/cnn)
 
@@ -172,18 +160,11 @@ Click into each week, you will see the example for each week.
 
 - [Homework - Final project proposal](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-11-2023-Spring)
 
-### Week 12 Pix2pix
+### Week 11 Final Project Proposals
 
-- [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week6-pix2pix)
+### Week 12 Final Project Development
 
-- Coding session:
-  - Running pix2pix with ml5.js
-  - Setup Spell.run training environment
-  - Prepare dataset for pix2pix
-  - Training a new pix2pix model
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-7-2023-Spring)
-
-### Week 13 User Testing
+### Week 13 Final Project Testing
 
 ### Week 14 Final Project Presentation
 
