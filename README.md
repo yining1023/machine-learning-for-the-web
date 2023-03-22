@@ -115,11 +115,9 @@ Click into each week, you will see the example for each week.
 
 ### Week 7 RunwayML
 
-- Review: Showing the homework from last week, discuss any difficulties when you are training your own style trasnfer model
+- [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/runway)
 
-- [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
-
-- More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week7-runway)
+- More code examples and demo [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/runway)
 
 - Coding session:
 
