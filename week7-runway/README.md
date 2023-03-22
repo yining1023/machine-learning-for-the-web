@@ -1,4 +1,4 @@
-# Week 7 Runway
+# Week 7 Runway (DEPRECATED, see the new version https://github.com/yining1023/machine-learning-for-the-web/tree/main/runway)
 ## [Introduction to Runway](https://learn.runwayml.com/#/):
 - Install Runway
 - Run a model in Runway, input, output, network, export
