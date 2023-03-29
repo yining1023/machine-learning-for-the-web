@@ -9,9 +9,12 @@
 - GPT-2
 - How to train a GPT-2 with our own dataset
 - GPT-3
+- ChatGPT
+- GPT-4
 
 ### Coding sessions
-
+- ChatGPT
+- GPT 3/4 API
 - Word2Vec with ml5js
 - Sentiment with ml5js
 - CharRNN with ml5js
