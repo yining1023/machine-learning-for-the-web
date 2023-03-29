@@ -12,7 +12,8 @@
 - ChatGPT
 - GPT-4
 
-### Coding sessions
+### Exploring sessions
+- Github copilot
 - ChatGPT
 - GPT 3/4 API
 - Word2Vec with ml5js
