@@ -140,6 +140,7 @@ Click into each week, you will see the example for each week.
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2023-Spring)
 
 ### Week 9 DIY Neural Network with ml5.js
+- Guest speaker!
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
 
