@@ -14,7 +14,7 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
 
 ## Info
 
-- Yining Shi, Wednesday, 6:00 PM - 8:30 PM, 370 Jay Street, Room 411 Loc: Brooklyn Campus, In person, 01/25/2023 - 5/3/2023
+- Yining Shi, Friday, 6:00 PM - 8:30 PM, 370 Jay Street, Room 409 Loc: Brooklyn Campus, In person, 01/26/2023 - 5/3/2023
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
 
 ## Help
@@ -132,14 +132,13 @@ Click into each week, you will see the example for each week.
   - ml5js Word2Vec
   - ml5js Sentiment
   - ml5js CharRNN
-  - GPT-2
-  - GPT-3
   - ChatGPT
   - GPT-4
 
 - [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2023-Spring)
 
 ### Week 9 DIY Neural Network with ml5.js
+
 - Guest speaker!
 
 - [Notes](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week8-diynn)
