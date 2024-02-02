@@ -57,7 +57,7 @@ Click into each week, you will see the example for each week.
   - Hosting p5 sketch on github or use p5 web editor
   - How to updating homework wiki
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2024-Spring)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-1-2024-Spring) Due Friday, Feb 2
 
 ### Week 2 Image Classification (Transfer Learning, KNN Classifier)
 
@@ -67,7 +67,7 @@ Click into each week, you will see the example for each week.
 
   - Make a KNN Image Classifier or Teachable machine
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2024-Spring)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2024-Spring) (Continue with Week 1 (Image classifier))
 
 ### Week 3 Pose (PoseNet, BodyPix, U-Net)
 
