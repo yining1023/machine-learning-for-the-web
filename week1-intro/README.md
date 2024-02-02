@@ -19,8 +19,15 @@
 
 ## See demos live
 
-- [Image classifier on an image](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification/)
-- [Image classifier with webcam](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_Video/)
+- [Image Classification](https://editor.p5js.org/ml5/sketches/ImageClassification)
+- [Drag and Drop Image Classification](https://editor.p5js.org/ima_ml/sketches/rnm3SJmMd)
+- [Webcam Image Classification](https://editor.p5js.org/ml5/sketches/ImageClassification_Video)
+- [Webcam Image Classification Text to Speech](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoSound)
+- [Webcam Image Classification Text to Speech with Translation](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoSoundTranslate)
+- [Image Classification Scavenger Hunt](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoScavengerHunt)
+- [Canvas Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Canvas)
+- [Webcam Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Video)
+  
 - [Image classifier with webcam plain javascript](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_Video_js/)(This demo works on Mobile Phone. Please use Safari browser on ios(iPhone), or Chrome browser on android phone)
 - [Image classifier with speech output using MobileNet and p5.speech](https://yining1023.github.io/machine-learning-for-the-web/week1-intro/imageClassification-ml5/ImageClassification_VideoSound/).
 - [Image classifier with translated restults and speech output using MobileNet, Google Translate API and p5.speech](https://youtu.be/DmAZ42g7nRQ) (To run this example, you need to replace the google API key in the `sketch.js`)
