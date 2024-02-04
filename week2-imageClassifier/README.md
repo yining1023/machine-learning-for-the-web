@@ -24,7 +24,7 @@
 - [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSquare/)
 - [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/FeatureExtractor_Image_Regression/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2023-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-2-2024-Spring)
 
 ## Inspirations about KNN image classifier:
 
