@@ -39,6 +39,8 @@
 - [Teachable Sorter](https://experiments.withgoogle.com/teachable-snake)
 - [Teachable Arcade](https://teachable-arcade.glitch.me/)
 - [Eyeo Festival 2019 - Coding train](https://vimeo.com/354276216), [code](https://github.com/CodingTrain/Eyeo-Festival-2019)
+- [Regression shapes](https://github.com/jooohyunpark/regression?tab=readme-ov-file)
+- [Creative writing](https://blog.jzhong.today/computationaltypo/Asemic-Writing-Teachable-Machine/)
 
 ## Resource:
 
