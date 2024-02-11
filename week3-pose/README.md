@@ -32,7 +32,7 @@
 - [BodyPix Change Background](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-change-background/)
 - [UNET_webcam](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/UNET_webcam/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2024-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2024-Spring)
 
 ## Inspirations about Pose:
 
