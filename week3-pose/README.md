@@ -5,14 +5,12 @@
 - What is poseNet
 - Existing projects related to poseNet
 - What is Bodypix
-- What is UNET
 
 ## Coding session:
 
 - Posnet
 - poseNet + KNN Image Classifier
 - BodyPix
-- UNET
 
 ## See demos live
 
@@ -34,7 +32,7 @@
 - [BodyPix Change Background](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/bodypix-change-background/)
 - [UNET_webcam](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/UNET_webcam/)
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2023-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2023-Spring)
 
 ## Inspirations about Pose:
 
