@@ -15,7 +15,11 @@
 - HandPose
 
 ## See demos live
-
+- New ml5js next gen handpose ([ml5 next gen](https://github.com/ml5js/ml5-next-gen), [All examples](https://github.com/ml5js/ml5-next-gen/tree/main/examples))
+  - [handpose start and stop](https://editor.p5js.org/yining/sketches/PLf5QNeFA)
+  - [handpose keypoints](https://editor.p5js.org/yining/sketches/H7qZS8iMF)
+  - [handpose parts](https://editor.p5js.org/yining/sketches/2WwwqrhNl)
+  - [handpost image](https://editor.p5js.org/yining/sketches/624wmm2X5)
 - Face-api
   - [FaceApi_Image_Landmarks](https://yining1023.github.io/machine-learning-for-the-web/face-hand/FaceApi/FaceApi_Image_Landmarks)
   - [FaceApi_Video_Landmarks](https://yining1023.github.io/machine-learning-for-the-web/face-hand/FaceApi/FaceApi_Video_Landmarks)
