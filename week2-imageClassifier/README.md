@@ -15,6 +15,7 @@
 - Make a Image Classifier with Teachable Machine
 - Make a KNN Image Classifier
 - Regression with feature extractor
+- https://editor.p5js.org/yining/sketches/wlAeImtDq
 
 ## See demos live
 
