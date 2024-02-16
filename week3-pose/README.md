@@ -15,7 +15,7 @@
 ## See demos live
 - New ml5js next gen handpose ([ml5 next gen](https://github.com/ml5js/ml5-next-gen), [All examples](https://github.com/ml5js/ml5-next-gen/tree/main/examples))
 - New body pose blaze pose [Blazepose-keypoints-ml5-next-gen](https://editor.p5js.org/yining/sketches/2WEyiBBNq) (more points, more stable)
-p5 Web Editor examples:
+- p5 Web Editor examples:
 - [PoseNet Webcam Part Selection](https://editor.p5js.org/ml5/sketches/PoseNet_part_selection)
 - [PoseNet Webcam Full Skeleton](https://editor.p5js.org/ml5/sketches/PoseNet_webcam)
 - [PoseNet Single Image](https://editor.p5js.org/ima_ml/sketches/Gq9bIvoW1)
