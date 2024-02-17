@@ -48,6 +48,9 @@
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2024-Spring)
 
+- ml5js next gen: `https://unpkg.com/ml5@0.20.0-alpha.3/dist/ml5.js`
+- ml5js next gven examples: https://editor.p5js.org/ml5/collections/pUzWMkdmE
+
 ## Inspirations about Pose:
 
 - [Moving morrir](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23?linkId=54484629)
