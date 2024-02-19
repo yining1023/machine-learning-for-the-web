@@ -80,7 +80,7 @@ Click into each week, you will see the example for each week.
   - PoseNet + KNN Image Classifier
   - Body-pix
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-3-2024-Spring)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2024-Spring)
 
 ### Week 4 Face and Hand
 
@@ -92,7 +92,7 @@ Click into each week, you will see the example for each week.
   - Facemesh
   - Handpose
 
-- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2024-Spring)
+- [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2024-Spring)
 
 ### Week 5 Sound Classifier
 
