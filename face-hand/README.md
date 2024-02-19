@@ -1,4 +1,4 @@
-# Week 4 Face and Hand
+# Week 5 Face and Hand
 
 ## Presentation: [Slides](https://docs.google.com/presentation/d/1jSA93R4QJdz2ixko4wSyfrVsa523u042V4DQknTEssc/edit?usp=sharing)
 
@@ -42,7 +42,7 @@
     - [Handpose multiple hands with mediapipe](https://editor.p5js.org/yining/sketches/cME_7BnLW) If the webcam video is not loading, try open a incognito window, or set the camera access for the browser.
     - [KNN Classifier on multiple hands](https://editor.p5js.org/yining/sketches/C91TLtexi): Change `HAND_NUM = 2` if you would like to detect other hand numbers. Once clicking on "Add example" button, it will start collecting data in 5 seconds for 5 seconds.
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-4-2023-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2024-Spring)
 
 # Resource
 
