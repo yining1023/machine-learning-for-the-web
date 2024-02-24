@@ -13,7 +13,13 @@
 - Face-api
 - Face Mesh
 - HandPose
-
+- https://editor.p5js.org/yining/sketches/u80fdnoxN (emoji face)
+- https://editor.p5js.org/yining/sketches/oen4j13Ip (face mesh with lines)
+- Mouth + particle system https://github.com/yining1023/100days/blob/master/day34-facetracking-mouth/sketch.js
+- [handpose keypoints](https://editor.p5js.org/yining/sketches/3_ZAxFgM8)
+- [handpose-rect](https://editor.p5js.org/yining/sketches/oOdpbcLbT)
+- [handpost-particles](https://editor.p5js.org/yining/sketches/3wk1NrttR)
+  
 ## See demos live
 - New ml5js next gen handpose ([ml5 next gen](https://github.com/ml5js/ml5-next-gen), [All examples](https://github.com/ml5js/ml5-next-gen/tree/main/examples))
 - ml5js next gen: https://unpkg.com/ml5@0.20.0-alpha.3/dist/ml5.js
