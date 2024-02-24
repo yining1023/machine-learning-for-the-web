@@ -15,7 +15,7 @@
 - HandPose
 - https://editor.p5js.org/yining/sketches/u80fdnoxN (emoji face)
 - https://editor.p5js.org/yining/sketches/oen4j13Ip (face mesh with lines)
-- Mouth + particle system https://github.com/yining1023/100days/blob/master/day34-facetracking-mouth/sketch.js
+- Mouth + particle system https://github.com/yining1023/100days/blob/master/day34-facetracking-mouth/sketch.js, [post](https://www.instagram.com/p/BCenYWGwMB0/)
 - [handpose keypoints](https://editor.p5js.org/yining/sketches/3_ZAxFgM8)
 - [handpose-rect](https://editor.p5js.org/yining/sketches/oOdpbcLbT)
 - [handpost-particles](https://editor.p5js.org/yining/sketches/3wk1NrttR)
