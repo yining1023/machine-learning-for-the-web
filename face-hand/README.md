@@ -19,6 +19,7 @@
 - [handpose keypoints](https://editor.p5js.org/yining/sketches/3_ZAxFgM8)
 - [handpose-rect](https://editor.p5js.org/yining/sketches/oOdpbcLbT)
 - [handpost-particles](https://editor.p5js.org/yining/sketches/3wk1NrttR)
+- In class: https://editor.p5js.org/yining/sketches/OupJrGpJA
   
 ## See demos live
 - New ml5js next gen handpose ([ml5 next gen](https://github.com/ml5js/ml5-next-gen), [All examples](https://github.com/ml5js/ml5-next-gen/tree/main/examples))
