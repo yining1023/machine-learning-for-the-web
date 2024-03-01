@@ -51,6 +51,7 @@
     - [KNN Classifier on multiple hands](https://editor.p5js.org/yining/sketches/C91TLtexi): Change `HAND_NUM = 2` if you would like to detect other hand numbers. Once clicking on "Add example" button, it will start collecting data in 5 seconds for 5 seconds.
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2024-Spring)
+- https://editor.p5js.org/yining/sketches/OBv3_O-9k (face api)
 
 # Resource
 
