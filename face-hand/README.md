@@ -52,6 +52,7 @@
 
 ## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2024-Spring)
 - https://editor.p5js.org/yining/sketches/OBv3_O-9k (face api)
+- https://editor.p5js.org/yining/sketches/gvHSkrjO5 (face api mouth)
 
 # Resource
 
