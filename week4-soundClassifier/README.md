@@ -67,7 +67,7 @@
 - [Sound Classifier with Teachable Machine and show gifs](https://editor.p5js.org/yining/sketches/GW1SiSm0W)
 - clsdd https://editor.p5js.org/yining/sketches/ummoQSiBw sound+gif+siren
 
-## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-5-2023-Spring)
+## [Homework](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-6-2024-Spring)
 
 ## Links
 
