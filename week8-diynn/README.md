@@ -109,7 +109,10 @@
 ## Coding session:
 
 - DIY Neural Network with ml5.js
-- Top/Bottom classifier: https://editor.p5js.org/yining/sketches/hH7xkajK0
+  - Top/Bottom classifier: https://editor.p5js.org/yining/sketches/hH7xkajK0
+- OpenAI API
+  - Text generation: https://editor.p5js.org/yining/sketches/cnlmIOoL9
+  - Text to image: https://editor.p5js.org/yining/sketches/ubpprBEg3 
 
 ## See demos live
 
