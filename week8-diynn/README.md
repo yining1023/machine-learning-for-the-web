@@ -112,7 +112,8 @@
   - Top/Bottom classifier: https://editor.p5js.org/yining/sketches/hH7xkajK0
 - OpenAI API
   - Text generation: https://editor.p5js.org/yining/sketches/cnlmIOoL9
-  - Text to image: https://editor.p5js.org/yining/sketches/ubpprBEg3 
+  - Text to image: https://editor.p5js.org/yining/sketches/ubpprBEg3
+- Recording: https://nyu.zoom.us/rec/share/jOoQF0gXrQXcujKOXFWlTwy89WucPTxo7n3QEYq-ZDmpbeHaWG9UeKEKIMXW4WE._ViNdcLvd7tunu7W?startTime=1711750248000
 
 ## See demos live
 
