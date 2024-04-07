@@ -54,7 +54,7 @@
 - [NeuralNetwork_ImageClassifier_Letters](https://yining1023.github.io/machine-learning-for-the-web/cnn/NeuralNetwork_ImageClassifier_Letters)
 - [NeuralNetwork_ImageClassifier_Video](https://yining1023.github.io/machine-learning-for-the-web/cnn/NeuralNetwork_ImageClassifier_Video)
 
-## [Assignment](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-11-2020-Fall)
+## [Assignment](https://github.com/yining1023/machine-learning-for-the-web/wiki/Week-9-2024-Spring)
 
 ### Reading
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn
